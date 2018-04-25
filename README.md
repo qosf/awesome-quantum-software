@@ -16,7 +16,7 @@ Curated list of open-source developed quantum software projects.
 ## Quantum full-stack library
 
 **Python**
-- [QISKit](https://qiskit.org/) - IBM's open-source quantum information software kit for simulating, compiling and executing quantum programs.
+- [QISKit](https://qiskit.org/) - IBM's quantum information software kit for simulating, compiling and executing quantum programs.
 - [Strawberry Fields](https://github.com/xanaduai/strawberryfields) - [Xanadu](https://www.xanadu.ai)'s software library for photonic quantum computing.
 - [Forest](https://github.com/rigetticomputing/pyquil) - [Rigetti](https://www.rigetti.com/)'s software library for writing, simulating, compiling and executing quantum programs.
 
