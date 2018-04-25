@@ -5,18 +5,18 @@ Curated list of open-source developed quantum software projects.
 *Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contributing.*
 
 ##### Contents
-- [Quantum full-stack library](#qlibrary)
-- [Quantum simulators](#qsimulators)
-- [Quantum games](#qgames)
-- [Quantum algorithms](#qalgorithms)
-- [Quantum compilers](#qcompilers)
-- [Quantum assembly](#qassembly)
-- [Abandoned projects](#qassembly)
+- [Quantum full-stack library](#quantum-full-stack-library)
+- [Quantum simulators](#q-simulators)
+- [Quantum games](#quantum-games)
+- [Quantum algorithms](#quantum-algorithms)
+- [Quantum compilers](#quantum-compilers)
+- [Quantum assembly](#quantum-assembly)
+- [Abandoned projects](#abandoned-projects)
 
 ## Quantum full-stack library
 
 **Python**
-- [QISKit](https://qiskit.org/) - IBM's open-source quantum information software kit for writing, simulating, compiling and executing quantum programs.
+- [QISKit](https://qiskit.org/) - IBM's open-source quantum information software kit for simulating, compiling and executing quantum programs.
 - [Strawberry Fields](https://github.com/xanaduai/strawberryfields) - [Xanadu](https://www.xanadu.ai)'s software library for photonic quantum computing.
 - [Forest](https://github.com/rigetticomputing/pyquil) - [Rigetti](https://www.rigetti.com/)'s software library for writing, simulating, compiling and executing quantum programs.
 
@@ -26,7 +26,7 @@ Curated list of open-source developed quantum software projects.
 ## Quantum simulators
 
 **Python**
-- [ProjectQ](https://projectq.ch/) - Hardware-agnostic quantum software framework with compiler plug-ins and quantum simulator with emulation capabilities.
+- [ProjectQ](https://projectq.ch/) - Hardware-agnostic quantum software framework with compiler and simulator with emulation capabilities.
 - [QTop](https://projectq.ch/) - Simulation and visualization of topological quantum computers.
 
 **C++**
