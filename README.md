@@ -6,7 +6,7 @@ Curated list of open-source developed quantum software projects.
 
 ##### Contents
 - [Quantum full-stack library](#quantum-full-stack-library)
-- [Quantum simulators](#q-simulators)
+- [Quantum simulators](#quantum-simulators)
 - [Quantum games](#quantum-games)
 - [Quantum algorithms](#quantum-algorithms)
 - [Quantum compilers](#quantum-compilers)
