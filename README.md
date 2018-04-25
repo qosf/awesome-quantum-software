@@ -1,3 +1,5 @@
+<p align="center"><img src="hopf_fibration.png" alt="bDialog" height="300px"></p>
+
 # Open-Source Quantum Software Projects
 
 Curated list of open-source developed quantum software projects.
