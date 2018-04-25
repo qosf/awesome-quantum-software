@@ -7,16 +7,17 @@ Curated list of open-source developed quantum software projects.
 *Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contributing.*
 
 ## Contents
-- [Quantum full-stack library](#quantum-full-stack-library)
+- [Quantum full-stack libraries](#quantum-full-stack-libraries)
 - [Quantum simulators](#quantum-simulators)
 - [Quantum annealing](#quantum-annealing)
 - [Quantum games](#quantum-games)
 - [Quantum algorithms](#quantum-algorithms)
 - [Quantum compilers](#quantum-compilers)
 - [Quantum assembly](#quantum-assembly)
+- [Experimental quantum computing](#experimental-quantum-computing)
 - [Abandoned projects](#abandoned-projects)
 
-## Quantum full-stack library
+## Quantum full-stack libraries
 
 **Python**
 - [QISKit](https://qiskit.org/) - IBM's quantum information software kit for simulating, compiling and executing quantum programs.
@@ -37,6 +38,7 @@ Curated list of open-source developed quantum software projects.
 - [QuTiP](http://qutip.org/) - User-friendly and efficient numerical simulations of a wide variety of Hamiltonians.
 - [QTop](https://projectq.ch/) - Simulation and visualization of topological quantum computers.
 - [PySimulator](https://github.com/BBN-Q/PySimulator) - Python with C++ backend simulator for superconducting circuits.
+- [QGL](https://github.com/BBN-Q/QGL) -  Domain-specific language embedded in python for specifying quantum gate sequences.
 
 **C++**
 - [Quantum++](https://github.com/QCT-IQC/qpp) - High-performance general purpose quantum simulator (can simulate d-dimensional qudits).
@@ -44,6 +46,14 @@ Curated list of open-source developed quantum software projects.
 
 **Haskell**
 - [Quipper](https://github.com/thephoeron/quipper-language) - Scalable functional programming language for quantum computing based on [Quantum Lambda Calculus](https://arxiv.org/abs/cs/0404056).
+
+**Julia**
+- [QuantumInfo.jl](https://github.com/BBN-Q/QuantumInfo.jl) - Julia library for quantum information related calculations.
+- [QSimulator.jl](https://github.com/BBN-Q/QSimulator.jl) - Unitary and Lindbladian evolution in Julia.
+- [RandomQuantum.jl](https://github.com/BBN-Q/RandomQuantum.jl) - Package for generating random quantum states and processes.
+- [Cliffords.jl](https://github.com/BBN-Q/Cliffords.jl) - Efficient calculation of Clifford circuits in Julia.
+
+
 
 **F#**
 - [Liqui|>](http://stationq.github.io/Liquid/) - Toolsuite for quantum simulation developed by [Microsoft QuArC](https://www.microsoft.com/en-us/research/group/quantum-architectures-and-computation-group-quarc/).
@@ -98,10 +108,28 @@ Curated list of open-source developed quantum software projects.
 - [pQCS](https://qsoft.iqc.uwaterloo.ca/#software) - [Parallel quantum circuit synthesis](https://uwspace.uwaterloo.ca/handle/10012/9267) with optimal T-count.
 - [ScaffCC](https://github.com/epiqc/ScaffCC) - Compilation, analysis and optimization framework for the Scaffold quantum programming language.
 
+**Python**
+- [QGL2 Compiler](https://github.com/BBN-Q/pyqgl2) - Language compiler for imperative Quantum Gate Language ([QGL](https://github.com/BBN-Q/QGL)).
+
+**Julia**
+- [QGL.jl](https://github.com/BBN-Q/QGL.jl) - A performance orientated [QGL](https://github.com/BBN-Q/QGL) compiler.
+
 ## Quantum assembly
 
 - [OpenQASM](https://github.com/QISKit/openqasm) - IBM's open-source quantum assembly language.
 - [QMASM](https://github.com/lanl/qmasm) - A quantum macro assembler for D-Wave's quantum annealers.
+
+## Experimental quantum computing
+
+**Python**
+- [Quince](https://github.com/BBN-Q/Quince) - Node-based GUI that allows for graphical configuration of qubit experiments in Auspex.
+- [PyQLab](https://github.com/BBN-Q/PyQLab) - Library for instrument control and superconducting QIP experiments.
+
+**Matlab**
+- [Qlab](https://github.com/BBN-Q/Qlab) - Measurement and control software for superconducting qubits.
+
+**Julia**
+- [Qlab.jl](https://github.com/BBN-Q/Qlab.jl) - Generic lab tools in Julia.
 
 ## Abandoned projects
 *2+ years of inactivity. Feel free to reanimate & document some of this work!*
