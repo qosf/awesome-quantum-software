@@ -4,7 +4,7 @@ Curated list of open-source developed quantum software projects.
 
 *Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contributing.*
 
-##### Contents
+## Contents
 - [Quantum full-stack library](#quantum-full-stack-library)
 - [Quantum simulators](#quantum-simulators)
 - [Quantum annealing](#quantum-annealing)
@@ -20,14 +20,16 @@ Curated list of open-source developed quantum software projects.
 - [QISKit](https://qiskit.org/) - IBM's quantum information software kit for simulating, compiling and executing quantum programs.
 - [Strawberry Fields](https://github.com/xanaduai/strawberryfields) - [Xanadu](https://www.xanadu.ai)'s software library for photonic quantum computing.
 - [Forest](https://github.com/rigetticomputing/pyquil) - [Rigetti](https://www.rigetti.com/)'s software library for writing, simulating, compiling and executing quantum programs.
+- [ProjectQ](https://projectq.ch/) - Hardware-agnostic quantum software framework with compiler and simulator with emulation capabilities.
 
 **Q#**
 - [Q#](https://www.microsoft.com/en-us/quantum/development-kit) - Microsoft's quantum programming language with Visual Studio integration.
 
+- [XACC](https://github.com/ORNL-QCI/xacc) - [Extreme-scale programming model for quantum acceleration within high-performance computing](https://arxiv.org/abs/1710.01794).
+
 ## Quantum simulators
 
 **Python**
-- [ProjectQ](https://projectq.ch/) - Hardware-agnostic quantum software framework with compiler and simulator with emulation capabilities.
 - [QTop](https://projectq.ch/) - Simulation and visualization of topological quantum computers.
 - [Quantum Virtual Machine](https://github.com/rigetticomputing/reference-qvm) - Reference implementation of Rigetti's Quantum Virtual Machine.
 
@@ -55,6 +57,9 @@ Curated list of open-source developed quantum software projects.
 - [dwave-cloud-client](https://github.com/dwavesystems/dwave-cloud-client) - Min. implementation of the REST interface to communicate with D-Wave's Solver API.
 - [chimera_embedding](https://github.com/dwavesystems/chimera-embedding) - Algorithms to generate native-structured embeddings for Chimera graphs.
 
+**C++**
+- [Virtual Hardware Embedding](https://github.com/ORNL-QCI/aqc-virtual-embedding) - Virtual Hardware Embedding Suite for adiabatic quantum computing.
+
 
 ## Quantum games
 
@@ -66,6 +71,12 @@ Curated list of open-source developed quantum software projects.
 
 **Python**
 - [Grove](https://github.com/rigetticomputing/grove) - Quantum algorithms implemented using [Rigetti](https://www.rigetti.com/)'s [pyQuil](https://github.com/rigetticomputing/pyquil).
+- [OpenFermion](https://github.com/quantumlib/OpenFermion) - Compiling and analyzing quantum algorithm for quantum chemistry simulations.
+- [XACC Examples](https://github.com/ORNL-QCI/xacc-examples) - Example code using [XACC](https://github.com/ORNL-QCI/xacc) for quantum computing.
+- [XACC QChem](https://github.com/ORNL-QCI/xacc-qchem-benchmarks) - QPU Benchmarks for Quantum Chemistry via [XACC](https://github.com/ORNL-QCI/xacc), [Psi4](http://www.psicode.org/) and [OpenFermion](https://github.com/quantumlib/OpenFermion).
+
+**C++**
+- [XACC VQE](https://github.com/ORNL-QCI/xacc-vqe) - Distributed Variational Quantum Eigensolver built on [XACC](https://github.com/ORNL-QCI/xacc) for solving electronic structure problems.
 
 ## Quantum compilers
 
