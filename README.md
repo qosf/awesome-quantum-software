@@ -7,6 +7,7 @@ Curated list of open-source developed quantum software projects.
 ##### Contents
 - [Quantum full-stack library](#quantum-full-stack-library)
 - [Quantum simulators](#quantum-simulators)
+- [Quantum annealing](#quantum-annealing)
 - [Quantum games](#quantum-games)
 - [Quantum algorithms](#quantum-algorithms)
 - [Quantum compilers](#quantum-compilers)
@@ -28,12 +29,32 @@ Curated list of open-source developed quantum software projects.
 **Python**
 - [ProjectQ](https://projectq.ch/) - Hardware-agnostic quantum software framework with compiler and simulator with emulation capabilities.
 - [QTop](https://projectq.ch/) - Simulation and visualization of topological quantum computers.
+- [Quantum Virtual Machine](https://github.com/rigetticomputing/reference-qvm) - Reference implementation of Rigetti's Quantum Virtual Machine.
 
 **C++**
 - [Quantum++](https://github.com/QCT-IQC/qpp) - High-performance general purpose quantum simulator (can simulate d-dimensional qudits).
 
 **F#**
 - [Liqui|>](http://stationq.github.io/Liquid/) - Toolsuite for quantum simulation developed by [Microsoft QuArC](https://www.microsoft.com/en-us/research/group/quantum-architectures-and-computation-group-quarc/).
+
+## Quantum annealing
+
+**Python, C & Matlab**
+- [Qbsolv](https://github.com/dwavesystems/qbsolv) - QUBO solver with [D-Wave](https://www.dwavesys.com) or classical tabu solver backend.
+
+**Python**
+- [NetworkX](https://github.com/dwavesystems/dwave_networkx) - Exploration and analysis of network graphs.
+- [dimod](https://github.com/dwavesystems/dimod) - Shared API for Ising and QUBO problems.
+- [sapi_dimod](https://github.com/dwavesystems/dwave_sapi_dimod) - [Dimod](https://github.com/dwavesystems/dimod) wrapper for D-Wave's Solver API (SAPI).
+- [micro_client_sapi_dimod](https://github.com/dwavesystems/dwave_micro_client_dimod) - [Dimod](https://github.com/dwavesystems/dimod) wrapper for the D-Wave Micro Client.
+- [minorminor](https://github.com/dwavesystems/minorminer) - Heuristic tool for minor graph embedding.
+- [penaltymodel](https://github.com/dwavesystems/penaltymodel) - Utilities and interfaces for using penalty models.
+- [penaltymodel_maxgap](https://github.com/dwavesystems/penaltymodel_maxgap) - Generates penalty models with smt solves. Factory & Cache for [penaltymodel](https://github.com/dwavesystems/penaltymodel).
+- [embedding_utilities](https://github.com/dwavesystems/dwave_embedding_utilities) - Mapping samples between original and embedded graph.
+- [dwave-system](https://github.com/dwavesystems/dwave-system) - Incorporating D-Wave quantum annealers as samplers in the D-Wave Ocean (?) software stack.
+- [dwave-cloud-client](https://github.com/dwavesystems/dwave-cloud-client) - Min. implementation of the REST interface to communicate with D-Wave's Solver API.
+- [chimera_embedding](https://github.com/dwavesystems/chimera-embedding) - Algorithms to generate native-structured embeddings for Chimera graphs.
+
 
 ## Quantum games
 
