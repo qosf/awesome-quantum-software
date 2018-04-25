@@ -25,16 +25,23 @@ Curated list of open-source developed quantum software projects.
 **Q#**
 - [Q#](https://www.microsoft.com/en-us/quantum/development-kit) - Microsoft's quantum programming language with Visual Studio integration.
 
+**C++**
 - [XACC](https://github.com/ORNL-QCI/xacc) - [Extreme-scale programming model for quantum acceleration within high-performance computing](https://arxiv.org/abs/1710.01794).
 
 ## Quantum simulators
 
 **Python**
-- [QTop](https://projectq.ch/) - Simulation and visualization of topological quantum computers.
 - [Quantum Virtual Machine](https://github.com/rigetticomputing/reference-qvm) - Reference implementation of Rigetti's Quantum Virtual Machine.
+- [QuTiP](http://qutip.org/) - User-friendly and efficient numerical simulations of a wide variety of Hamiltonians.
+- [QTop](https://projectq.ch/) - Simulation and visualization of topological quantum computers.
+- [PySimulator](https://github.com/BBN-Q/PySimulator) - Python with C++ backend simulator for superconducting circuits.
 
 **C++**
 - [Quantum++](https://github.com/QCT-IQC/qpp) - High-performance general purpose quantum simulator (can simulate d-dimensional qudits).
+- [QCL](https://github.com/aviggiano/qcl) - High level, hardware-agnostic programming language for quantum computers (syntax like C or Pascal).
+
+**Haskell**
+- [Quipper](https://github.com/thephoeron/quipper-language) - Scalable functional programming language for quantum computing based on [Quantum Lambda Calculus](https://arxiv.org/abs/cs/0404056).
 
 **F#**
 - [Liqui|>](http://stationq.github.io/Liquid/) - Toolsuite for quantum simulation developed by [Microsoft QuArC](https://www.microsoft.com/en-us/research/group/quantum-architectures-and-computation-group-quarc/).
@@ -74,6 +81,10 @@ Curated list of open-source developed quantum software projects.
 - [OpenFermion](https://github.com/quantumlib/OpenFermion) - Compiling and analyzing quantum algorithm for quantum chemistry simulations.
 - [XACC Examples](https://github.com/ORNL-QCI/xacc-examples) - Example code using [XACC](https://github.com/ORNL-QCI/xacc) for quantum computing.
 - [XACC QChem](https://github.com/ORNL-QCI/xacc-qchem-benchmarks) - QPU Benchmarks for Quantum Chemistry via [XACC](https://github.com/ORNL-QCI/xacc), [Psi4](http://www.psicode.org/) and [OpenFermion](https://github.com/quantumlib/OpenFermion).
+- [Adapt](https://github.com/BBN-Q/Adapt) - Algorithms for adaptive refinement of measurements.
+
+**Julia**
+- [QuantumTomography.jl](https://github.com/BBN-Q/QuantumTomography.jl) - Julia package to perform quantum state and process tomography.
 
 **C++**
 - [XACC VQE](https://github.com/ORNL-QCI/xacc-vqe) - Distributed Variational Quantum Eigensolver built on [XACC](https://github.com/ORNL-QCI/xacc) for solving electronic structure problems.
@@ -83,6 +94,7 @@ Curated list of open-source developed quantum software projects.
 **C++**
 - [Qubiter](http://www.ar-tiste.com/qubiter.html) - Quantum compiler using CS Decomposition to build a binary tree of matrices.
 - [pQCS](https://qsoft.iqc.uwaterloo.ca/#software) - [Parallel quantum circuit synthesis](https://uwspace.uwaterloo.ca/handle/10012/9267) with optimal T-count.
+- [ScaffCC](https://github.com/epiqc/ScaffCC) - Compilation, analysis and optimization framework for the Scaffold quantum programming language.
 
 ## Quantum assembly
 
