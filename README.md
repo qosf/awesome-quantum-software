@@ -63,6 +63,9 @@ Curated list of open-source developed quantum software projects.
 - [RandomQuantum.jl](https://github.com/BBN-Q/RandomQuantum.jl) - Package for generating random quantum states and processes.
 - [Cliffords.jl](https://github.com/BBN-Q/Cliffords.jl) - Efficient calculation of Clifford circuits in Julia.
 
+**Common Lisp**
+- [BLACK-STONE](https://github.com/thephoeron/black-stone) - Specification and implementation of quantum common lisp, for gate-model quantum computers.
+
 **Qumin**
 - [Qlmp](https://github.com/wintershammer/QImp) -  Interpreter for the functional quantum programming language Qumin.
 
@@ -101,11 +104,12 @@ Curated list of open-source developed quantum software projects.
 
 **Python**
 - [Grove](https://github.com/rigetticomputing/grove) - Quantum algorithms implemented using [Rigetti](https://www.rigetti.com/)'s [pyQuil](https://github.com/rigetticomputing/pyquil).
+- [QISKit Tutorial](https://github.com/QISKit/qiskit-tutorial) - Jupyter notebook filled with tutorials for [QISKit](https://github.com/QISKit/qiskit-sdk-py).
 - [OpenFermion](https://github.com/quantumlib/OpenFermion) - Compiling and analyzing quantum algorithm for quantum chemistry simulations.
 - [XACC Examples](https://github.com/ORNL-QCI/xacc-examples) - Example code using [XACC](https://github.com/ORNL-QCI/xacc) for quantum computing.
 - [XACC QChem](https://github.com/ORNL-QCI/xacc-qchem-benchmarks) - QPU Benchmarks for Quantum Chemistry via [XACC](https://github.com/ORNL-QCI/xacc), [Psi4](http://www.psicode.org/) and [OpenFermion](https://github.com/quantumlib/OpenFermion).
 - [Adapt](https://github.com/BBN-Q/Adapt) - Algorithms for adaptive refinement of measurements.
-- [QISKit Tutorial](https://github.com/QISKit/qiskit-tutorial) - Jupyter notebook filled with tutorials for [QISKit](https://github.com/QISKit/qiskit-sdk-py).
+- [QFog](https://github.com/artiste-qb-net/quantum-fog) - Tools for analyzing both classical and quantum Bayesian Networks.
 
 **Julia**
 - [QuantumTomography.jl](https://github.com/BBN-Q/QuantumTomography.jl) - Julia package to perform quantum state and process tomography.
