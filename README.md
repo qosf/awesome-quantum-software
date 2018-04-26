@@ -44,6 +44,9 @@ Curated list of open-source developed quantum software projects.
 - [Quantum++](https://github.com/QCT-IQC/qpp) - High-performance general purpose quantum simulator (can simulate d-dimensional qudits).
 - [QCL](https://github.com/aviggiano/qcl) - High level, hardware-agnostic programming language for quantum computers (syntax like C or Pascal).
 
+**JavaScript**
+- [jsquil](https://github.com/mapmeld/jsquil) - JavaScript interface for writing [Quil](https://en.wikipedia.org/wiki/Quil_(instruction_set_architecture)) programs.
+
 **Haskell**
 - [Quipper](https://github.com/thephoeron/quipper-language) - Scalable functional programming language for quantum computing based on [Quantum Lambda Calculus](https://arxiv.org/abs/cs/0404056).
 
