@@ -40,6 +40,8 @@ Curated list of open-source developed quantum software projects.
 - [QTop](https://projectq.ch/) - Simulation and visualization of topological quantum computers.
 - [PySimulator](https://github.com/BBN-Q/PySimulator) - Python with C++ backend simulator for superconducting circuits.
 - [QGL](https://github.com/BBN-Q/QGL) -  Domain-specific language embedded in python for specifying quantum gate sequences.
+- [Quintuple](https://github.com/corbett/QuantumComputing) - Simulating the 5-qubit processor of the [IBM Quantum Experience](https://quantumexperience.ng.bluemix.net/qx/experience).
+- [QuSim](https://github.com/adamisntdead/QuSimPy) - Ideal noise-free multi-qubit simulator written in 150 lines of code.
 
 **C++**
 - [Quantum++](https://github.com/QCT-IQC/qpp) - High-performance general purpose quantum simulator (can simulate d-dimensional qudits).
@@ -47,6 +49,7 @@ Curated list of open-source developed quantum software projects.
 
 **JavaScript**
 - [jsquil](https://github.com/mapmeld/jsquil) - JavaScript interface for writing [Quil](https://en.wikipedia.org/wiki/Quil_(instruction_set_architecture)) programs.
+- [Quirk](https://github.com/Strilanc/Quirk) - Drag-and-drop quantum circuit simulator in your browser.
 
 **Haskell**
 - [Quipper](https://github.com/thephoeron/quipper-language) - Scalable functional programming language for quantum computing based on [Quantum Lambda Calculus](https://arxiv.org/abs/cs/0404056).
