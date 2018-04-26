@@ -51,6 +51,9 @@ Curated list of open-source developed quantum software projects.
 **Haskell**
 - [Quipper](https://github.com/thephoeron/quipper-language) - Scalable functional programming language for quantum computing based on [Quantum Lambda Calculus](https://arxiv.org/abs/cs/0404056).
 
+**Rust**
+- [QCGPU](https://github.com/QCGPU/qcgpu-rust) - High-performance GPU-accelerated quantum computer simulation.
+
 **Julia**
 - [QuantumInfo.jl](https://github.com/BBN-Q/QuantumInfo.jl) - Julia library for quantum information related calculations.
 - [QSimulator.jl](https://github.com/BBN-Q/QSimulator.jl) - Unitary and Lindbladian evolution in Julia.
@@ -138,6 +141,7 @@ Curated list of open-source developed quantum software projects.
 **Python**
 - [Quince](https://github.com/BBN-Q/Quince) - Node-based GUI that allows for graphical configuration of qubit experiments in Auspex.
 - [PyQLab](https://github.com/BBN-Q/PyQLab) - Library for instrument control and superconducting QIP experiments.
+- [ARTIQ](https://github.com/m-labs/artiq) - Next-generation control system for quantum information experiments.
 
 **Matlab**
 - [Qlab](https://github.com/BBN-Q/Qlab) - Measurement and control software for superconducting qubits.
@@ -146,9 +150,10 @@ Curated list of open-source developed quantum software projects.
 - [Qlab.jl](https://github.com/BBN-Q/Qlab.jl) - Generic lab tools in Julia.
 
 ## Abandoned projects
-*2+ years of inactivity. Feel free to reanimate & document some of this work!*
+*2+ years of inactivity. Feel free to reanimate, document and contribute to some of this work!*
 - [QACG](https://github.com/QCT-IQC/qacg) - Quantum Arithmetic Circuit Generator in Haskell.
 - [QCViewer](https://github.com/QCT-IQC/QCViewer) - A visual quantum circuit design and simulation tool.
+- [libquantum](http://libquantum.de) - C library for quantum computing and quantum simulation.
 
 
 ## Contributing
