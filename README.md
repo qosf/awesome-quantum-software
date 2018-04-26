@@ -14,6 +14,7 @@ Curated list of open-source developed quantum software projects.
 - [Quantum algorithms](#quantum-algorithms)
 - [Quantum compilers](#quantum-compilers)
 - [Quantum assembly](#quantum-assembly)
+- [Quantum cryptography](#quantum-cryptography)
 - [Experimental quantum computing](#experimental-quantum-computing)
 - [Abandoned projects](#abandoned-projects)
 
@@ -59,8 +60,6 @@ Curated list of open-source developed quantum software projects.
 **Qumin**
 - [Qlmp](https://github.com/wintershammer/QImp) -  Interpreter for the functional quantum programming language Qumin.
 
-
-
 **F#**
 - [Liqui|>](http://stationq.github.io/Liquid/) - Toolsuite for quantum simulation developed by [Microsoft QuArC](https://www.microsoft.com/en-us/research/group/quantum-architectures-and-computation-group-quarc/).
 
@@ -100,6 +99,7 @@ Curated list of open-source developed quantum software projects.
 - [XACC Examples](https://github.com/ORNL-QCI/xacc-examples) - Example code using [XACC](https://github.com/ORNL-QCI/xacc) for quantum computing.
 - [XACC QChem](https://github.com/ORNL-QCI/xacc-qchem-benchmarks) - QPU Benchmarks for Quantum Chemistry via [XACC](https://github.com/ORNL-QCI/xacc), [Psi4](http://www.psicode.org/) and [OpenFermion](https://github.com/quantumlib/OpenFermion).
 - [Adapt](https://github.com/BBN-Q/Adapt) - Algorithms for adaptive refinement of measurements.
+- [QISKit Tutorial](https://github.com/QISKit/qiskit-tutorial) - Jupyter notebook filled with tutorials for [QISKit](https://github.com/QISKit/qiskit-sdk-py).
 
 **Julia**
 - [QuantumTomography.jl](https://github.com/BBN-Q/QuantumTomography.jl) - Julia package to perform quantum state and process tomography.
@@ -124,6 +124,14 @@ Curated list of open-source developed quantum software projects.
 
 - [OpenQASM](https://github.com/QISKit/openqasm) - IBM's open-source quantum assembly language.
 - [QMASM](https://github.com/lanl/qmasm) - A quantum macro assembler for D-Wave's quantum annealers.
+
+## Quantum cryptography
+
+**C**
+- [liboqs](https://github.com/open-quantum-safe/liboqs) - C library for quantum-resistant cryptographic algorithms.
+- [openssh](https://github.com/open-quantum-safe/openssh-portable) - OpenSSH with quantum-safe key exchange algorithms.
+- [openssl](https://github.com/open-quantum-safe/openssl) - OpenSSL with quantum-safe cryptographic algorithms.
+
 
 ## Experimental quantum computing
 
