@@ -50,6 +50,9 @@ Curated list of open-source developed quantum software projects.
 **C**
 - [QuaC](https://github.com/0tt3r/QuaC) - Parallel time-dependent open quantum systems solver.
 
+**Java**
+- [libQuantumJava](https://github.com/gbanegas/libQuantumJava) - Crude translation from the C implementation of `libquantum` to a Java version.
+
 **JavaScript**
 - [jsquil](https://github.com/mapmeld/jsquil) - JavaScript interface for writing [Quil](https://en.wikipedia.org/wiki/Quil_(instruction_set_architecture)) programs.
 - [Quirk](https://github.com/Strilanc/Quirk) - Drag-and-drop quantum circuit simulator in your browser.
@@ -74,6 +77,9 @@ Curated list of open-source developed quantum software projects.
 
 **F#**
 - [Liqui|>](http://stationq.github.io/Liquid/) - Toolsuite for quantum simulation developed by [Microsoft QuArC](https://www.microsoft.com/en-us/research/group/quantum-architectures-and-computation-group-quarc/).
+
+**OCaml**
+- [QOCS](https://github.com/dillanchang/QOCS) - Quantum OCaml Circuit Simulator is a functional approach to simulating quantum gates.
 
 ## Quantum annealing
 
@@ -146,7 +152,6 @@ Curated list of open-source developed quantum software projects.
 - [openssh](https://github.com/open-quantum-safe/openssh-portable) - OpenSSH with quantum-safe key exchange algorithms.
 - [openssl](https://github.com/open-quantum-safe/openssl) - OpenSSL with quantum-safe cryptographic algorithms.
 
-
 ## Experimental quantum computing
 
 **Python**
@@ -165,6 +170,7 @@ Curated list of open-source developed quantum software projects.
 - [QACG](https://github.com/QCT-IQC/qacg) - Quantum Arithmetic Circuit Generator in Haskell.
 - [QCViewer](https://github.com/QCT-IQC/QCViewer) - A visual quantum circuit design and simulation tool.
 - [libquantum](http://libquantum.de) - C library for quantum computing and quantum simulation.
+- [Squankum](https://github.com/jeffwass/Squankum) - Visual Java quantum simulator.
 
 
 ## Contributing
