@@ -87,7 +87,7 @@ Curated list of open-source developed quantum software projects.
 - [Qbsolv](https://github.com/dwavesystems/qbsolv) - QUBO solver with [D-Wave](https://www.dwavesys.com) or classical tabu solver backend.
 
 **Python**
-- [NetworkX](https://github.com/dwavesystems/dwave_networkx) - Exploration and analysis of network graphs.
+- [dwave_networkx](https://github.com/dwavesystems/dwave_networkx) - Exploration and analysis of network graphs.
 - [dimod](https://github.com/dwavesystems/dimod) - Shared API for Ising and QUBO problems.
 - [sapi_dimod](https://github.com/dwavesystems/dwave_sapi_dimod) - [Dimod](https://github.com/dwavesystems/dimod) wrapper for D-Wave's Solver API (SAPI).
 - [micro_client_sapi_dimod](https://github.com/dwavesystems/dwave_micro_client_dimod) - [Dimod](https://github.com/dwavesystems/dimod) wrapper for the D-Wave Micro Client.
