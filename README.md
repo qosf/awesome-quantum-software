@@ -16,6 +16,7 @@ Curated list of open-source developed quantum software projects.
 - [Quantum assembly](#quantum-assembly)
 - [Quantum cryptography](#quantum-cryptography)
 - [Experimental quantum computing](#experimental-quantum-computing)
+- [Quantum tools](#quantum-tools)
 - [Abandoned projects](#abandoned-projects)
 
 ## Quantum full-stack libraries
@@ -167,6 +168,11 @@ Curated list of open-source developed quantum software projects.
 
 **Julia**
 - [Qlab.jl](https://github.com/BBN-Q/Qlab.jl) - Generic lab tools in Julia.
+
+## Quantum tools
+
+**Python**
+- [IBM Q bot](https://github.com/RQC-QApp/QuantumComputingBot) - Bot for Slack and Telegram to monitor the load of IBM Q quantum computers.
 
 ## Abandoned projects
 *2+ years of inactivity. Feel free to reanimate, document and contribute to some of this work!*
