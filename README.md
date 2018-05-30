@@ -82,6 +82,9 @@ Curated list of open-source developed quantum software projects.
 **OCaml**
 - [QOCS](https://github.com/dillanchang/QOCS) - Quantum OCaml Circuit Simulator is a functional approach to simulating quantum gates.
 
+**Mathematica**
+- [QuantumUtils](https://github.com/QuantumUtils/quantum-utils-mathematica) - Numeric and symbolic tools for quantum control, simulation, channel representation conversion, and perturbations.
+
 ## Quantum annealing
 
 **Python, C & Matlab**
