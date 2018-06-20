@@ -48,6 +48,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 **C++**
 - [Quantum++](https://github.com/QCT-IQC/qpp) - High-performance general purpose quantum simulator (can simulate d-dimensional qudits).
 - [QCL](https://github.com/aviggiano/qcl) - High level, hardware-agnostic programming language for quantum computers (syntax like C or Pascal).
+- [Qrack](https://github.com/vm6502q/qrack) - Comprehensive qubit and gate implementation for developing universal virtual quantum processors.
 
 **C**
 - [QuaC](https://github.com/0tt3r/QuaC) - Parallel time-dependent open quantum systems solver.
