@@ -3,7 +3,6 @@
 # Open-Source Quantum Software Projects
 
 Curated list of open-source developed quantum software projects.
-For a curated list of learning resources please check out [desireevl's repo](https://github.com/desireevl/awesome-quantum-computing).
 
 *Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contributing.*
 
@@ -19,6 +18,8 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Experimental quantum computing](#experimental-quantum-computing)
 - [Quantum tools](#quantum-tools)
 - [Abandoned projects](#abandoned-projects)
+
+For a curated list of learning resources please check out [desireevl's repo](https://github.com/desireevl/awesome-quantum-computing).
 
 ## Quantum full-stack libraries
 
