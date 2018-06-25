@@ -183,6 +183,13 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 **Python**
 - [IBM Q bot](https://github.com/RQC-QApp/QuantumComputingBot) - Bot for Slack and Telegram to monitor the load of IBM Q quantum computers.
 
+## Intelligence and creativity augmentation
+
+Python & JavaScript
+
+- [Quantum Music Composer for Rigetti quantum computers](https://github.com/JavaFXpert/quantum-toy-piano) - Compose and perform quantum music with Rigetti quantum computers and simulators.
+- [Quantum Music Composer for IBM quantum computers](https://github.com/JavaFXpert/quantum-toy-piano-ibmq) - Compose and perform quantum music with IBM quantum computers and simulators.
+
 ## Abandoned projects
 *2+ years of inactivity. Feel free to reanimate, document and contribute to some of this work!*
 - [QACG](https://github.com/QCT-IQC/qacg) - Quantum Arithmetic Circuit Generator in Haskell.
