@@ -12,12 +12,12 @@ Also please check out the [Unitary Fund](http://unitary.fund/)'s 2k$ grant proje
 - [Quantum full-stack libraries](#quantum-full-stack-libraries)
 - [Quantum simulators](#quantum-simulators)
 - [Quantum annealing](#quantum-annealing)
-- [Quantum games](#quantum-games)
 - [Quantum algorithms](#quantum-algorithms)
 - [Quantum compilers](#quantum-compilers)
 - [Quantum assembly](#quantum-assembly)
 - [Quantum cryptography](#quantum-cryptography)
 - [Experimental quantum computing](#experimental-quantum-computing)
+- [Quantum fun](#quantum-fun)
 - [Quantum tools](#quantum-tools)
 - [Abandoned projects](#abandoned-projects)
 
@@ -111,16 +111,6 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 **C++**
 - [Virtual Hardware Embedding](https://github.com/ORNL-QCI/aqc-virtual-embedding) - Virtual Hardware Embedding Suite for adiabatic quantum computing.
 
-
-## Quantum games
-
-**Python**
-- [Quantum Awesomeness](https://github.com/decodoku/A_Game_to_Benchmark_Quantum_Computers)	- [Simple puzzles to benchmark various quantum processor](https://medium.com/@decodoku/understanding-quantum-computers-through-a-simple-puzzle-game-a290dde89fb2).
-- [Quantum Battleships](https://github.com/decodoku/Battleships_with_complementary_measurements) - [Playing battleships with quantum measurements](https://medium.com/@decodoku/how-to-program-a-quantum-computer-part-2-f0d3eee872fe).
-
-**Board games**
-- [Entanglion](https://github.com/Entanglion/entanglion) - The world’s first open source quantum computing board game. For 2 players.
-
 ## Quantum algorithms
 
 **Python**
@@ -178,17 +168,23 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 **Julia**
 - [Qlab.jl](https://github.com/BBN-Q/Qlab.jl) - Generic lab tools in Julia.
 
+## Quantum fun
+
+**Python**
+- [Quantum Awesomeness](https://github.com/decodoku/A_Game_to_Benchmark_Quantum_Computers)	- [Simple puzzles to benchmark various quantum processor](https://medium.com/@decodoku/understanding-quantum-computers-through-a-simple-puzzle-game-a290dde89fb2).
+- [Quantum Battleships](https://github.com/decodoku/Battleships_with_complementary_measurements) - [Playing battleships with quantum measurements](https://medium.com/@decodoku/how-to-program-a-quantum-computer-part-2-f0d3eee872fe).
+
+**Python & JavaScript**
+- [Quantum Music Composer for Rigetti](https://github.com/JavaFXpert/quantum-toy-piano) - Compose and perform quantum music with Rigetti's Forest.
+- [Quantum Music Composer for IBM Q](https://github.com/JavaFXpert/quantum-toy-piano-ibmq) - Compose and perform quantum music with IBM Q.
+
+**Board games**
+- [Entanglion](https://github.com/Entanglion/entanglion) - The world’s first open source quantum computing board game. For 2 players.
+
 ## Quantum tools
 
 **Python**
 - [IBM Q bot](https://github.com/RQC-QApp/QuantumComputingBot) - Bot for Slack and Telegram to monitor the load of IBM Q quantum computers.
-
-## Intelligence and creativity augmentation
-
-Python & JavaScript
-
-- [Quantum Music Composer for Rigetti quantum computers](https://github.com/JavaFXpert/quantum-toy-piano) - Compose and perform quantum music with Rigetti quantum computers and simulators.
-- [Quantum Music Composer for IBM quantum computers](https://github.com/JavaFXpert/quantum-toy-piano-ibmq) - Compose and perform quantum music with IBM quantum computers and simulators.
 
 ## Abandoned projects
 *2+ years of inactivity. Feel free to reanimate, document and contribute to some of this work!*
