@@ -41,12 +41,15 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 **Python**
 - [Quantum Virtual Machine](https://github.com/rigetticomputing/reference-qvm) - Reference implementation of Rigetti's Quantum Virtual Machine.
-- [QuTiP](http://qutip.org/) - User-friendly and efficient numerical simulations of a wide variety of Hamiltonians.
+- [QuTiP](http://qutip.org/) - User-friendly and efficient numerical simulations of a wide variety of open quantum systems.
 - [QTop](https://projectq.ch/) - Simulation and visualization of topological quantum computers.
 - [PySimulator](https://github.com/BBN-Q/PySimulator) - Python with C++ backend simulator for superconducting circuits.
 - [QGL](https://github.com/BBN-Q/QGL) -  Domain-specific language embedded in python for specifying quantum gate sequences.
 - [Quintuple](https://github.com/corbett/QuantumComputing) - Simulating the 5-qubit processor of the [IBM Quantum Experience](https://quantumexperience.ng.bluemix.net/qx/experience).
 - [QuSim](https://github.com/adamisntdead/QuSimPy) - Ideal noise-free multi-qubit simulator written in 150 lines of code.
+- [PIQS](https://github.com/nathanshammah/piqs) - Efficient simulation of open quantum dynamics of identical qubits.
+
+
 
 **C++**
 - [Quantum++](https://github.com/QCT-IQC/qpp) - High-performance general purpose quantum simulator (can simulate d-dimensional qudits).
