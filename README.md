@@ -45,7 +45,6 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Quantum Virtual Machine](https://github.com/rigetticomputing/reference-qvm) - Reference implementation of Rigetti's Quantum Virtual Machine.
 - [QuTiP](http://qutip.org/) - User-friendly and efficient numerical simulations of a wide variety of open quantum systems.
 - [QTop](https://github.com/jacobmarks/QTop) - Simulation and visualization of topological quantum computers.
-- [QGL](https://github.com/BBN-Q/QGL) -  Domain-specific language embedded in python for specifying quantum gate sequences.
 - [Quintuple](https://github.com/corbett/QuantumComputing) - Simulating the 5-qubit processor of the [IBM Quantum Experience](https://quantumexperience.ng.bluemix.net/qx/experience).
 - [QuSim](https://github.com/adamisntdead/QuSimPy) - Ideal noise-free multi-qubit simulator written in 150 lines of code.
 - [PIQS](https://github.com/nathanshammah/piqs) - Efficient simulation of open quantum dynamics of identical qubits.
@@ -160,6 +159,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 ## Experimental quantum computing
 
 **Python**
+- [QGL](https://github.com/BBN-Q/QGL) -  Domain-specific language embedded in python for specifying pulse sequences.
 - [Quince](https://github.com/BBN-Q/Quince) - Node-based GUI that allows for graphical configuration of qubit experiments in Auspex.
 - [PyQLab](https://github.com/BBN-Q/PyQLab) - Library for instrument control and superconducting QIP experiments.
 - [ARTIQ](https://github.com/m-labs/artiq) - Next-generation control system for quantum information experiments.
