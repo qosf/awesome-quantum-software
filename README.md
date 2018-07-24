@@ -101,7 +101,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [dimod](https://github.com/dwavesystems/dimod) - Shared API for Ising and QUBO problems.
 - [sapi_dimod](https://github.com/dwavesystems/dwave_sapi_dimod) - [Dimod](https://github.com/dwavesystems/dimod) wrapper for D-Wave's Solver API (SAPI).
 - [micro_client_sapi_dimod](https://github.com/dwavesystems/dwave_micro_client_dimod) - [Dimod](https://github.com/dwavesystems/dimod) wrapper for the D-Wave Micro Client.
-- [minorminor](https://github.com/dwavesystems/minorminer) - Heuristic tool for minor graph embedding.
+- [minorminer](https://github.com/dwavesystems/minorminer) - Heuristic tool for minor graph embedding.
 - [penaltymodel](https://github.com/dwavesystems/penaltymodel) - Utilities and interfaces for using penalty models.
 - [penaltymodel_maxgap](https://github.com/dwavesystems/penaltymodel_maxgap) - Generates penalty models with smt solves. Factory & Cache for [penaltymodel](https://github.com/dwavesystems/penaltymodel).
 - [embedding_utilities](https://github.com/dwavesystems/dwave_embedding_utilities) - Mapping samples between original and embedded graph.
