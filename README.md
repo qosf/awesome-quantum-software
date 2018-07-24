@@ -138,7 +138,6 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 **C++**
 - [Qubiter](http://www.ar-tiste.com/qubiter.html) - Quantum compiler using CS Decomposition to build a binary tree of matrices.
-- [pQCS](https://qsoft.iqc.uwaterloo.ca/#software) - [Parallel quantum circuit synthesis](https://uwspace.uwaterloo.ca/handle/10012/9267) with optimal T-count.
 - [ScaffCC](https://github.com/epiqc/ScaffCC) - Compilation, analysis and optimization framework for the Scaffold quantum programming language.
 
 **Python**
@@ -200,7 +199,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [libquantum](http://libquantum.de) - C library for quantum computing and quantum simulation.
 - [Squankum](https://github.com/jeffwass/Squankum) - Visual Java quantum simulator.
 - [PySimulator](https://github.com/BBN-Q/PySimulator) - Python with C++ backend simulator for superconducting circuits.
-
+- [pQCS](https://qsoft.iqc.uwaterloo.ca/#software) - [Parallel quantum circuit synthesis](https://uwspace.uwaterloo.ca/handle/10012/9267) with optimal T-count.
 
 ## Contributing
 See the [contribution guidelines](CONTRIBUTING.md/#readme).
