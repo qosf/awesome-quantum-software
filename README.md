@@ -166,6 +166,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Quince](https://github.com/BBN-Q/Quince) - Node-based GUI that allows for graphical configuration of qubit experiments in Auspex.
 - [PyQLab](https://github.com/BBN-Q/PyQLab) - Library for instrument control and superconducting QIP experiments.
 - [ARTIQ](https://github.com/m-labs/artiq) - Next-generation control system for quantum information experiments.
+- [qc-toolkit](https://github.com/qutech/qc-toolkit) - Quantum Computing Toolkit for Qubit Control.
 
 **Matlab**
 - [Qlab](https://github.com/BBN-Q/Qlab) - Measurement and control software for superconducting qubits.
