@@ -48,6 +48,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Quintuple](https://github.com/corbett/QuantumComputing) - Simulating the 5-qubit processor of the [IBM Quantum Experience](https://quantumexperience.ng.bluemix.net/qx/experience).
 - [QuSim](https://github.com/adamisntdead/QuSimPy) - Ideal noise-free multi-qubit simulator written in 150 lines of code.
 - [PIQS](https://github.com/nathanshammah/piqs) - Efficient simulation of open quantum dynamics of identical qubits.
+- [SimulaQron](https://github.com/StephanieWehner/SimulaQron) - Application level simulator of a quantum network.
 
 **C++**
 - [Quantum++](https://github.com/vsoftco/qpp) - High-performance general purpose quantum simulator (can simulate d-dimensional qudits).
@@ -167,6 +168,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [PyQLab](https://github.com/BBN-Q/PyQLab) - Library for instrument control and superconducting QIP experiments.
 - [ARTIQ](https://github.com/m-labs/artiq) - Next-generation control system for quantum information experiments.
 - [qc-toolkit](https://github.com/qutech/qc-toolkit) - Quantum Computing Toolkit for Qubit Control.
+- [QFlow-lite](https://github.com/jpzwolak/QFlow-lite) - Machine Learning tools for autotuning quantum dot experiments.
 
 **Matlab**
 - [Qlab](https://github.com/BBN-Q/Qlab) - Measurement and control software for superconducting qubits.
