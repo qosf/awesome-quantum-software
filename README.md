@@ -131,7 +131,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 **C++**
 - [XACC VQE](https://github.com/ORNL-QCI/xacc-vqe) - Distributed Variational Quantum Eigensolver built on [XACC](https://github.com/ORNL-QCI/xacc) for solving electronic structure problems.
 
-**C#**
+**Q#**
 - [Quantum Katas](https://github.com/Microsoft/QuantumKatas) -  Programming exercises for learning Q# and quantum computing.
 
 
