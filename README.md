@@ -143,6 +143,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 **Python**
 - [QGL2 Compiler](https://github.com/BBN-Q/pyqgl2) - Language compiler for imperative Quantum Gate Language ([QGL](https://github.com/BBN-Q/QGL)).
+- [PyZX](https://github.com/Quantomatic/pyzx) - Python library for quantum circuit rewriting and optimisation using the ZX-calculus.
 
 **Julia**
 - [QGL.jl](https://github.com/BBN-Q/QGL.jl) - A performance orientated [QGL](https://github.com/BBN-Q/QGL) compiler.
