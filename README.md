@@ -31,6 +31,10 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Forest](https://github.com/rigetticomputing/pyquil) - [Rigetti](https://www.rigetti.com/)'s software library for writing, simulating, compiling and executing quantum programs.
 - [ProjectQ](https://github.com/ProjectQ-Framework/ProjectQ) - Hardware-agnostic framework with compiler and simulator with emulation capabilities.
 - [Cirq](https://github.com/quantumlib/Cirq) - Framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.
+- [Qubiter](https://github.com/artiste-qb-net/qubiter) - Tools for reading, writing, compiling, simulating quantum computer circuits
+- [Quantum-fog](https://github.com/artiste-qb-net/quantum-fog) - Framework for analyzing both classical and quantum Bayesian Networks
+- [Quantum_Edward](https://github.com/artiste-qb-net/Quantum_Edward) - Python tools for supervised learning by Quantum Neural Networks 
+
 
 
 **Q#**
