@@ -32,12 +32,14 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [ProjectQ](https://github.com/ProjectQ-Framework/ProjectQ) - Hardware-agnostic framework with compiler and simulator with emulation capabilities.
 - [Cirq](https://github.com/quantumlib/Cirq) - Framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.
 
-
 **Q#**
 - [Q#](https://www.microsoft.com/en-us/quantum/development-kit) - Microsoft's quantum programming language with Visual Studio integration.
 
 **C++**
 - [XACC](https://github.com/ORNL-QCI/xacc) - [Extreme-scale programming model for quantum acceleration within high-performance computing](https://arxiv.org/abs/1710.01794).
+
+**JavaScript**
+- [QISKit-JS](https://github.com/Qiskit/qiskit-js) - [IBM's quantum information software kit](https://qiskit.org/) for JavaScript.
 
 ## Quantum simulators
 
