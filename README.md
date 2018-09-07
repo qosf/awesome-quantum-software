@@ -26,7 +26,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 ## Quantum full-stack libraries
 
 **Python**
-- [QISKit](https://qiskit.org/) - IBM's quantum information software kit for simulating, compiling and executing quantum programs.
+- [Qiskit](https://qiskit.org/) - IBM's quantum information software kit for simulating, compiling and executing quantum programs.
 - [Strawberry Fields](https://github.com/xanaduai/strawberryfields) - [Xanadu](https://www.xanadu.ai)'s software library for photonic quantum computing.
 - [Forest](https://github.com/rigetticomputing/pyquil) - [Rigetti](https://www.rigetti.com/)'s software library for writing, simulating, compiling and executing quantum programs.
 - [ProjectQ](https://github.com/ProjectQ-Framework/ProjectQ) - Hardware-agnostic framework with compiler and simulator with emulation capabilities.
@@ -39,7 +39,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [XACC](https://github.com/ORNL-QCI/xacc) - [Extreme-scale programming model for quantum acceleration within high-performance computing](https://arxiv.org/abs/1710.01794).
 
 **JavaScript**
-- [QISKit-JS](https://github.com/Qiskit/qiskit-js) - [IBM's quantum information software kit](https://qiskit.org/) for JavaScript.
+- [Qiskit-JS](https://github.com/Qiskit/qiskit-js) - [IBM's quantum information software kit](https://qiskit.org/) for JavaScript.
 
 ## Quantum simulators
 
@@ -58,6 +58,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Qrack](https://github.com/vm6502q/qrack) - Comprehensive qubit and gate implementation for developing universal virtual quantum processors.
 
 **C**
+- [TNQVM](https://github.com/ornl-qci/tnqvm) - Tensor Network QPU Simulator for Eclipse [XACC](https://github.com/ORNL-QCI/xacc).
 - [QuaC](https://github.com/0tt3r/QuaC) - Parallel time-dependent open quantum systems solver.
 
 **Java**
@@ -119,8 +120,8 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 **Python**
 - [Grove](https://github.com/rigetticomputing/grove) - Quantum algorithms implemented using [Rigetti](https://www.rigetti.com/)'s [pyQuil](https://github.com/rigetticomputing/pyquil).
-- [QISKit AQUA](https://github.com/Qiskit/aqua) - Library of various quantum algorithm implemented with [QISKit](https://github.com/Qiskit/qiskit-terra).
-- [QISKit Tutorial](https://github.com/QISKit/qiskit-tutorial) - Jupyter notebook filled with tutorials for [QISKit](https://github.com/QISKit/qiskit-terra).
+- [Qiskit Aqua](https://github.com/Qiskit/aqua) - Library of various quantum algorithm implemented with [QISKit](https://github.com/Qiskit/qiskit-terra).
+- [Qiskit Tutorial](https://github.com/QISKit/qiskit-tutorial) - Jupyter notebook filled with tutorials for [QISKit](https://github.com/QISKit/qiskit-terra).
 - [FermiLib](https://github.com/ProjectQ-Framework/FermiLib) - Software for analyzing fermionic quantum simulation algorithms with [ProjectQ](https://github.com/ProjectQ-Framework/ProjectQ).
 - [OpenFermion](https://github.com/quantumlib/OpenFermion) - Compiling and analyzing quantum algorithm for quantum chemistry simulations.
 - [XACC Examples](https://github.com/ORNL-QCI/xacc-examples) - Example code using [XACC](https://github.com/ORNL-QCI/xacc) for quantum computing.
@@ -133,7 +134,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [QuantumTomography.jl](https://github.com/BBN-Q/QuantumTomography.jl) - Julia package to perform quantum state and process tomography.
 
 **C++**
-- [XACC VQE](https://github.com/ORNL-QCI/xacc-vqe) - Distributed Variational Quantum Eigensolver built on [XACC](https://github.com/ORNL-QCI/xacc) for solving electronic structure problems.
+- [XACC VQE](https://github.com/ornl-qci/xacc-vqe) - Variational quantum eigensolver built on [XACC](https://github.com/ORNL-QCI/xacc) for distributed, and shared memory systems.
 
 **Q#**
 - [Quantum Katas](https://github.com/Microsoft/QuantumKatas) -  Programming exercises for learning Q# and quantum computing.
