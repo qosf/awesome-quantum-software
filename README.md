@@ -63,6 +63,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 **Java**
 - [libQuantumJava](https://github.com/gbanegas/libQuantumJava) - Crude translation from the C implementation of `libquantum` to a Java version.
+- [jquil](https://github.com/QCHackers/jquil) - A Java library for quantum programming using [Quil](https://en.wikipedia.org/wiki/Quil_(instruction_set_architecture)).
 
 **JavaScript**
 - [jsquil](https://github.com/mapmeld/jsquil) - JavaScript interface for writing [Quil](https://en.wikipedia.org/wiki/Quil_(instruction_set_architecture)) programs.
