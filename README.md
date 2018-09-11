@@ -96,6 +96,9 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 **Mathematica**
 - [QuantumUtils](https://github.com/QuantumUtils/quantum-utils-mathematica) - Tools for quantum control, simulation, channel representation conversion, and perturbations.
 
+**Coq**
+- [QWIRE](https://github.com/jpaykin/QWIRE) - A quantum circuit language and formal verification tool [described in this paper](https://dl.acm.org/citation.cfm?id=3009894).
+
 ## Quantum annealing
 
 **Python, C & Matlab**
@@ -147,7 +150,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [ScaffCC](https://github.com/epiqc/ScaffCC) - Compilation, analysis and optimization framework for the Scaffold quantum programming language.
 
 **Python**
-- [Qubiter](http://www.ar-tiste.com/qubiter.html) - Quantum compiler using a Python wrapper for [LAPACK's CS Decomposition](http://www.netlib.org/lapack/README-CSD.html) to build a binary tree of matrices.
+- [Qubiter](http://www.ar-tiste.com/qubiter.html) - Quantum compiler with Python wrapper for [LAPACK's CS Decomposition](http://www.netlib.org/lapack/README-CSD.html) to build a binary tree of matrices.
 - [QGL2 Compiler](https://github.com/BBN-Q/pyqgl2) - Language compiler for imperative Quantum Gate Language ([QGL](https://github.com/BBN-Q/QGL)).
 - [PyZX](https://github.com/Quantomatic/pyzx) - Python library for quantum circuit rewriting and optimisation using the ZX-calculus.
 
