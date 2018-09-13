@@ -111,7 +111,6 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [micro_client_sapi_dimod](https://github.com/dwavesystems/dwave_micro_client_dimod) - [Dimod](https://github.com/dwavesystems/dimod) wrapper for the D-Wave Micro Client.
 - [minorminer](https://github.com/dwavesystems/minorminer) - Heuristic tool for minor graph embedding.
 - [penaltymodel](https://github.com/dwavesystems/penaltymodel) - Utilities and interfaces for using penalty models.
-- [penaltymodel_maxgap](https://github.com/dwavesystems/penaltymodel_maxgap) - Generates penalty models with smt solves. Factory & Cache for [penaltymodel](https://github.com/dwavesystems/penaltymodel).
 - [embedding_utilities](https://github.com/dwavesystems/dwave_embedding_utilities) - Mapping samples between original and embedded graph.
 - [dwave-system](https://github.com/dwavesystems/dwave-system) - Incorporating D-Wave quantum annealers as samplers in the D-Wave Ocean (?) software stack.
 - [dwave-cloud-client](https://github.com/dwavesystems/dwave-cloud-client) - Min. implementation of the REST interface to communicate with D-Wave's Solver API.
