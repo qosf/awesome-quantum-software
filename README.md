@@ -170,6 +170,9 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [openssh](https://github.com/open-quantum-safe/openssh-portable) - OpenSSH with quantum-safe key exchange algorithms.
 - [openssl](https://github.com/open-quantum-safe/openssl) - OpenSSL with quantum-safe cryptographic algorithms.
 
+**Python**
+- [QRL](https://github.com/theQRL/QRL/) - [Quantum Resistant Ledger](https://theqrl.org/) utilizing hash-based one-time merkle tree signature scheme instead of ECDSA. 
+
 ## Experimental quantum computing
 
 **Python**
