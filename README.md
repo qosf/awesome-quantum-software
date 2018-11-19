@@ -60,6 +60,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 **C**
 - [TNQVM](https://github.com/ornl-qci/tnqvm) - Tensor Network QPU Simulator for Eclipse [XACC](https://github.com/ORNL-QCI/xacc).
 - [QuaC](https://github.com/0tt3r/QuaC) - Parallel time-dependent open quantum systems solver.
+- [QuEST](https://github.com/aniabrown/QuEST) -  Quantum Exact Simulation Toolkit is a high performance multicore simulator of universal quantum circuits.
 
 **Java**
 - [libQuantumJava](https://github.com/gbanegas/libQuantumJava) - Crude translation from the C implementation of `libquantum` to a Java version.
