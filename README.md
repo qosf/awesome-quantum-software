@@ -115,7 +115,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [dwave-cloud-client](https://github.com/dwavesystems/dwave-cloud-client) - Min. implementation of the REST interface to communicate with D-Wave's Solver API.
 - [dwave_networkx](https://github.com/dwavesystems/dwave_networkx) - Exploration and analysis of network graphs.
 - [dwave_neal](https://github.com/dwavesystems/dwave-neal) - An implementation of a simulated annealing sampler.
-- [dwave-system](https://github.com/dwavesystems/dwave-system) - Basic API for easily incorporating D-Wave quantum annealers as samplers in the D-Wave Ocean software stack.
+- [dwave-system](https://github.com/dwavesystems/dwave-system) - API for easily incorporating D-Wave quantum annealers as samplers in the [Ocean](https://ocean.dwavesys.com/) software stack.
 - [embedding_utilities](https://github.com/dwavesystems/dwave_embedding_utilities) - Mapping samples between original and embedded graph.
 - [micro_client_sapi_dimod](https://github.com/dwavesystems/dwave_micro_client_dimod) - [Dimod](https://github.com/dwavesystems/dimod) wrapper for the D-Wave Micro Client.
 - [minorminer](https://github.com/dwavesystems/minorminer) - Heuristic tool for minor graph embedding.
