@@ -34,6 +34,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 **Python**
 - [Cirq](https://github.com/quantumlib/Cirq) - Framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.
 - [Forest](https://github.com/rigetticomputing/pyquil) - [Rigetti](https://www.rigetti.com/)'s software library for writing, simulating, compiling and executing quantum programs.
+- [Ocean](https://github.com/dwavesystems/dwave-ocean-sdk) - [D-Wave System](https://www.dwavesys.com/home)'s suite of tools for solving hard problems with quantum computers.
 - [ProjectQ](https://github.com/ProjectQ-Framework/ProjectQ) - Hardware-agnostic framework with compiler and simulator with emulation capabilities.
 - [Qiskit](https://qiskit.org/) - IBM's quantum information software kit for simulating, compiling and executing quantum programs.
 - [Strawberry Fields](https://github.com/xanaduai/strawberryfields) - [Xanadu](https://www.xanadu.ai)'s software library for photonic quantum computing.
@@ -110,9 +111,11 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 **Python**
 - [chimera_embedding](https://github.com/dwavesystems/chimera-embedding) - Algorithms to generate native-structured embeddings for Chimera graphs.
 - [dimod](https://github.com/dwavesystems/dimod) - Shared API for Ising and QUBO problems.
+- [dwavebinarycsp](https://github.com/dwavesystems/dwavebinarycsp) - Map constraint satisfaction problems with binary variables to binary quadratic models.
 - [dwave-cloud-client](https://github.com/dwavesystems/dwave-cloud-client) - Min. implementation of the REST interface to communicate with D-Wave's Solver API.
 - [dwave_networkx](https://github.com/dwavesystems/dwave_networkx) - Exploration and analysis of network graphs.
-- [dwave-system](https://github.com/dwavesystems/dwave-system) - Incorporating D-Wave quantum annealers as samplers in the D-Wave Ocean (?) software stack.
+- [dwave_neal](https://github.com/dwavesystems/dwave-neal) - An implementation of a simulated annealing sampler.
+- [dwave-system](https://github.com/dwavesystems/dwave-system) - Basic API for easily incorporating D-Wave quantum annealers as samplers in the D-Wave Ocean software stack.
 - [embedding_utilities](https://github.com/dwavesystems/dwave_embedding_utilities) - Mapping samples between original and embedded graph.
 - [micro_client_sapi_dimod](https://github.com/dwavesystems/dwave_micro_client_dimod) - [Dimod](https://github.com/dwavesystems/dimod) wrapper for the D-Wave Micro Client.
 - [minorminer](https://github.com/dwavesystems/minorminer) - Heuristic tool for minor graph embedding.
