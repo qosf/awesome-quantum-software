@@ -15,7 +15,7 @@ Also please check out the [Unitary Fund](http://unitary.fund/)'s 2k$ grant proje
 - [Quantum algorithms](#quantum-algorithms)
 - [Quantum compilers](#quantum-compilers)
 - [Quantum assembly](#quantum-assembly)
-- [Quantum cryptography](#quantum-cryptography)
+- [Quantum and post-quantum cryptography](#quantum-and-post-quantum-cryptography)
 - [Experimental quantum computing](#experimental-quantum-computing)
 - [Quantum fun](#quantum-fun)
 - [Quantum tools](#quantum-tools)
@@ -169,7 +169,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [QMASM](https://github.com/lanl/qmasm) - A quantum macro assembler for D-Wave's quantum annealers.
 - [Quil](https://arxiv.org/abs/1608.03355) - An open hybrid quantum/classical instruction set currently used by Rigetti. [Parser](https://github.com/rigetticomputing/pyquil/tree/master/pyquil/_parser)
 
-## Quantum cryptography
+## Quantum and post-quantum cryptography
 
 **C**
 - [liboqs](https://github.com/open-quantum-safe/liboqs) - C library for quantum-resistant cryptographic algorithms.
