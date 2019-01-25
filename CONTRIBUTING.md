@@ -2,7 +2,8 @@
 Ensure your pull request adheres to the following guidelines:
 - Search the current list and pull requests to avoid adding duplicates.
 - Make sure the software project is developed open-source.
-- Put each software project under the correct category.
+- List each software project under the correct category.
+- Please adhere to the alphabetical ordering of the list.
 - Each project should go under a subheading with the respective programming language.
 - Use the following format: `[Name](link) - Description/Link.`
 - Where Description/Link should be a very short summary of the project.
