@@ -51,6 +51,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 **Common Lisp**
 - [BLACK-STONE](https://github.com/thephoeron/black-stone) - Specification and implementation of quantum common lisp, for gate-model quantum computers.
+- [QVM](https://github.com/rigetti/qvm) - Rigetti's high-performance quantum virtual machine.
 
 **Coq**
 - [QWIRE](https://github.com/jpaykin/QWIRE) - A quantum circuit language and formal verification tool [described in this paper](https://dl.acm.org/citation.cfm?id=3009894).
