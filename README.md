@@ -168,6 +168,9 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Qiskit Terra](https://github.com/Qiskit/qiskit-terra) - Python library for quantum circuit rewriting and optimization (supported by IBM).
 - [Qubiter](https://github.com/artiste-qb-net/qubiter) - Quantum compiler with Python wrapper for [LAPACK's CS Decomposition](http://www.netlib.org/lapack/README-CSD.html) to build a binary tree of matrices.
 
+**Common Lisp**
+- [quilc](https://github.com/rigetti/quilc) - Rigetti's optimizing Quil compiler.
+
 ## Quantum assembly
 
 - [OpenQASM](https://github.com/QISKit/openqasm) - Open-source quantum assembly language.
