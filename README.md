@@ -162,6 +162,9 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 **Julia**
 - [QGL.jl](https://github.com/BBN-Q/QGL.jl) - A performance orientated [QGL](https://github.com/BBN-Q/QGL) compiler.
 
+**Mathematica**
+- [UniversalQCompiler](https://github.com/Q-Compiler/UniversalQCompiler) - Synthesis of isometries (including unitaries and state preparation), channels and POVMs.
+
 **Python**
 - [PyZX](https://github.com/Quantomatic/pyzx) - Python library for quantum circuit rewriting and optimisation using the ZX-calculus.
 - [QGL2 Compiler](https://github.com/BBN-Q/pyqgl2) - Language compiler for imperative Quantum Gate Language ([QGL](https://github.com/BBN-Q/QGL)).
@@ -219,6 +222,9 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Quantum Music Composer for Rigetti](https://github.com/JavaFXpert/quantum-toy-piano) - Compose and perform quantum music with Rigetti's Forest.
 
 ## Quantum tools
+
+**Mathematica**
+- [QI](https://github.com/rogercolbeck/QI) - Toolkit for common quantum information functions.
 
 **Python**
 - [IBM Q bot](https://github.com/RQC-QApp/QuantumComputingBot) - Bot for Slack and Telegram to monitor the load of IBM Q quantum computers.
