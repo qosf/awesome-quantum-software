@@ -221,6 +221,9 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Quantum Music Composer for IBM Q](https://github.com/JavaFXpert/quantum-toy-piano-ibmq) - Compose and perform quantum music with IBM Q.
 - [Quantum Music Composer for Rigetti](https://github.com/JavaFXpert/quantum-toy-piano) - Compose and perform quantum music with Rigetti's Forest.
 
+**JavaScript**
+- [Quantum Game with Photons](https://github.com/stared/quantum-game) - Puzzle game in browser, with polarization, superposition, and measurement.
+
 ## Quantum tools
 
 **Mathematica**
