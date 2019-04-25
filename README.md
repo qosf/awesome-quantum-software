@@ -198,10 +198,10 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 **Python**
 - [ARTIQ](https://github.com/m-labs/artiq) - Next-generation control system for quantum information experiments.
 - [PyQLab](https://github.com/BBN-Q/PyQLab) - Library for instrument control and superconducting QIP experiments.
-- [qc-toolkit](https://github.com/qutech/qc-toolkit) - Quantum Computing Toolkit for Qubit Control.
 - [QFlow-lite](https://github.com/jpzwolak/QFlow-lite) - Machine Learning tools for autotuning quantum dot experiments.
 - [QGL](https://github.com/BBN-Q/QGL) -  Domain-specific language embedded in Python for specifying pulse sequences.
 - [Quince](https://github.com/BBN-Q/Quince) - Node-based GUI that allows for graphical configuration of qubit experiments in Auspex.
+- [qupulse](https://github.com/qutech/qupulse) - Quantum computing pulse parametrization and sequencing framework (formerly qc-toolkit). 
 
 ## Quantum fun
 
