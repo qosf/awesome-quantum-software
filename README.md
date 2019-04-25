@@ -219,7 +219,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Quantum Music Composer for Rigetti](https://github.com/JavaFXpert/quantum-toy-piano) - Compose and perform quantum music with Rigetti's Forest.
 
 **JavaScript**
-- [Quantum Game with Photons](https://github.com/stared/quantum-game) - a puzzle game with real quantum mechanics in a browser
+- [Quantum Game with Photons](https://github.com/stared/quantum-game) - Puzzle game in browser, with polarization, superposition, and measurement.
 
 ## Quantum tools
 
