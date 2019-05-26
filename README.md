@@ -38,7 +38,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [ProjectQ](https://github.com/ProjectQ-Framework/ProjectQ) - Hardware-agnostic framework with compiler and simulator with emulation capabilities.
 - [Qiskit](https://qiskit.org/) - Framework for working with noisy quantum computers at the level of pulses, circuits, and algorithms (supported by IBM).
 - [Strawberry Fields](https://github.com/xanaduai/strawberryfields) - [Xanadu](https://www.xanadu.ai)'s software library for photonic quantum computing.
-- [OpenQL](https://github.com/QE-Lab/OpenQL) - Compiler framework for programming in C++/Python. Includes algorithm libraries, optimizer, scheduler, QEC, mapping, micro-code generator for various target platforms.
+- [OpenQL](https://github.com/QE-Lab/OpenQL) - Compiler framework with algorithm libraries, optimizer, scheduler, QEC, mapping, micro-code generator.
 
 **Q#**
 - [Q#](https://www.microsoft.com/en-us/quantum/development-kit) - Microsoft's quantum programming language with Visual Studio integration.
