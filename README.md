@@ -57,6 +57,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [QWIRE](https://github.com/jpaykin/QWIRE) - A quantum circuit language and formal verification tool [described in this paper](https://dl.acm.org/citation.cfm?id=3009894).
 
 **C++**
+- [Intel Quantum Simulator](https://github.com/intel/intel-qs) - Distributed qubit register quantum simulator using OpenMP and MPI.
 - [QCL](https://github.com/aviggiano/qcl) - High level, hardware-agnostic programming language for quantum computers (syntax like C or Pascal).
 - [Qiskit Aer](https://github.com/Qiskit/qiskit-aer) - High performance simulator for quantum circuits that includes noise models (supported by IBM).
 - [Qrack](https://github.com/vm6502q/qrack) - Comprehensive qubit and gate implementation for developing universal virtual quantum processors.
