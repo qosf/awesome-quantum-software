@@ -95,6 +95,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 **Python**
 - [PIQS](https://github.com/nathanshammah/piqs) - Efficient simulation of open quantum dynamics of identical qubits.
+- [QCircuits](https://github.com/grey-area/qcircuits) - User-friendly quantum circuit simulator designed for students and newcomers to quantum computing.
 - [QTop](https://github.com/jacobmarks/QTop) - Simulation and visualization of topological quantum computers.
 - [Quantum Virtual Machine](https://github.com/rigetticomputing/reference-qvm) - Reference implementation of Rigetti's Quantum Virtual Machine.
 - [Quintuple](https://github.com/corbett/QuantumComputing) - Simulating the 5-qubit processor of the [IBM Quantum Experience](https://quantumexperience.ng.bluemix.net/qx/experience).
