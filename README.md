@@ -111,6 +111,9 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 **Rust**
 - [QCGPU](https://github.com/QCGPU/qcgpu-rust) - High-performance GPU-accelerated quantum computer simulation outlined in this [arXiv paper](https://arxiv.org/pdf/1805.00988.pdf).
 
+**Swift**
+- [SwiftQuantumComputing](https://github.com/indisoluble/SwiftQuantumComputing) - Quantum circuit simulator with a bit of genetic programming.
+
 ## Quantum annealing
 
 **C++**
