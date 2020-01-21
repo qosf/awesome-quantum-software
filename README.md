@@ -6,7 +6,7 @@ Curated list of open-source developed quantum software projects.
 
 *Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contributing.*
 
-Also please check out the [Unitary Fund](http://unitary.fund/)'s 2k$ grant project for quantum OSS!
+Also please check out the [Unitary Fund](http://unitary.fund/)'s 4k$ grant project for quantum OSS!
 
 ## Contents
 - [Quantum full-stack libraries](#quantum-full-stack-libraries)
