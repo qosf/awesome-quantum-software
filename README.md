@@ -26,6 +26,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 ## Quantum full-stack libraries
 
 **C++**
+- [staq](https://github.com/softwareqinc/staq) - [Full stack quantum processing toolkit](https://arxiv.org/abs/1912.06070).
 - [XACC](https://github.com/ORNL-QCI/xacc) - [Extreme-scale programming model for quantum acceleration within high-performance computing](https://arxiv.org/abs/1710.01794).
 
 **JavaScript**
@@ -62,7 +63,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [QCL](https://github.com/aviggiano/qcl) - High level, hardware-agnostic programming language for quantum computers (syntax like C or Pascal).
 - [Qiskit Aer](https://github.com/Qiskit/qiskit-aer) - High performance simulator for quantum circuits that includes noise models (supported by IBM).
 - [Qrack](https://github.com/vm6502q/qrack) - Comprehensive qubit and gate implementation for developing universal virtual quantum processors.
-- [Quantum++](https://github.com/vsoftco/qpp) - High-performance general purpose quantum simulator (can simulate d-dimensional qudits).
+- [Quantum++](https://github.com/softwareqinc/qpp) - [High-performance general purpose quantum simulator (can simulate d-dimensional qudits)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0208073).
 
 
 **F#**
