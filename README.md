@@ -82,7 +82,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [jsquil](https://github.com/mapmeld/jsquil) - JavaScript interface for writing [Quil](https://en.wikipedia.org/wiki/Quil_(instruction_set_architecture)) programs.
 - [Quantum Circuit Simulator](https://github.com/perak/quantum-circuit) - Smoothly runs 20+ qubit simulations in browser or on node.js server.
 - [Quirk](https://github.com/Strilanc/Quirk) - Drag-and-drop quantum circuit simulator in your browser.
-- [Quantum JavaScript (Q.js)](https://quantumjavascript.app/) - Quantum circuit simulator, drag-and-drop circuit editor, and API. Includes API documentation and basic quantum concept primers. Ideal for classroom or autodidacts at home.
+- [Quantum JavaScript (Q.js)](https://quantumjavascript.app/) - Drag-and-drop circuit editor, simulator, documented API, text-as-circuit DSL, concept primers.
 
 **Julia**
 - [Cliffords.jl](https://github.com/BBN-Q/Cliffords.jl) - Efficient calculation of Clifford circuits in Julia.
