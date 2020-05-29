@@ -123,20 +123,26 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 ## Quantum annealing
 
 **C++**
+- [C-to-D-Wave](https://github.com/lanl/c2dwave) - Compile a very small subset of C to a D-Wave Hamiltonian function
 - [Virtual Hardware Embedding](https://github.com/ORNL-QCI/aqc-virtual-embedding) - Virtual Hardware Embedding Suite for adiabatic quantum computing.
+
+**Go**
+- [edif2qmasm](https://github.com/lanl/edif2qmasm/) - Compile [Verilog](https://en.wikipedia.org/wiki/Verilog), [VHDL](https://en.wikipedia.org/wiki/VHDL), and other hardware-description languages to a D-Wave Hamiltonian function
+- [QA Prolog](https://github.com/lanl/QA-Prolog) - Compile a subset of [Prolog](https://en.wikipedia.org/wiki/Prolog) to a D-Wave Hamiltonian function
 
 **Python**
 - [chimera_embedding](https://github.com/dwavesystems/chimera-embedding) - Algorithms to generate native-structured embeddings for Chimera graphs.
 - [dimod](https://github.com/dwavesystems/dimod) - Shared API for Ising and QUBO problems.
 - [dwavebinarycsp](https://github.com/dwavesystems/dwavebinarycsp) - Map constraint satisfaction problems with binary variables to binary quadratic models.
 - [dwave-cloud-client](https://github.com/dwavesystems/dwave-cloud-client) - Min. implementation of the REST interface to communicate with D-Wave's Solver API.
-- [dwave_networkx](https://github.com/dwavesystems/dwave_networkx) - Exploration and analysis of network graphs.
 - [dwave_neal](https://github.com/dwavesystems/dwave-neal) - An implementation of a simulated annealing sampler.
+- [dwave_networkx](https://github.com/dwavesystems/dwave_networkx) - Exploration and analysis of network graphs.
 - [dwave-system](https://github.com/dwavesystems/dwave-system) - API for easily incorporating D-Wave quantum annealers as samplers in the [Ocean](https://ocean.dwavesys.com/) software stack.
 - [embedding_utilities](https://github.com/dwavesystems/dwave_embedding_utilities) - Mapping samples between original and embedded graph.
 - [micro_client_sapi_dimod](https://github.com/dwavesystems/dwave_micro_client_dimod) - [Dimod](https://github.com/dwavesystems/dimod) wrapper for the D-Wave Micro Client.
 - [minorminer](https://github.com/dwavesystems/minorminer) - Heuristic tool for minor graph embedding.
 - [penaltymodel](https://github.com/dwavesystems/penaltymodel) - Utilities and interfaces for using penalty models.
+- [QMASM](https://github.com/lanl/qmasm/) - Quantum macro assembler for D-Wave systems
 - [sapi_dimod](https://github.com/dwavesystems/dwave_sapi_dimod) - [Dimod](https://github.com/dwavesystems/dimod) wrapper for D-Wave's Solver API (SAPI).
 
 **Python, C & Matlab**
@@ -230,7 +236,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 **Python**
 - [bloqit](https://github.com/kelzheng/bloqit) - A tiny qubit duel for your smart phone.
 - [QSEL](https://github.com/dabacon/qsel) -  Quantum programming language putting entanglement and superposition front and center.
-- [Quantum Awesomeness](https://github.com/decodoku/A_Game_to_Benchmark_Quantum_Computers)	- [Simple puzzles to benchmark various quantum processor](https://medium.com/@decodoku/understanding-quantum-computers-through-a-simple-puzzle-game-a290dde89fb2).
+- [Quantum Awesomeness](https://github.com/decodoku/A_Game_to_Benchmark_Quantum_Computers)  - [Simple puzzles to benchmark various quantum processor](https://medium.com/@decodoku/understanding-quantum-computers-through-a-simple-puzzle-game-a290dde89fb2).
 - [Quantum Battleships](https://github.com/decodoku/Battleships_with_complementary_measurements) - [Playing battleships with quantum measurements](https://medium.com/@decodoku/how-to-program-a-quantum-computer-part-2-f0d3eee872fe).
 - [Quantum Catsweeper](https://github.com/desireevl/quantum-catsweeper) - Quantum game loosely based on Minesweeper Flag.
 - [SudoQ](https://github.com/subwayHareArmy/SudoQ) - Sudoku solver that leverages a D-Wave Quantum Annealer.
