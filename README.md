@@ -26,7 +26,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 ## Quantum full-stack libraries
 
 **C++**
-- [staq](https://github.com/softwareqinc/staq) - [Full stack quantum processing toolkit](https://arxiv.org/abs/1912.06070).
+- [staq](https://github.com/softwareqinc/staq) - [Full stack quantum processing toolkit](https://iopscience.iop.org/article/10.1088/2058-9565/ab9359).
 - [XACC](https://github.com/ORNL-QCI/xacc) - [Extreme-scale programming model for quantum acceleration within high-performance computing](https://arxiv.org/abs/1710.01794).
 
 **JavaScript**
