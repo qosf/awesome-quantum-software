@@ -234,6 +234,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 **Board games**
 - [Entanglion](https://github.com/Entanglion/entanglion) - The world’s first open source quantum computing board game. For 2 players.
+- [feyn](https://mrdimosthenis.github.io/feyn) - Puzzle game in which you need to find the gate combination from where the qubits need to get through.
 
 **Python**
 - [bloqit](https://github.com/kelzheng/bloqit) - A tiny qubit duel for your smart phone.
