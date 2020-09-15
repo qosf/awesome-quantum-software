@@ -33,6 +33,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Qiskit-JS](https://github.com/Qiskit/qiskit-js) - [Quantum information software kit](https://qiskit.org/) for JavaScript (supported by IBM).
 
 **Python**
+- [Braket](https://github.com/aws/amazon-braket-sdk-python) - [Amazon Braket](https://aws.amazon.com/braket/) is a fully managed quantum computing service that provides a development environment for you to explore and build quantum algorithms, test them on quantum circuit simulators, and run them on different quantum hardware technologies.
 - [Cirq](https://github.com/quantumlib/Cirq) - Framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.
 - [Forest](https://github.com/rigetticomputing/pyquil) - [Rigetti](https://www.rigetti.com/)'s software library for writing, simulating, compiling and executing quantum programs.
 - [Ocean](https://github.com/dwavesystems/dwave-ocean-sdk) - [D-Wave System](https://www.dwavesys.com/home)'s suite of tools for solving hard problems with quantum computers.
