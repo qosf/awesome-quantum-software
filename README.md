@@ -29,9 +29,6 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [staq](https://github.com/softwareqinc/staq) - [Full stack quantum processing toolkit](https://arxiv.org/abs/1912.06070).
 - [XACC](https://github.com/ORNL-QCI/xacc) - [Extreme-scale programming model for quantum acceleration within high-performance computing](https://arxiv.org/abs/1710.01794).
 
-**JavaScript**
-- [Qiskit-JS](https://github.com/Qiskit/qiskit-js) - [Quantum information software kit](https://qiskit.org/) for JavaScript (supported by IBM).
-
 **Python**
 - [Cirq](https://github.com/quantumlib/Cirq) - Framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.
 - [Forest](https://github.com/rigetticomputing/pyquil) - [Rigetti](https://www.rigetti.com/)'s software library for writing, simulating, compiling and executing quantum programs.
@@ -270,6 +267,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [QACG](https://github.com/QCT-IQC/qacg) - Quantum Arithmetic Circuit Generator in Haskell.
 - [QCViewer](https://github.com/QCT-IQC/QCViewer) - A visual quantum circuit design and simulation tool.
 - [Squankum](https://github.com/jeffwass/Squankum) - Visual Java quantum simulator.
+- [Qiskit-JS](https://github.com/Qiskit/qiskit-js) - [Quantum information software kit](https://qiskit.org/) for JavaScript (supported by IBM).
 
 ## Contributing
 See the [contribution guidelines](CONTRIBUTING.md/#readme).
