@@ -42,6 +42,9 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 **Q#**
 - [Q#](https://www.microsoft.com/en-us/quantum/development-kit) - Microsoft's quantum programming language with Visual Studio integration.
 
+**Silq**
+- [Silq](https://silq.ethz.ch/) - Silq is a high-level quantum programming language with safe uncomputation and intuitive semantics.
+
 ## Quantum simulators
 
 **C**
