@@ -109,6 +109,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [QuSim](https://github.com/adamisntdead/QuSimPy) - Ideal noise-free multi-qubit simulator written in 150 lines of code.
 - [QuSpin](https://github.com/weinbe58/QuSpin) - Exact diagonalization and dynamics of arbitrary boson, fermion and spin many-body systems.
 - [QuTiP](http://qutip.org/) - User-friendly and efficient numerical simulations of a wide variety of open quantum systems.
+- [SeQuencing](https://github.com/sequencing-dev/sequencing) - Construct and simulate realistic quantum control sequences using QuTiP.
 - [SimulaQron](https://github.com/StephanieWehner/SimulaQron) - Application level simulator of a quantum network.
 - [SQUANCH](https://github.com/att-innovate/squanch) - A distributed simulation framework for quantum networks and channels.
 - [QuNetSim](https://github.com/tqsd/QuNetSim)- A quantum network simulation framework.
