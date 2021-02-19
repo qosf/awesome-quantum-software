@@ -253,6 +253,9 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 **JavaScript**
 - [Quantum Game with Photons](https://github.com/stared/quantum-game) - Puzzle game in browser, with polarization, superposition, and measurement.
 
+**Scala**
+- [feyn](https://mrdimosthenis.github.io/feyn) - Puzzle game for the browser in which you need to find the combination of gates that the qubits need to pass.
+
 ## Quantum tools
 
 **Mathematica**
