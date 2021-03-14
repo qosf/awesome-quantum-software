@@ -240,6 +240,9 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 **Board games**
 - [Entanglion](https://github.com/Entanglion/entanglion) - The world’s first open source quantum computing board game. For 2 players.
 
+**F#**
+- [Quantum Puzzle Generator](https://github.com/mrdimosthenis/QuantumPuzzleGenerator) - An educational puzzle game for Android and iOS.
+
 **Python**
 - [bloqit](https://github.com/kelzheng/bloqit) - A tiny qubit duel for your smart phone.
 - [QSEL](https://github.com/dabacon/qsel) -  Quantum programming language putting entanglement and superposition front and center.
