@@ -15,6 +15,7 @@ Also please check out the [Unitary Fund](http://unitary.fund/)'s 4k$ grant proje
 - [Quantum algorithms](#quantum-algorithms)
 - [Quantum compilers](#quantum-compilers)
 - [Quantum assembly](#quantum-assembly)
+- [Quantum control](#quantum-control)
 - [Quantum and post-quantum cryptography](#quantum-and-post-quantum-cryptography)
 - [Experimental quantum computing](#experimental-quantum-computing)
 - [Quantum fun](#quantum-fun)
@@ -30,6 +31,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [XACC](https://github.com/ORNL-QCI/xacc) - [Extreme-scale programming model for quantum acceleration within high-performance computing](https://arxiv.org/abs/1710.01794).
 
 **Python**
+- [blueqat](https://github.com/Blueqat/Blueqat) - A quantum computing SDK.
 - [Braket](https://github.com/aws/amazon-braket-sdk-python) - [Amazon's](https://aws.amazon.com/braket/) fully managed quantum computing service for building quantum algorithms.
 - [Cirq](https://github.com/quantumlib/Cirq) - Framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.
 - [Forest](https://github.com/rigetticomputing/pyquil) - [Rigetti](https://www.rigetti.com/)'s software library for writing, simulating, compiling and executing quantum programs.
@@ -61,13 +63,16 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [QWIRE](https://github.com/jpaykin/QWIRE) - A quantum circuit language and formal verification tool [described in this paper](https://dl.acm.org/citation.cfm?id=3009894).
 
 **C++**
+- [Huawei HiQsimulator](https://github.com/Huawei-HiQ/HiQsimulator) - Single-amplitude, Full-amplitude and Error-correction circuit simulation engine.
 - [Intel Quantum Simulator](https://github.com/intel/intel-qs) - Distributed qubit register quantum simulator using OpenMP and MPI.
 - [JKQ-DDSIM](https://github.com/iic-jku/ddsim) - Error-free quantum simulator using decision diagrams as underlying data structure. ([arXiv](https://arxiv.org/abs/1707.00865) / [IEEE](https://ieeexplore.ieee.org/document/8355954))
 - [QCL](https://github.com/aviggiano/qcl) - High level, hardware-agnostic programming language for quantum computers (syntax like C or Pascal).
+- [qFlex](https://github.com/ngnrsaa/qflex) - Flexible high-performance simulator for verifying and benchmarking quantum circuits implemented on real hardware.
 - [Qiskit Aer](https://github.com/Qiskit/qiskit-aer) - High performance simulator for quantum circuits that includes noise models (supported by IBM).
 - [Qrack](https://github.com/vm6502q/qrack) - Comprehensive qubit and gate implementation for developing universal virtual quantum processors.
 - [qSim](https://github.com/haykkh/qSim) - High level, elementary simulation library.
 - [Quantum++](https://github.com/softwareqinc/qpp) - [High-performance general purpose quantum simulator (can simulate d-dimensional qudits)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0208073).
+- [tweedledum](https://github.com/boschmitt/tweedledum) - Library for synthesis, compilation, and optimization of quantum circuits.
 
 
 **F#**
@@ -88,8 +93,10 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 **Julia**
 - [Cliffords.jl](https://github.com/BBN-Q/Cliffords.jl) - Efficient calculation of Clifford circuits in Julia.
+- [IonSim.jl](https://github.com/HaeffnerLab/IonSim.jl) - Simulate the dynamics of a configuration of trapped ions interacting with laser light.
 - [QSimulator.jl](https://github.com/BBN-Q/QSimulator.jl) - Unitary and Lindbladian evolution in Julia.
 - [QuantumInfo.jl](https://github.com/BBN-Q/QuantumInfo.jl) - Julia library for quantum information related calculations.
+- [QuantumOptics.jl](https://qojulia.org/) - Numerical framework to simulate various kinds of open quantum systems in Julia.
 - [RandomQuantum.jl](https://github.com/BBN-Q/RandomQuantum.jl) - Package for generating random quantum states and processes.
 - [Yao.jl](https://github.com/QuantumBFS/Yao.jl) - Extensible, Efficient Quantum Algorithm Design for Humans.
 
@@ -105,6 +112,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Qibo](https://github.com/Quantum-TII/qibo) - Framework for quantum simulation with hardware acceleration, including multi-GPU support.
 - [QTop](https://github.com/jacobmarks/QTop) - Simulation and visualization of topological quantum computers.
 - [Quantum Virtual Machine](https://github.com/rigetticomputing/reference-qvm) - Reference implementation of Rigetti's Quantum Virtual Machine.
+- [quimb](https://github.com/jcmgray/quimb) - Easy but fast python library for quantum information and many-body calculations, including with tensor networks.
 - [Quintuple](https://github.com/corbett/QuantumComputing) - Simulating the 5-qubit processor of the [IBM Quantum Experience](https://quantumexperience.ng.bluemix.net/qx/experience).
 - [QuPy](https://github.com/ken-nakanishi/qupy) - Quantum circuit simulator for both CPU and GPU.
 - [QuSim](https://github.com/adamisntdead/QuSimPy) - Ideal noise-free multi-qubit simulator written in 150 lines of code.
@@ -183,6 +191,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 ## Quantum compilers
 
 **C++**
+- [QCOR](https://github.com/ORNL-QCI/qcor) - C++ language extension and associated compiler implementation for hybrid quantum-classical programming.
 - [ScaffCC](https://github.com/epiqc/ScaffCC) - Compilation, analysis and optimization framework for the Scaffold quantum programming language.
 
 **Julia**
@@ -209,6 +218,12 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [QMASM](https://github.com/lanl/qmasm) - A quantum macro assembler for D-Wave's quantum annealers.
 - [Quil](https://arxiv.org/abs/1608.03355) - An open hybrid quantum/classical instruction set currently used by Rigetti. [Parser](https://github.com/rigetticomputing/pyquil/tree/master/pyquil/_parser)
 
+## Quantum control
+
+**Python**
+- [C3](https://github.com/q-optimize/c3) - Open-loop, closed-loop and automated Control, Calibration and Characterization of quantum devices.
+- [Krotov](https://github.com/qucontrol/krotov) - Python implementation of Krotov's method for quantum optimal control.
+
 ## Quantum and post-quantum cryptography
 
 **C**
@@ -229,9 +244,14 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 **Python**
 - [ARTIQ](https://github.com/m-labs/artiq) - Next-generation control system for quantum information experiments.
+- [pyEPR](https://github.com/zlatko-minev/pyEPR) - Automated Python module for the design and quantization of Josephson quantum circuits.
 - [PyQLab](https://github.com/BBN-Q/PyQLab) - Library for instrument control and superconducting QIP experiments.
+- [PyRPL](https://github.com/lneuhaus/pyrpl) - Turn your RedPitaya into a powerful DSP device, suitable as a digital lockbox and measurement device in quantum optics.
+- [QCoDeS](https://github.com/QCoDeS/Qcodes) - Python-based data acquisition framework for quantum experiments.
 - [QFlow-lite](https://github.com/jpzwolak/QFlow-lite) - Machine Learning tools for autotuning quantum dot experiments.
 - [QGL](https://github.com/BBN-Q/QGL) -  Domain-specific language embedded in Python for specifying pulse sequences.
+- [QTT](https://github.com/QuTech-Delft/qtt) - Quantum Technology Toolbox is a framework for the tuning and calibration of quantum dots and spin qubits.
+- [Quantify](https://gitlab.com/quantify-os/quantify-core) -  Data acquisition platform focused on Quantum Computing and solid-state physics experiments.
 - [Quince](https://github.com/BBN-Q/Quince) - Node-based GUI that allows for graphical configuration of qubit experiments in Auspex.
 - [qupulse](https://github.com/qutech/qupulse) - Quantum computing pulse parametrization and sequencing framework (formerly qc-toolkit).
 
