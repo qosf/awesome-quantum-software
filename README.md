@@ -178,6 +178,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [PennyLane](https://github.com/XanaduAI/pennylane) - Library for quantum ML, automatic differentiation and optimization of hybrid computations.
 - [QFog](https://github.com/artiste-qb-net/quantum-fog) - Framework for analyzing both classical and quantum Bayesian Networks.
 - [Qiskit Aqua](https://github.com/Qiskit/qiskit-aqua) - Library of various quantum algorithm implemented with [Qiskit](https://github.com/Qiskit/qiskit).
+- [Qiskit Nature](https://github.com/Qiskit/qiskit-nature) - Quantum Chemistry including ground state, excited states and dipole moment calculations.
 - [Qiskit Tutorial](https://github.com/QISKit/qiskit-tutorial) - Jupyter notebook filled with tutorials for [Qiskit](https://github.com/QISKit/qiskit).
 - [Quantum_Edward](https://github.com/artiste-qb-net/Quantum_Edward) - Python tools for supervised learning by Quantum Neural Networks
 - [QuantumFlow](https://github.com/rigetti/quantumflow) - Quantum Algorithms Development Toolkit e.g. allowing for backpropagation with QAOA.
@@ -203,6 +204,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 **Python**
 - [Arline Benchmarks](https://github.com/ArlineQ/arline_benchmarks) - Automated benchmarking platform for quantum compilers, quantum hardware and quantum algorithms.
+- [BQSKit](https://github.com/BQSKit) - Berkeley Quantum Synthesis Toolkit is an optimizing quantum compiler and related tool-set.
 - [Mitiq](https://github.com/unitaryfund/mitiq) - Cross-platform, error-mitigating quantum compiler from [Unitary Fund](https://unitary.fund/).
 - [PyZX](https://github.com/Quantomatic/pyzx) - Python library for quantum circuit rewriting and optimisation using the ZX-calculus.
 - [QGL2 Compiler](https://github.com/BBN-Q/pyqgl2) - Language compiler for imperative Quantum Gate Language ([QGL](https://github.com/BBN-Q/QGL)).
@@ -251,10 +253,12 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [QCoDeS](https://github.com/QCoDeS/Qcodes) - Python-based data acquisition framework for quantum experiments.
 - [QFlow-lite](https://github.com/jpzwolak/QFlow-lite) - Machine Learning tools for autotuning quantum dot experiments.
 - [QGL](https://github.com/BBN-Q/QGL) -  Domain-specific language embedded in Python for specifying pulse sequences.
+- [Qiskit Metal](https://github.com/Qiskit/qiskit-metal) - Quantum hardware design and analysis.
 - [QTT](https://github.com/QuTech-Delft/qtt) - Quantum Technology Toolbox is a framework for the tuning and calibration of quantum dots and spin qubits.
 - [Quantify](https://gitlab.com/quantify-os/quantify-core) -  Data acquisition platform focused on Quantum Computing and solid-state physics experiments.
 - [Quince](https://github.com/BBN-Q/Quince) - Node-based GUI that allows for graphical configuration of qubit experiments in Auspex.
 - [qupulse](https://github.com/qutech/qupulse) - Quantum computing pulse parametrization and sequencing framework (formerly qc-toolkit).
+- [scqubits](https://github.com/scqubits/scqubits) - Simulating superconducting qubits, obtaining energy spectra, plotting energy levels and more.
 
 ## Quantum fun
 
