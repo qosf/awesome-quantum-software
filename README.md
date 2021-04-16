@@ -294,12 +294,13 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 **Python**
 - [IBM Q bot](https://github.com/RQC-QApp/QuantumComputingBot) - Bot for Slack and Telegram to monitor the load of IBM Q quantum computers.
-- [toqito](https://github.com/vprusso/toqito) - Framework to study problems pertaining to entanglement theory, nonlocal games, and other aspects of quantum information.
-- [QuantumGraphs](https://github.com/ziofil/QuantumGraphs) - Grow and study random graphs by a continuous, randomly collapsing quantum walk.
+- [pulsemaker](https://github.com/adgt/pulsemaker) - A Python widget library for designing pulses and pulse schedules for quantum computing hardware. 
+- [pyQuirk](https://github.com/adgt/pyQuirk) - A Python widget for Quirk to be used in Jupyter notebooks, JupyterLab, and the IPython kernel.
 - [qonduit](https://github.com/adgt/qonduit) - A Python library with visualization tools and workflows for quantum computing that utilize the best of what’s available.
 - [qprof](https://gitlab.com/qcomputing/qprof/qprof) - `gprof`-compatible profiler for quantum programs.
-- [pyQuirk](https://github.com/adgt/pyQuirk) - A Python widget for Quirk to be used in Jupyter notebooks, JupyterLab, and the IPython kernel.
-- [pulsemaker](https://github.com/adgt/pulsemaker) - A Python widget library for designing pulses and pulse schedules for quantum computing hardware. 
+- [QRAND](https://github.com/pedrorrivero/qrand) - A multiplatform and multiprotocol quantum random number generator for arbitrary probability distributions.
+- [QuantumGraphs](https://github.com/ziofil/QuantumGraphs) - Grow and study random graphs by a continuous, randomly collapsing quantum walk.
+- [toqito](https://github.com/vprusso/toqito) - Framework to study problems pertaining to entanglement theory, nonlocal games, and other aspects of quantum information.
 
 **Others**
 - [Quil syntax highlighter](https://github.com/JavaFXpert/quil-syntax-highlighter) - Syntax highlighter for PyCharm.
