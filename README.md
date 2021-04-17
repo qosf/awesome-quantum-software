@@ -78,7 +78,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Liqui|>](http://stationq.github.io/Liquid/) - Toolsuite for quantum simulation developed by [Microsoft QuArC](https://www.microsoft.com/en-us/research/group/quantum-architectures-and-computation-group-quarc/).
 
 **Java**
-- [Strange](https://github.com/redfx-quantum/strange) - Java API that can be used to create Quantum Programs
+- [Strange](https://github.com/redfx-quantum/strange) - Java API that can be used to create Quantum Programs.
 
 **JavaScript**
 - [jsquil](https://github.com/mapmeld/jsquil) - JavaScript interface for writing [Quil](https://en.wikipedia.org/wiki/Quil_(instruction_set_architecture)) programs.
