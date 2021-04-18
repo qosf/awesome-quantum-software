@@ -166,6 +166,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [QFog](https://github.com/artiste-qb-net/quantum-fog) - Framework for analyzing both classical and quantum Bayesian Networks.
 - [Qiskit Aqua](https://github.com/Qiskit/qiskit-aqua) - Library of various quantum algorithm implemented with [Qiskit](https://github.com/Qiskit/qiskit).
 - [Qiskit Nature](https://github.com/Qiskit/qiskit-nature) - Quantum Chemistry including ground state, excited states and dipole moment calculations.
+- [QPanda](https://github.com/OriginQ/QPanda-2) - QPanda is a quantum computing framework that can be used to build, run, and optimize quantum algorithms.
 - [Qiskit Tutorial](https://github.com/QISKit/qiskit-tutorial) - Jupyter notebook filled with tutorials for [Qiskit](https://github.com/QISKit/qiskit).
 - [Quantum_Edward](https://github.com/artiste-qb-net/Quantum_Edward) - Python tools for supervised learning by Quantum Neural Networks
 - [QuantumFlow](https://github.com/rigetti/quantumflow) - Quantum Algorithms Development Toolkit e.g. allowing for backpropagation with QAOA.
@@ -193,6 +194,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Arline Benchmarks](https://github.com/ArlineQ/arline_benchmarks) - Automated benchmarking platform for quantum compilers, quantum hardware and quantum algorithms.
 - [BQSKit](https://github.com/BQSKit) - Berkeley Quantum Synthesis Toolkit is an optimizing quantum compiler and related tool-set.
 - [Mitiq](https://github.com/unitaryfund/mitiq) - Cross-platform, error-mitigating quantum compiler from [Unitary Fund](https://unitary.fund/).
+- [OLSQ](https://github.com/tbcdebug/OLSQ) - OpenQASM package to perform optimal layout synthesis for quantum computing.
 - [PyZX](https://github.com/Quantomatic/pyzx) - Python library for quantum circuit rewriting and optimisation using the ZX-calculus.
 - [QGL2 Compiler](https://github.com/BBN-Q/pyqgl2) - Language compiler for imperative Quantum Gate Language ([QGL](https://github.com/BBN-Q/QGL)).
 - [Qiskit Terra](https://github.com/Qiskit/qiskit-terra) - Python library for quantum circuit rewriting and optimization (supported by IBM).
@@ -213,7 +215,6 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 **Python**
 - [C3](https://github.com/q-optimize/c3) - Open-loop, closed-loop and automated Control, Calibration and Characterization of quantum devices.
 - [Krotov](https://github.com/qucontrol/krotov) - Python implementation of Krotov's method for quantum optimal control.
-- [OLSQ](https://github.com/tbcdebug/OLSQ) - OpenQASM package to perform optimal layout synthesis for quantum computing.
 
 ## Quantum and post-quantum cryptography
 
