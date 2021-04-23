@@ -2,6 +2,9 @@
 
 # Open-Source Quantum Software Projects
 
+![Twitter Follow](https://img.shields.io/twitter/follow/qosfoundation?style=social)
+
+
 Curated list of open-source developed quantum software projects.
 
 *Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contributing.*
