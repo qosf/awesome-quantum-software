@@ -70,12 +70,16 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [QCEAD](https://github.com/llens/QuantumComputingEvolutionaryAlgorithmDesign) - C++ program to both simulate a quantum computer and use parallel evolutionary techniques to design algorithms.
 - [Qrack](https://github.com/vm6502q/qrack) - Comprehensive qubit and gate implementation for developing universal virtual quantum processors.
 - [qSim](https://github.com/haykkh/qSim) - High level, elementary simulation library.
+- [QSim](https://github.com/quantumlib/qsim) - Schrödinger and Schrödinger-Feynman simulators for quantum circuits
 - [Quantum++](https://github.com/softwareqinc/qpp) - [High-performance general purpose quantum simulator (can simulate d-dimensional qudits)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0208073).
 - [tweedledum](https://github.com/boschmitt/tweedledum) - Library for synthesis, compilation, and optimization of quantum circuits.
 
 
 **F#**
 - [Liqui|>](http://stationq.github.io/Liquid/) - Toolsuite for quantum simulation developed by [Microsoft QuArC](https://www.microsoft.com/en-us/research/group/quantum-architectures-and-computation-group-quarc/).
+
+**GoLang**
+- [Q](https://github.com/itsubaki/q) - Quantum Computation Simulator written purely in golang
 
 **Java**
 - [Strange](https://github.com/redfx-quantum/strange) - Java API that can be used to create Quantum Programs.
@@ -161,6 +165,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [FermiLib](https://github.com/ProjectQ-Framework/FermiLib) - Software for analyzing fermionic quantum simulation algorithms with [ProjectQ](https://github.com/ProjectQ-Framework/ProjectQ).
 - [Grove](https://github.com/rigetticomputing/grove) - Quantum algorithms implemented using [Rigetti](https://www.rigetti.com/)'s [pyQuil](https://github.com/rigetticomputing/pyquil).
 - [OpenFermion](https://github.com/quantumlib/OpenFermion) - Compiling and analyzing quantum algorithm for quantum chemistry simulations.
+- [Paddle Quantum](https://github.com/PaddlePaddle/Quantum) - Quantum machine learning platform to construct & train quantum neural networks, developed by Baidu.
 - [PennyLane](https://github.com/XanaduAI/pennylane) - Library for quantum ML, automatic differentiation and optimization of hybrid computations.
 - [PyZFS](https://github.com/hema-ted/pyzfs) - Package to compute zero-field-splitting tensors for molecules and spin quantum bits in semiconductors.
 - [QFog](https://github.com/artiste-qb-net/quantum-fog) - Framework for analyzing both classical and quantum Bayesian Networks.
@@ -221,6 +226,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [liboqs](https://github.com/open-quantum-safe/liboqs) - C library for quantum-resistant cryptographic algorithms.
 - [openssh](https://github.com/open-quantum-safe/openssh-portable) - OpenSSH with quantum-safe key exchange algorithms.
 - [openssl](https://github.com/open-quantum-safe/openssl) - OpenSSL with quantum-safe cryptographic algorithms.
+- [PQClean](https://github.com/PQClean/PQClean) - Clean, portable, tested implementations of post-quantum cryptography
 
 **Python**
 - [QRL](https://github.com/theQRL/QRL/) - [Quantum Resistant Ledger](https://theqrl.org/) utilizing hash-based one-time merkle tree signature scheme instead of ECDSA.
@@ -257,6 +263,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 **Python**
 - [bloqit](https://github.com/kelzheng/bloqit) - A tiny qubit duel for your smart phone.
+- [QiskitBlocks](https://github.com/JavaFXpert/QiskitBlocks) - Game that teaches quantum computing using Qiskit in a Minetest block world. 
 - [Quantum Awesomeness](https://github.com/decodoku/A_Game_to_Benchmark_Quantum_Computers)  - [Simple puzzles to benchmark various quantum processor](https://medium.com/@decodoku/understanding-quantum-computers-through-a-simple-puzzle-game-a290dde89fb2).
 - [Quantum Battleships](https://github.com/decodoku/Battleships_with_complementary_measurements) - [Playing battleships with quantum measurements](https://medium.com/@decodoku/how-to-program-a-quantum-computer-part-2-f0d3eee872fe).
 - [Quantum Catsweeper](https://github.com/desireevl/quantum-catsweeper) - Quantum game loosely based on Minesweeper Flag.
