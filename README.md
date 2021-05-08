@@ -102,7 +102,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Yao.jl](https://github.com/QuantumBFS/Yao.jl) - Extensible, Efficient Quantum Algorithm Design for Humans.
 
 **Python**
-- [MISTIQS](https://github.com/USCCACS/MISTIQS) - Generating, compiling, and executing quantum circuits for simulating quantum many-body dynamics of systems.
+- [MISTIQS](https://github.com/USCCACS/MISTIQS) - Generating/compiling/executing quantum circuits for simulating quantum many-body dynamics of systems.
 - [PIQS](https://github.com/nathanshammah/piqs) - Efficient simulation of open quantum dynamics of identical qubits.
 - [QCircuits](https://github.com/grey-area/qcircuits) - User-friendly quantum circuit simulator designed for students and newcomers to quantum computing.
 - [QCompute](https://github.com/baidu/QCompute) - [Baidu](http://research.baidu.com/Research_Areas/index-view?id=75)'s oftware development kit for designing quantum circuits and simulating on a high-performance simulator.
