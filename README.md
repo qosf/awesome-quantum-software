@@ -105,7 +105,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [MISTIQS](https://github.com/USCCACS/MISTIQS) - Generating/compiling/executing quantum circuits for simulating quantum many-body dynamics of systems.
 - [PIQS](https://github.com/nathanshammah/piqs) - Efficient simulation of open quantum dynamics of identical qubits.
 - [QCircuits](https://github.com/grey-area/qcircuits) - User-friendly quantum circuit simulator designed for students and newcomers to quantum computing.
-- [QCompute](https://github.com/baidu/QCompute) - [Baidu](http://research.baidu.com/Research_Areas/index-view?id=75)'s oftware development kit for designing quantum circuits and simulating on a high-performance simulator.
+- [QCompute](https://github.com/baidu/QCompute) - [Baidu](http://research.baidu.com/Research_Areas/index-view?id=75)'s software development kit for designing quantum circuits and simulating on a high-performance simulator.
 - [Qibo](https://github.com/Quantum-TII/qibo) - Framework for quantum simulation with hardware acceleration, including multi-GPU support.
 - [QTop](https://github.com/jacobmarks/QTop) - Simulation and visualization of topological quantum computers.
 - [quantum-computing](https://github.com/QuantumSystems/quantum-computing) - Functionally complete simulator for universal quantum computing in Python
