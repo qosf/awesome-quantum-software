@@ -288,6 +288,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 ## Quantum tools
 
 **Mathematica**
+- [Quantum](http://homepage.cem.itesm.mx/lgomez/quantum/) - A free Mathematica add-on for Dirac Bra-Ket Notation, Quantum Algebra, Quantum Computing and the QHD approximation to the Heisenberg Equations of Motion.
 - [QI](https://github.com/rogercolbeck/QI) - Toolkit for common quantum information functions.
 
 **Python**
