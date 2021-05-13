@@ -18,6 +18,7 @@ Also please check out the [Unitary Fund](http://unitary.fund/)'s 4k$ grant proje
 - [Quantum compilers](#quantum-compilers)
 - [Quantum assembly](#quantum-assembly)
 - [Quantum control](#quantum-control)
+- [Quantum error correction](#quantum-error-correction)
 - [Quantum and post-quantum cryptography](#quantum-and-post-quantum-cryptography)
 - [Experimental quantum computing](#experimental-quantum-computing)
 - [Quantum fun](#quantum-fun)
@@ -118,6 +119,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [QuTiP](http://qutip.org/) - User-friendly and efficient numerical simulations of a wide variety of open quantum systems.
 - [SeQuencing](https://github.com/sequencing-dev/sequencing) - Construct and simulate realistic quantum control sequences using QuTiP.
 - [SimulaQron](https://github.com/StephanieWehner/SimulaQron) - Application level simulator of a quantum network.
+- [Stim](https://github.com/quantumlib/Stim) - A fast stabilizer circuit simulator.
 - [SQUANCH](https://github.com/att-innovate/squanch) - A distributed simulation framework for quantum networks and channels.
 - [QuNetSim](https://github.com/tqsd/QuNetSim)- A quantum network simulation framework.
 - [The Walrus](https://github.com/xanaduAI/thewalrus)- [Xanadu](https://www.xanadu.ai)'s library for simulating Gaussian Boson Sampling.
@@ -225,6 +227,12 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 **Python**
 - [C3](https://github.com/q-optimize/c3) - Open-loop, closed-loop and automated Control, Calibration and Characterization of quantum devices.
 - [Krotov](https://github.com/qucontrol/krotov) - Python implementation of Krotov's method for quantum optimal control.
+
+## Quantum error correction
+
+**Python**
+- [PyMatching](https://github.com/oscarhiggott/PyMatching) - Python package for decoding quantum error correcting codes with minimum-weight perfect matching.
+- [qecsim](https://github.com/qecsim/qecsim) - Python package for simulating quantum error correction using stabilizer codes.
 
 ## Quantum and post-quantum cryptography
 
