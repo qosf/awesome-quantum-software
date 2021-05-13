@@ -233,6 +233,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 **Python**
 - [PyMatching](https://github.com/oscarhiggott/PyMatching) - Python package for decoding quantum error correcting codes with minimum-weight perfect matching.
 - [qecsim](https://github.com/qecsim/qecsim) - Python package for simulating quantum error correction using stabilizer codes.
+- [Qsurface](https://github.com/watermarkhu/qsurface) - Python package for simulation and visualization of quantum error-correction on surface codes.
 
 ## Quantum and post-quantum cryptography
 
