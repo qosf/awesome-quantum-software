@@ -216,6 +216,9 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 **Common Lisp**
 - [quilc](https://github.com/rigetti/quilc) - Rigetti's optimizing Quil compiler.
 
+## Quantum converters
+- [qconvert](http://github.com/quantastica/qconvert)  Quantastica's quantum programming language converter in Python.
+
 ## Quantum assembly
 
 - [Blackbird](https://github.com/XanaduAI/blackbird) - Open-source quantum instruction language currently used for Xanadu's photonic hardware.
