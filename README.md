@@ -233,6 +233,10 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [C3](https://github.com/q-optimize/c3) - Open-loop, closed-loop and automated Control, Calibration and Characterization of quantum devices.
 - [Krotov](https://github.com/qucontrol/krotov) - Python implementation of Krotov's method for quantum optimal control.
 
+## Quantum interopability
+
+- [scikit-quant](https://github.com/scikit-quant) - This is a package to improve interopability between different quantum computer software packages.
+
 ## Quantum error correction
 
 **Python**
