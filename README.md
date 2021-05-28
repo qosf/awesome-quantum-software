@@ -16,6 +16,7 @@ Also please check out the [Unitary Fund](http://unitary.fund/)'s 4k$ grant proje
 - [Quantum annealing](#quantum-annealing)
 - [Quantum algorithms](#quantum-algorithms)
 - [Quantum compilers](#quantum-compilers)
+- [Quantum converters](#quantum-convertets)
 - [Quantum assembly](#quantum-assembly)
 - [Quantum control](#quantum-control)
 - [Quantum error correction](#quantum-error-correction)
