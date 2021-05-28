@@ -19,6 +19,7 @@ Also please check out the [Unitary Fund](http://unitary.fund/)'s 4k$ grant proje
 - [Quantum converters](#quantum-converters)
 - [Quantum assembly](#quantum-assembly)
 - [Quantum control](#quantum-control)
+- [Quantum interopability](#quantum-interopability)
 - [Quantum error correction](#quantum-error-correction)
 - [Quantum and post-quantum cryptography](#quantum-and-post-quantum-cryptography)
 - [Experimental quantum computing](#experimental-quantum-computing)
