@@ -235,7 +235,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 ## Quantum interopability
 
-- [scikit-quant](https://github.com/scikit-quant) - This is a package to improve interopability between different quantum computer software packages.
+- [scikit-quant](https://github.com/scikit-quant/scikit-quant) - This is a package to improve interopability between different quantum computer software packages.
 
 ## Quantum error correction
 
