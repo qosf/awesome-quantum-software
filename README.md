@@ -164,6 +164,9 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 **C++**
 - [XACC VQE](https://github.com/ornl-qci/xacc-vqe) - Variational quantum eigensolver built on [XACC](https://github.com/ORNL-QCI/xacc) for distributed, and shared memory systems.
 
+**HTML**
+- [myQShor](https://github.com/Michaelvll/myQShor) - Quantum implementation of Shor's algorithm.
+
 **Julia**
 - [QuantumTomography.jl](https://github.com/BBN-Q/QuantumTomography.jl) - Julia package to perform quantum state and process tomography.
 
