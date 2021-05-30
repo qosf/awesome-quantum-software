@@ -19,7 +19,7 @@ Also please check out the [Unitary Fund](http://unitary.fund/)'s 4k$ grant proje
 - [Quantum converters](#quantum-converters)
 - [Quantum assembly](#quantum-assembly)
 - [Quantum control](#quantum-control)
-- [Quantum interopability](#quantum-interopability)
+- [Quantum interoperability](#quantum-interoperability)
 - [Quantum error correction](#quantum-error-correction)
 - [Quantum and post-quantum cryptography](#quantum-and-post-quantum-cryptography)
 - [Experimental quantum computing](#experimental-quantum-computing)
@@ -240,7 +240,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [C3](https://github.com/q-optimize/c3) - Open-loop, closed-loop and automated Control, Calibration and Characterization of quantum devices.
 - [Krotov](https://github.com/qucontrol/krotov) - Python implementation of Krotov's method for quantum optimal control.
 
-## Quantum interopability
+## Quantum interoperability
 
 - [scikit-quant](https://github.com/scikit-quant/scikit-quant) - This is a package to improve interopability between different quantum computer software packages.
 
