@@ -221,6 +221,9 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [quilc](https://github.com/rigetti/quilc) - Rigetti's optimizing Quil compiler.
 
 ## Quantum converters
+**Javascript**
+[qconvert-js](http://github.com/quantastica/qconvert-js)  Quantastica's quantum programming language converter in Javascript.
+**Python**
 - [qconvert](http://github.com/quantastica/qconvert)  Quantastica's quantum programming language converter in Python.
 
 ## Quantum assembly
