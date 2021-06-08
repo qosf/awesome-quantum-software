@@ -260,6 +260,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [PQClean](https://github.com/PQClean/PQClean) - Clean, portable, tested implementations of post-quantum cryptography.
 
 **Python**
+- [Crypto-Vinaigrette](https://github.com/aditisrinivas97/Crypto-Vinaigrette) - Quantum-resistant asymmetric key generation toolfor digital signatures.
 - [QRL](https://github.com/theQRL/QRL/) - [Quantum Resistant Ledger](https://theqrl.org/) utilizing hash-based one-time merkle tree signature scheme instead of ECDSA.
 
 ## Experimental quantum computing
