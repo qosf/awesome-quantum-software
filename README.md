@@ -188,7 +188,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Quantum_Edward](https://github.com/artiste-qb-net/Quantum_Edward) - Python tools for supervised learning by Quantum Neural Networks
 - [QuantumFlow](https://github.com/rigetti/quantumflow) - Quantum Algorithms Development Toolkit e.g. allowing for backpropagation with QAOA.
 - [Quantum TSP](https://github.com/mstechly/quantum_tsp_tutorials) - Tutorials on solving Travelling Salesman Problem using quantum computing (QAOA).
-- [Qudit Teams](github.com/Vanimiaou/QuitTeams) - Repository to extend Qiskit versatility to higher dimensional quantum states.
+- [Qudit Teams](https://github.com/Vanimiaou/QuitTeams) - Repository to extend Qiskit versatility to higher dimensional quantum states.
 - [Tensorflow Quantum](https://www.tensorflow.org/quantum) - Library for hybrid quantum-classical machine learning.
 - [VQF](https://github.com/mstechly/vqf) - Implementation of Variational Quantum Factoring algorithm (in pyQuil)
 - [WebMark](https://github.com/ohtu2021-kvantti/WebMark) - Web platform for benchmarking quantum computing algorithms.
