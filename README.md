@@ -306,6 +306,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 **Python**
 - [IBM Q bot](https://github.com/RQC-QApp/QuantumComputingBot) - Bot for Slack and Telegram to monitor the load of IBM Q quantum computers.
+- [orqviz](https://github.com/zapatacomputing/orqviz) - Library to easily visualize the loss landscape of variational quantum algorithms.
 - [pulsemaker](https://github.com/adgt/pulsemaker) - A Python widget library for designing pulses and pulse schedules for quantum computing hardware. 
 - [pyQuirk](https://github.com/adgt/pyQuirk) - A Python widget for Quirk to be used in Jupyter notebooks, JupyterLab, and the IPython kernel.
 - [qonduit](https://github.com/adgt/qonduit) - A Python library with visualization tools and workflows for quantum computing that utilize the best of what’s available.
