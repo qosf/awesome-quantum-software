@@ -106,6 +106,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Yao.jl](https://github.com/QuantumBFS/Yao.jl) - Extensible, Efficient Quantum Algorithm Design for Humans.
 
 **Python**
+- [Interlin-q](https://github.com/Interlin-q/Interlin-q) - Quantum network simulator imitating distributed quantum systems with interconnect communication between nodes.
 - [MISTIQS](https://github.com/USCCACS/MISTIQS) - Generating/compiling/executing quantum circuits for simulating quantum many-body dynamics of systems.
 - [PIQS](https://github.com/nathanshammah/piqs) - Efficient simulation of open quantum dynamics of identical qubits.
 - [QCircuits](https://github.com/grey-area/qcircuits) - User-friendly quantum circuit simulator designed for students and newcomers to quantum computing.
@@ -122,7 +123,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [SimulaQron](https://github.com/StephanieWehner/SimulaQron) - Application level simulator of a quantum network.
 - [Stim](https://github.com/quantumlib/Stim) - A fast stabilizer circuit simulator.
 - [SQUANCH](https://github.com/att-innovate/squanch) - A distributed simulation framework for quantum networks and channels.
-- [QuNetSim](https://github.com/tqsd/QuNetSim)- A quantum network simulation framework.
+- [QuNetSim](https://github.com/tqsd/QuNetSim) - A quantum network simulation framework.
 - [The Walrus](https://github.com/xanaduAI/thewalrus)- [Xanadu](https://www.xanadu.ai)'s library for simulating Gaussian Boson Sampling.
 
 **Rust**
