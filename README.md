@@ -235,6 +235,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 **Python**
 - [C3](https://github.com/q-optimize/c3) - Open-loop, closed-loop and automated Control, Calibration and Characterization of quantum devices.
 - [Krotov](https://github.com/qucontrol/krotov) - Python implementation of Krotov's method for quantum optimal control.
+- [Quanlse](https://github.com/baidu/Quanlse) - Quanlse provides quantum control solutions via a cloud SDK, developed by [Baidu Quantum](https://quantum.baidu.com).
 
 ## Quantum error correction
 
