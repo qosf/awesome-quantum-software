@@ -207,6 +207,9 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 **Mathematica**
 - [UniversalQCompiler](https://github.com/Q-Compiler/UniversalQCompiler) - Synthesis of isometries (including unitaries and state preparation), channels and POVMs.
 
+**Julia**
+- [QuantumCircuitOpt.jl](https://github.com/harshangrjn/QuantumCircuitOpt.jl) - Julia package for provably optimal decompositions and compilations of quantum circuits
+
 **Python**
 - [Arline Benchmarks](https://github.com/ArlineQ/arline_benchmarks) - Automated benchmarking platform for quantum compilers, quantum hardware and quantum algorithms.
 - [BQSKit](https://github.com/BQSKit) - Berkeley Quantum Synthesis Toolkit is an optimizing quantum compiler and related tool-set.
