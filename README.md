@@ -310,6 +310,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [QI](https://github.com/rogercolbeck/QI) - Toolkit for common quantum information functions.
 
 **Python**
+- [Covalent](https://github.com/AgnostiqHQ/covalent) - Tool for running high performance/quantum workflows on advanced computing hardwares.
 - [IBM Q bot](https://github.com/RQC-QApp/QuantumComputingBot) - Bot for Slack and Telegram to monitor the load of IBM Q quantum computers.
 - [orqviz](https://github.com/zapatacomputing/orqviz) - Library to easily visualize the loss landscape of variational quantum algorithms.
 - [pulsemaker](https://github.com/adgt/pulsemaker) - A Python widget library for designing pulses and pulse schedules for quantum computing hardware. 
