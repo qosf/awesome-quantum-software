@@ -23,6 +23,7 @@ Also please check out the [Unitary Fund](http://unitary.fund/)'s 4k$ grant proje
 - [Experimental quantum computing](#experimental-quantum-computing)
 - [Quantum fun](#quantum-fun)
 - [Quantum tools](#quantum-tools)
+- [Quantum data](#quantum-data)
 - [Abandoned projects](#abandoned-projects)
 
 For a curated list of learning resources please check out [desireevl's repo](https://github.com/desireevl/awesome-quantum-computing).
@@ -320,6 +321,10 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [QRAND](https://github.com/pedrorrivero/qrand) - A multiplatform and multiprotocol quantum random number generator for arbitrary probability distributions.
 - [QuantumGraphs](https://github.com/ziofil/QuantumGraphs) - Grow and study random graphs by a continuous, randomly collapsing quantum walk.
 - [toqito](https://github.com/vprusso/toqito) - Framework to study problems pertaining to entanglement theory, nonlocal games, and other aspects of quantum information.
+
+## Quantum data
+
+- [QDataSet](https://github.com/eperrier/QDataSet) - Quantum datasets for the training and development of QML algorithms.
 
 **Others**
 - [Quil syntax highlighter](https://github.com/JavaFXpert/quil-syntax-highlighter) - Syntax highlighter for PyCharm.
