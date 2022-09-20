@@ -177,6 +177,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Grove](https://github.com/rigetticomputing/grove) - Quantum algorithms implemented using [Rigetti](https://www.rigetti.com/)'s [pyQuil](https://github.com/rigetticomputing/pyquil).
 - [G/SG Morph](https://github.com/IffTech/GSG-Morph) - Quantum annealing algorithms for Graph/Subgraph Isomorphism based on [Calude et al.'s paper "QUBO formulations for the graph isomorphism problem and related problems" 10.1016/j.tcs.2017.04.016](https://doi.org/10.1016/j.tcs.2017.04.016)
 - [OpenFermion](https://github.com/quantumlib/OpenFermion) - Compiling and analyzing quantum algorithm for quantum chemistry simulations.
+- [OpenQAOA](https://github.com/entropicalabs/openqaoa) - Multi-backend SDK to create, customise and execute QAOA on NISQ devices and simulators.
 - [Paddle Quantum](https://github.com/PaddlePaddle/Quantum) - Quantum machine learning platform to construct & train quantum neural networks, developed by Baidu.
 - [PennyLane](https://github.com/XanaduAI/pennylane) - Library for quantum ML, automatic differentiation and optimization of hybrid computations.
 - [PyZFS](https://github.com/hema-ted/pyzfs) - Package to compute zero-field-splitting tensors for molecules and spin quantum bits in semiconductors.
