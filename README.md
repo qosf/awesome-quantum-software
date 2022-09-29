@@ -12,7 +12,7 @@ Also please check out the [Unitary Fund](http://unitary.fund/)'s 4k$ grant proje
 
 Clone this repository into your qBraid account: 
 
-[<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com?gitHubUrl=https://github.com/rryoung98/awesome-quantum-software.git)
+[<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com?gitHubUrl=https://github.com/qosf/awesome-quantum-software.git)
 
 ## Contents
 - [Quantum full-stack libraries](#quantum-full-stack-libraries)
