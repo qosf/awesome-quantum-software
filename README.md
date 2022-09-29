@@ -50,6 +50,9 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Qiskit](https://qiskit.org/) - Framework for noisy quantum computers at the level of pulses, circuits, and algorithms (supported by IBM).
 - [Strawberry Fields](https://github.com/xanaduai/strawberryfields) - [Xanadu](https://www.xanadu.ai)'s software library for photonic quantum computing.
 - [Tequila](https://github.com/aspuru-guzik-group/tequila) - Extensible Quantum Information and Learning Architecture developed by Alan Aspuru-Guzik's group (UofT).
+- [qBraid](https://qbraid-qbraid.readthedocs-hosted.com/en/latest/sdk/overview.html) - Transpiles quantum circuits to and from Cirq, Qiskit, Amazon Braket, Pennylane, Pyquil and allows for execution on any backend.
+- [Arline Quantum](https://github.com/ArlineQ/arline_quantum) - Arline Quantum is an open-source library providing basic functionality for creating and manipulating quantum circuits. It also contains a list of mock quantum hardware.
+
 
 **Q#**
 - [Q#](https://www.microsoft.com/en-us/quantum/development-kit) - Microsoft's quantum programming language with Visual Studio integration.
