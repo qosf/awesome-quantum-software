@@ -1,7 +1,5 @@
 <p align="center"><img src="hopf_fibration.png" alt="bDialog" height="300px"></p>
 
-[<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com?gitHubUrl=https://github.com/rryoung98/awesome-quantum-software.git)
-
 # Open-Source Quantum Software Projects
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/qosfoundation?style=social)](https://twitter.com/qosfoundation)
@@ -11,6 +9,10 @@ Curated list of open-source developed quantum software projects.
 *Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contributing.*
 
 Also please check out the [Unitary Fund](http://unitary.fund/)'s 4k$ grant project for quantum OSS!
+
+Clone this repository into your qBraid account: 
+
+[<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com?gitHubUrl=https://github.com/rryoung98/awesome-quantum-software.git)
 
 ## Contents
 - [Quantum full-stack libraries](#quantum-full-stack-libraries)
