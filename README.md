@@ -134,6 +134,10 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 **Swift**
 - [SwiftQuantumComputing](https://github.com/indisoluble/SwiftQuantumComputing) - Quantum circuit simulator with a bit of genetic programming.
 
+## Quantum Analog Hamiltonian
+
+- [Bloqade](https://github.com/QuEraComputing/Bloqade.jl) - Package for the quantum computation and quantum simulation based on the neutral-atom architecture.
+
 ## Quantum annealing
 
 **C++**
