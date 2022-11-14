@@ -78,6 +78,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [QSim](https://github.com/quantumlib/qsim) - Schrödinger and Schrödinger-Feynman simulators for quantum circuits.
 - [Quantum++](https://github.com/softwareqinc/qpp) - [High-performance general purpose quantum simulator (can simulate d-dimensional qudits)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0208073).
 - [tweedledum](https://github.com/boschmitt/tweedledum) - Library for synthesis, compilation, and optimization of quantum circuits.
+- [QPlayer](https://github.com/eQuantumOS/QPlayer) - Light-weight, scalable and fast quantum simulator using reduced quantum states. ([paper](https://onlinelibrary.wiley.com/doi/full/10.4218/etrij.2021-0442))
 
 
 **F#**
