@@ -71,8 +71,8 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Huawei HiQsimulator](https://github.com/Huawei-HiQ/HiQsimulator) - Single-amplitude, Full-amplitude and Error-correction circuit simulation engine.
 - [Intel Quantum Simulator](https://github.com/intel/intel-qs) - Distributed qubit register quantum simulator using OpenMP and MPI.
 - [JKQ-DDSIM](https://github.com/iic-jku/ddsim) - Error-free quantum simulator using decision diagrams as underlying data structure. ([arXiv](https://arxiv.org/abs/1707.00865) / [IEEE](https://ieeexplore.ieee.org/document/8355954))
-- [qFlex](https://github.com/ngnrsaa/qflex) - Flexible high-performance simulator for verifying and benchmarking quantum circuits implemented on real hardware.
 - [PennyLane Lightning](https://github.com/PennyLaneAI/pennylane-lightning) - Fast state-vector simulator written in C++. GPU support. Python interface via [PennyLane](https://pennylane.ai).
+- [qFlex](https://github.com/ngnrsaa/qflex) - Flexible high-performance simulator for verifying and benchmarking quantum circuits implemented on real hardware.
 - [Qiskit Aer](https://github.com/Qiskit/qiskit-aer) - High performance simulator for quantum circuits that includes noise models (supported by IBM).
 - [QCEAD](https://github.com/llens/QuantumComputingEvolutionaryAlgorithmDesign) - C++ program to both simulate a quantum computer and use parallel evolutionary techniques to design algorithms.
 - [Qrack](https://github.com/vm6502q/qrack) - Comprehensive qubit and gate implementation for developing universal virtual quantum processors.
