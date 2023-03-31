@@ -106,6 +106,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Quantum tensors](https://github.com/Quantum-Game/quantum-tensors) - JavaScript / TypeScript package for sparse tensor operations on complex numbers for quantum computing.
 
 **Julia**
+- [BosonSampling.jl](https://github.com/benoitseron/BosonSampling.jl) - Efficient simulation of multiphoton interference.
 - [Cliffords.jl](https://github.com/BBN-Q/Cliffords.jl) - Efficient calculation of Clifford circuits in Julia.
 - [IonSim.jl](https://github.com/HaeffnerLab/IonSim.jl) - Simulate the dynamics of a configuration of trapped ions interacting with laser light.
 - [QSimulator.jl](https://github.com/BBN-Q/QSimulator.jl) - Unitary and Lindbladian evolution in Julia.
