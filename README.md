@@ -367,10 +367,6 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [QuantumGraphs](https://github.com/ziofil/QuantumGraphs) - Grow and study random graphs by a continuous, randomly collapsing quantum walk.
 - [toqito](https://github.com/vprusso/toqito) - Framework to study problems pertaining to entanglement theory, nonlocal games, and other aspects of quantum information.
 
-## Quantum data
-
-- [QDataSet](https://github.com/eperrier/QDataSet) - Quantum datasets for the training and development of QML algorithms.
-
 **TypeScript**
 - [SpookyIDE](http://github.com/Spooky-Manufacturing/SpookyIDE) - IDE designed for quantum computing.
 
