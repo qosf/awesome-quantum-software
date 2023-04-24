@@ -10,7 +10,7 @@ Curated list of open-source developed quantum software projects.
 
 Also please check out the [Unitary Fund](http://unitary.fund/)'s 4k$ grant project for quantum OSS!
 
-Clone this repository into your qBraid account: 
+Clone this repository into your qBraid account:
 
 [<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com?gitHubUrl=https://github.com/qosf/awesome-quantum-software.git)
 
@@ -58,7 +58,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [quantumcat](https://github.com/artificial-brain/quantumcat/) - Cross-platform open-source high-level quantum computing library focused on building applications.
 - [Qibo](https://github.com/qiboteam/qibo) - An open-source framework for quantum simulation, self-hosted quantum hardware control and calibration.
 - [Qiskit](https://qiskit.org/) - Framework for noisy quantum computers at the level of pulses, circuits, and algorithms (supported by IBM).
-- [quantum-os](https://github.com/quantumos-org/quantum-os)  Operating system bases on Linux kernel for quantum computing quantum. 
+- [quantum-os](https://github.com/quantumos-org/quantum-os)  Operating system based on Linux kernel for quantum computing.
 - [Strawberry Fields](https://github.com/xanaduai/strawberryfields) - [Xanadu](https://www.xanadu.ai)'s software library for photonic quantum computing.
 - [Tequila](https://github.com/aspuru-guzik-group/tequila) - Extensible Quantum Information and Learning Architecture developed by Alan Aspuru-Guzik's group (UofT).
 
@@ -242,6 +242,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Arline Benchmarks](https://github.com/ArlineQ/arline_benchmarks) - Automated benchmarking platform for quantum compilers, quantum hardware and quantum algorithms.
 - [BQSKit](https://github.com/BQSKit) - Berkeley Quantum Synthesis Toolkit is an optimizing quantum compiler and related tool-set.
 - [Mitiq](https://github.com/unitaryfund/mitiq) - Cross-platform, error-mitigating quantum compiler from [Unitary Fund](https://unitary.fund/).
+- [NchooseK](https://github.com/lanl/NchooseK) - Constraint-programming system that compiles to both circuit-model quantum computers and quantum annealers.
 - [PyZX](https://github.com/Quantomatic/pyzx) - Python library for quantum circuit rewriting and optimisation using the ZX-calculus.
 - [QEDA](https://github.com/Spooky-Manufacturing/QEDA) - Quantum electronic design automation software for optical circuits using QASM.
 - [QGL2 Compiler](https://github.com/BBN-Q/pyqgl2) - Language compiler for imperative Quantum Gate Language ([QGL](https://github.com/BBN-Q/QGL)).
@@ -332,7 +333,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 **Python**
 - [bloqit](https://github.com/kelzheng/bloqit) - Tiny qubit duel for your smart phone.
-- [QiskitBlocks](https://github.com/JavaFXpert/QiskitBlocks) - Game that teaches quantum computing using Qiskit in a Minetest block world. 
+- [QiskitBlocks](https://github.com/JavaFXpert/QiskitBlocks) - Game that teaches quantum computing using Qiskit in a Minetest block world.
 - [Quantum Awesomeness](https://github.com/decodoku/A_Game_to_Benchmark_Quantum_Computers)  - [Simple puzzles to benchmark various quantum processor](https://medium.com/@decodoku/understanding-quantum-computers-through-a-simple-puzzle-game-a290dde89fb2).
 - [Quantum Battleships](https://github.com/decodoku/Battleships_with_complementary_measurements) - [Playing battleships with quantum measurements](https://medium.com/@decodoku/how-to-program-a-quantum-computer-part-2-f0d3eee872fe).
 - [Quantum Catsweeper](https://github.com/desireevl/quantum-catsweeper) - Quantum game loosely based on Minesweeper Flag.
@@ -361,7 +362,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Gridsynth-Python-wrapper](https://github.com/InfamousPlatypus/Gridsynth-Python-wrapper) - Wrapper for using Gridsynth in Python/
 - [IBM Q bot](https://github.com/RQC-QApp/QuantumComputingBot) - Bot for Slack and Telegram to monitor the load of IBM Q quantum computers.
 - [orqviz](https://github.com/zapatacomputing/orqviz) - Library to easily visualize the loss landscape of variational quantum algorithms.
-- [pulsemaker](https://github.com/adgt/pulsemaker) - Python widget library for designing pulses and pulse schedules for quantum computing hardware. 
+- [pulsemaker](https://github.com/adgt/pulsemaker) - Python widget library for designing pulses and pulse schedules for quantum computing hardware.
 - [pyQuirk](https://github.com/adgt/pyQuirk) - Python widget for Quirk to be used in Jupyter notebooks, JupyterLab, and the IPython kernel.
 - [qBraid](https://qbraid-qbraid.readthedocs-hosted.com/en/latest/sdk/overview.html) - Transpiles quantum circuits to and from Cirq, Qiskit, Amazon Braket, Pennylane, Pyquil and allows for execution on any backend.
 - [qonduit](https://github.com/adgt/qonduit) - Python library with visualization tools and workflows for quantum computing that utilize the best of what’s available.
