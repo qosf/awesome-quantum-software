@@ -127,6 +127,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 **Python**
 - [Interlin-q](https://github.com/Interlin-q/Interlin-q) - Quantum network simulator imitating distributed quantum systems with interconnect communication between nodes.
+- [MentPy](https://github.com/BestQuark/mentpy) - Python package for creating and simulating Measurement-based Quantum Computating (MBQC) programs.
 - [MISTIQS](https://github.com/USCCACS/MISTIQS) - Generating/compiling/executing quantum circuits for simulating quantum many-body dynamics of systems.
 - [PIQS](https://github.com/nathanshammah/piqs) - Efficient simulation of open quantum dynamics of identical qubits.
 - [QCircuits](https://github.com/grey-area/qcircuits) - User-friendly quantum circuit simulator designed for students and newcomers to quantum computing.
