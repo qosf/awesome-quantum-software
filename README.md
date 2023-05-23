@@ -47,7 +47,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [blueqat](https://github.com/Blueqat/Blueqat) - Quantum computing SDK.
 - [Braket](https://github.com/aws/amazon-braket-sdk-python) - [Amazon's](https://aws.amazon.com/braket/) fully managed quantum computing service for building quantum algorithms.
 - [Cirq](https://github.com/quantumlib/Cirq) - Framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.
-- [CUDA Quantum] (https://github.com/NVIDIA/cuda-quantum) C++ and Python support for the CUDA Quantum programming model for heterogeneous quantum-classical workflows.
+- [CUDA Quantum] (https://github.com/NVIDIA/cuda-quantum) C++ support for the CUDA Quantum programming model for heterogeneous quantum-classical workflows.
 - [Forest](https://github.com/rigetticomputing/pyquil) - [Rigetti](https://www.rigetti.com/)'s software library for writing, simulating, compiling and executing quantum programs.
 - [Ocean](https://github.com/dwavesystems/dwave-ocean-sdk) - [D-Wave System](https://www.dwavesys.com/home)'s suite of tools for solving hard problems with quantum computers.
 - [OpenQL](https://github.com/QE-Lab/OpenQL) - Compiler framework with algorithm libraries, optimizer, scheduler, QEC, mapping, micro-code generator.
