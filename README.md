@@ -17,6 +17,7 @@ Clone this repository into your qBraid account:
 ## Contents
 - [Quantum full-stack libraries](#quantum-full-stack-libraries)
 - [Quantum simulators](#quantum-simulators)
+- [Quantum analog Hamiltonian](#quantum-analog-hamiltonian)
 - [Quantum annealing](#quantum-annealing)
 - [Quantum algorithms](#quantum-algorithms)
 - [Quantum compilers](#quantum-compilers)
@@ -31,6 +32,8 @@ Clone this repository into your qBraid account:
 - [Quantum tools](#quantum-tools)
 - [Quantum data](#quantum-data)
 - [Abandoned projects](#abandoned-projects)
+- [Contributing](#contributing)
+- [License](#license)
 
 For a curated list of learning resources please check out [desireevl's repo](https://github.com/desireevl/awesome-quantum-computing).
 
@@ -57,6 +60,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Perceval](https://github.com/Quandela/Perceval) - [Quandela](https://www.quandela.com)'s software library for programming realistic photonic quantum computers.
 - [ProjectQ](https://github.com/ProjectQ-Framework/ProjectQ) - Hardware-agnostic framework with compiler and simulator with emulation capabilities.
 - [PyQudit](https://github.com/Ordoptimus/pyqudit) - Python package for generalized and universal versions of quantum gates in N-dimensions.
+- [Qadence](https://github.com/pasqal-io/qadence) - [Pasqal](https://www.pasqal.com)'s package for building differentiable digital and digital-analog quantum programs realizable on neutral atom devices.
 - [quantumcat](https://github.com/artificial-brain/quantumcat/) - Cross-platform open-source high-level quantum computing library focused on building applications.
 - [Qibo](https://github.com/qiboteam/qibo) - An open-source framework for quantum simulation, self-hosted quantum hardware control and calibration.
 - [Qiskit](https://qiskit.org/) - Framework for noisy quantum computers at the level of pulses, circuits, and algorithms (supported by IBM).
@@ -129,10 +133,12 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 **Python**
 - [Graphix](https://github.com/TeamGraphix/graphix) - Measurement-Based Quantum Computing (MBQC) compiler, simulator and QPU interface.
+- [Horqrux](https://github.com/pasqal-io/horqrux) - Jax-based quantum state vector simulator tailored for quantum machine learning from [Pasqal](https://www.pasqal.com).
 - [Interlin-q](https://github.com/Interlin-q/Interlin-q) - Quantum network simulator imitating distributed quantum systems with interconnect communication between nodes.
 - [MentPy](https://github.com/BestQuark/mentpy) - Python package for creating and simulating Measurement-based Quantum Computating (MBQC) programs.
 - [MISTIQS](https://github.com/USCCACS/MISTIQS) - Generating/compiling/executing quantum circuits for simulating quantum many-body dynamics of systems.
 - [PIQS](https://github.com/nathanshammah/piqs) - Efficient simulation of open quantum dynamics of identical qubits.
+- [PyQTorch](https://github.com/pasqal-io/pyqtorch) - PyTorch-based state vector simulator designed for quantum machine learning from [Pasqal](https://www.pasqal.com).
 - [QCircuits](https://github.com/grey-area/qcircuits) - User-friendly quantum circuit simulator designed for students and newcomers to quantum computing.
 - [QCompute](https://github.com/baidu/QCompute) - [Baidu](http://research.baidu.com/Research_Areas/index-view?id=75)'s software development kit for designing quantum circuits and simulating on a high-performance simulator.
 - [Qibo](https://github.com/qiboteam/qibo) - Framework for quantum simulation with hardware acceleration using just-in-time compilation.
