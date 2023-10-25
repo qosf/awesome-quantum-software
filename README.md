@@ -373,6 +373,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [qprof](https://gitlab.com/qcomputing/qprof/qprof) - `gprof`-Compatible profiler for quantum programs.
 - [QRAND](https://github.com/pedrorrivero/qrand) - Multiplatform and multiprotocol quantum random number generator for arbitrary probability distributions.
 - [QuantumGraphs](https://github.com/ziofil/QuantumGraphs) - Grow and study random graphs by a continuous, randomly collapsing quantum walk.
+- [TPD](https://github.com/HANTLUK/PauliDecomposition) - Efficient computation of the Pauli decomposition of arbitrary matrices.
 - [toqito](https://github.com/vprusso/toqito) - Framework to study problems pertaining to entanglement theory, nonlocal games, and other aspects of quantum information.
 
 **TypeScript**
