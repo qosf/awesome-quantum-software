@@ -220,6 +220,8 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Quantum TSP](https://github.com/mstechly/quantum_tsp_tutorials) - Tutorials on solving Travelling Salesman Problem using quantum computing (QAOA).
 - [Qudit Team](https://github.com/q-inho/QuditsTeam-1) - Repository to extend Qiskit versatility to higher dimensional quantum states.
 - [spin_qudit_tomography](https://github.com/perlinm/spin_qudit_tomography)  Code used in spin tomography using qudits.
+- [Tangelo](https://github.com/goodchemistryco/Tangelo) Toolkit for quantum chemistry simulation workflows on quantum computers.
+- [Tangelo-Examples](https://github.com/goodchemistryco/Tangelo-Examples/) Tutorials and examples for the modeling of chemical systems with quantum computers, using Tangelo.
 - [Tensorflow Quantum](https://www.tensorflow.org/quantum) - Library for hybrid quantum-classical machine learning.
 - [VQF](https://github.com/mstechly/vqf) - Implementation of Variational Quantum Factoring algorithm (in pyQuil)
 - [WebMark](https://github.com/ohtu2021-kvantti/WebMark) - Web platform for benchmarking quantum computing algorithms.
