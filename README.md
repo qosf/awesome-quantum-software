@@ -281,6 +281,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 ## Quantum interoperability
 
+- [Digital Soul](https://github.com/NeuralDreamResearch/DigitalSoul) - Uified platform for CPU, GPU, FPGA and Quantum Computing
 - [scikit-quant](https://github.com/scikit-quant/scikit-quant) - This is a package to improve interopability between different quantum computer software packages.
 
 ## Quantum error correction
