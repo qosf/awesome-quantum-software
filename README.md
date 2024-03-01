@@ -285,7 +285,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 ## Quantum error correction
 
-**Julia
+**Julia**
 - [CodingTheory](https://github.com/esabo/CodingTheory) - Julia package for constructing and analyzing classical and quantum error-correcting codes.
 
 **Python**
