@@ -301,6 +301,8 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 **Python**
 - [Crypto-Vinaigrette](https://github.com/aditisrinivas97/Crypto-Vinaigrette) - Quantum-resistant asymmetric key generation tool for digital signatures.
+- [Qash-QKDC](https://github.com/TimeMelt/qash-qkdc) - [Hashing algorithms/circuits](https://timemelt.itch.io/qash-qkdc) powered by quantum operations.
+- [Qashchain](https://github.com/TimeMelt/qashchain) - [Quantum blockchain](https://timemelt.itch.io/qashchain) based on [qash-qkdc](https://github.com/TimeMelt/qash-qkdc) circuits.
 - [QRL](https://github.com/theQRL/QRL/) - [Quantum Resistant Ledger](https://theqrl.org/) utilizing hash-based one-time merkle tree signature scheme instead of ECDSA.
 
 ## Experimental quantum computing
