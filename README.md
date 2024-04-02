@@ -388,6 +388,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 ## Abandoned projects
 *2+ years of inactivity. Feel free to reanimate, document and contribute to some of this work!*
 - [BLACK-STONE](https://github.com/thephoeron/black-stone) - Specification and implementation of quantum common lisp, for gate-model quantum computers.
+- [goqu](https://github.com/cco3/goqu) - Quantum computing simulation library for GoLang.
 - [libquantum](http://libquantum.de) - C library for quantum computing and quantum simulation.
 - [libQuantumJava](https://github.com/gbanegas/libQuantumJava) - Crude translation from the C implementation of `libquantum` to a Java version.
 - [jquil](https://github.com/QCHackers/jquil) - Java library for quantum programming using [Quil](https://en.wikipedia.org/wiki/Quil_(instruction_set_architecture)).
