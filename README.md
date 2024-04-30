@@ -38,7 +38,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 **C++**
 - [avaloni](https://github.com/avalon-lang/avaloni)  Programming language (interpreter) for classical-quantum hybrid computers.
-- [CUDA Quantum] (https://github.com/NVIDIA/cuda-quantum) - A quantum programming model for heterogeneous quantum-classical workflows.
+- [CUDA-Q] (https://github.com/NVIDIA/cuda-quantum) - Platform for accelerated quantum - classical applications on GPUs, CPUs and QPUs.
 - [staq](https://github.com/softwareqinc/staq) - [Full stack quantum processing toolkit](https://arxiv.org/abs/1912.06070).
 - [XACC](https://github.com/ORNL-QCI/xacc) - [Extreme-scale programming model for quantum acceleration within high-performance computing](https://arxiv.org/abs/1710.01794).
 - [qpp](https://github.com/softwareQinc/qpp) - Quantum++ is a modern C++ general purpose quantum computing library, composed solely of template header files.
@@ -47,7 +47,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [blueqat](https://github.com/Blueqat/Blueqat) - Quantum computing SDK.
 - [Braket](https://github.com/aws/amazon-braket-sdk-python) - [Amazon's](https://aws.amazon.com/braket/) fully managed quantum computing service for building quantum algorithms.
 - [Cirq](https://github.com/quantumlib/Cirq) - Framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.
-- [CUDA Quantum] (https://github.com/NVIDIA/cuda-quantum) C++ support for the CUDA Quantum programming model for heterogeneous quantum-classical workflows.
+- [CUDA-Q] (https://github.com/NVIDIA/cuda-quantum) - Platform for accelerated quantum - classical applications on GPUs, CPUs and QPUs.
 - [Forest](https://github.com/rigetticomputing/pyquil) - [Rigetti](https://www.rigetti.com/)'s software library for writing, simulating, compiling and executing quantum programs.
 - [Ket](https://quantumket.org) - Embedded programming language that introduces the ease of Python to quantum programming.
 - [Ocean](https://github.com/dwavesystems/dwave-ocean-sdk) - [D-Wave System](https://www.dwavesys.com/home)'s suite of tools for solving hard problems with quantum computers.
