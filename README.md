@@ -38,7 +38,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 **C++**
 - [avaloni](https://github.com/avalon-lang/avaloni)  Programming language (interpreter) for classical-quantum hybrid computers.
-- [CUDA-Q] (https://github.com/NVIDIA/cuda-quantum) - Platform for accelerated quantum - classical applications on GPUs, CPUs and QPUs.
+- [CUDA-Q] (https://github.com/NVIDIA/cuda-quantum) - Platform for accelerated quantum-classical applications on GPUs, CPUs and QPUs.
 - [staq](https://github.com/softwareqinc/staq) - [Full stack quantum processing toolkit](https://arxiv.org/abs/1912.06070).
 - [XACC](https://github.com/ORNL-QCI/xacc) - [Extreme-scale programming model for quantum acceleration within high-performance computing](https://arxiv.org/abs/1710.01794).
 - [qpp](https://github.com/softwareQinc/qpp) - Quantum++ is a modern C++ general purpose quantum computing library, composed solely of template header files.
