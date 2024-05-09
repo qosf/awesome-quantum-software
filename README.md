@@ -298,6 +298,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [openssh](https://github.com/open-quantum-safe/openssh-portable) - OpenSSH with quantum-safe key exchange algorithms.
 - [openssl](https://github.com/open-quantum-safe/openssl) - OpenSSL with quantum-safe cryptographic algorithms.
 - [PQClean](https://github.com/PQClean/PQClean) - Clean, portable, tested implementations of post-quantum cryptography.
+- [TQ42 Cryptography](https://github.com/terra-quantum-public/tq42-pqc-oss) - Post-quantum algorithms, hash functions, digital signature, key encapsulation mechanism, PRNG, and key management functions. 
 
 **Python**
 - [Crypto-Vinaigrette](https://github.com/aditisrinivas97/Crypto-Vinaigrette) - Quantum-resistant asymmetric key generation tool for digital signatures.
