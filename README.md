@@ -145,6 +145,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [QuTiP](http://qutip.org/) - User-friendly and efficient numerical simulations of a wide variety of open quantum systems.
 - [SeQuencing](https://github.com/sequencing-dev/sequencing) - Construct and simulate realistic quantum control sequences using QuTiP.
 - [SimulaQron](https://github.com/StephanieWehner/SimulaQron) - Application level simulator of a quantum network.
+- [SOQCS](https://github.com/SOQCSAdmin/SOQCS) - Library to define, simulate, and study non-ideal quantum optical circuits (API provided both in Python and C++).
 - [Stim](https://github.com/quantumlib/Stim) - Fast stabilizer circuit simulator.
 - [SQUANCH](https://github.com/att-innovate/squanch) - Distributed simulation framework for quantum networks and channels.
 - [QuNetSim](https://github.com/tqsd/QuNetSim) - Quantum network simulation framework.
