@@ -46,7 +46,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 **Python**
 - [blueqat](https://github.com/Blueqat/Blueqat) - Quantum computing SDK.
 - [bosonic-qiskit](https://github.com/C2QA/bosonic-qiskit) - Simulate hybrid boson-qubit systems within Qiskit, implemented as a part of the Co-design Center for Quantum Advantage (C2QA) of the National Quantum Initiative. 
-- [Braket](https://github.com/aws/amazon-braket-sdk-python) - [Amazon's](https://aws.amazon.com/braket/) fully managed quantum computing service for building quantum algorithms.
+- [Braket](https://github.com/amazon-braket/amazon-braket-sdk-python) - [Amazon's](https://aws.amazon.com/braket/) fully managed quantum computing service for building quantum algorithms.
 - [Cirq](https://github.com/quantumlib/Cirq) - Framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.
 - [CUDA-Q](https://github.com/NVIDIA/cuda-quantum) - Platform for accelerated quantum-classical applications on GPUs, CPUs and QPUs.
 - [Forest](https://github.com/rigetticomputing/pyquil) - [Rigetti](https://www.rigetti.com/)'s software library for writing, simulating, compiling and executing quantum programs.
