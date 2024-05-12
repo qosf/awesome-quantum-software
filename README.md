@@ -38,16 +38,17 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 **C++**
 - [avaloni](https://github.com/avalon-lang/avaloni)  Programming language (interpreter) for classical-quantum hybrid computers.
-- [CUDA Quantum] (https://github.com/NVIDIA/cuda-quantum) - A quantum programming model for heterogeneous quantum-classical workflows.
+- [CUDA-Q](https://github.com/NVIDIA/cuda-quantum) - Platform for accelerated quantum-classical applications on GPUs, CPUs and QPUs.
 - [staq](https://github.com/softwareqinc/staq) - [Full stack quantum processing toolkit](https://arxiv.org/abs/1912.06070).
 - [XACC](https://github.com/ORNL-QCI/xacc) - [Extreme-scale programming model for quantum acceleration within high-performance computing](https://arxiv.org/abs/1710.01794).
 - [qpp](https://github.com/softwareQinc/qpp) - Quantum++ is a modern C++ general purpose quantum computing library, composed solely of template header files.
 
 **Python**
 - [blueqat](https://github.com/Blueqat/Blueqat) - Quantum computing SDK.
+- [bosonic-qiskit](https://github.com/C2QA/bosonic-qiskit) - Simulate hybrid boson-qubit systems within Qiskit, implemented as a part of the Co-design Center for Quantum Advantage (C2QA) of the National Quantum Initiative. 
 - [Braket](https://github.com/amazon-braket/amazon-braket-sdk-python) - [Amazon's](https://aws.amazon.com/braket/) fully managed quantum computing service for building quantum algorithms.
 - [Cirq](https://github.com/quantumlib/Cirq) - Framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.
-- [CUDA Quantum] (https://github.com/NVIDIA/cuda-quantum) C++ support for the CUDA Quantum programming model for heterogeneous quantum-classical workflows.
+- [CUDA-Q](https://github.com/NVIDIA/cuda-quantum) - Platform for accelerated quantum-classical applications on GPUs, CPUs and QPUs.
 - [Forest](https://github.com/rigetticomputing/pyquil) - [Rigetti](https://www.rigetti.com/)'s software library for writing, simulating, compiling and executing quantum programs.
 - [Ket](https://quantumket.org) - Embedded programming language that introduces the ease of Python to quantum programming.
 - [Ocean](https://github.com/dwavesystems/dwave-ocean-sdk) - [D-Wave System](https://www.dwavesys.com/home)'s suite of tools for solving hard problems with quantum computers.
@@ -55,11 +56,11 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [PennyLane](https://pennylane.ai) - Cross-platform Python library for differentiable programming of quantum computers.
 - [Perceval](https://github.com/Quandela/Perceval) - [Quandela](https://www.quandela.com)'s software library for programming realistic photonic quantum computers.
 - [ProjectQ](https://github.com/ProjectQ-Framework/ProjectQ) - Hardware-agnostic framework with compiler and simulator with emulation capabilities.
-- [PyQudit](https://github.com/Ordoptimus/pyqudit)  Python package for generalized and universal versions of quantum gates in N-dimensions.
+- [PyQudit](https://github.com/Ordoptimus/pyqudit) - Python package for generalized and universal versions of quantum gates in N-dimensions.
 - [quantumcat](https://github.com/artificial-brain/quantumcat/) - Cross-platform open-source high-level quantum computing library focused on building applications.
 - [Qibo](https://github.com/qiboteam/qibo) - An open-source framework for quantum simulation, self-hosted quantum hardware control and calibration.
 - [Qiskit](https://qiskit.org/) - Framework for noisy quantum computers at the level of pulses, circuits, and algorithms (supported by IBM).
-- [quantum-os](https://github.com/quantumos-org/quantum-os)  Operating system based on Linux kernel for quantum computing.
+- [quantum-os](https://github.com/quantumos-org/quantum-os) - Operating system based on Linux kernel for quantum computing.
 - [Strawberry Fields](https://github.com/xanaduai/strawberryfields) - [Xanadu](https://www.xanadu.ai)'s software library for photonic quantum computing.
 - [TensorCircuit](https://github.com/tencent-quantum-lab/tensorcircuit) - Tensor network based quantum software framework for the NISQ era.
 - [Tequila](https://github.com/aspuru-guzik-group/tequila) - Extensible Quantum Information and Learning Architecture developed by Alan Aspuru-Guzik's group (UofT).
@@ -127,6 +128,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Yao.jl](https://github.com/QuantumBFS/Yao.jl) - Extensible, Efficient Quantum Algorithm Design for Humans.
 
 **Python**
+- [Graphix](https://github.com/TeamGraphix/graphix) - Measurement-Based Quantum Computing (MBQC) compiler, simulator and QPU interface.
 - [Interlin-q](https://github.com/Interlin-q/Interlin-q) - Quantum network simulator imitating distributed quantum systems with interconnect communication between nodes.
 - [MentPy](https://github.com/BestQuark/mentpy) - Python package for creating and simulating Measurement-based Quantum Computating (MBQC) programs.
 - [MISTIQS](https://github.com/USCCACS/MISTIQS) - Generating/compiling/executing quantum circuits for simulating quantum many-body dynamics of systems.
@@ -143,10 +145,11 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [QuTiP](http://qutip.org/) - User-friendly and efficient numerical simulations of a wide variety of open quantum systems.
 - [SeQuencing](https://github.com/sequencing-dev/sequencing) - Construct and simulate realistic quantum control sequences using QuTiP.
 - [SimulaQron](https://github.com/StephanieWehner/SimulaQron) - Application level simulator of a quantum network.
-- [Stim](https://github.com/quantumlib/Stim) -Fast stabilizer circuit simulator.
+- [SOQCS](https://github.com/SOQCSAdmin/SOQCS) - Library to define, simulate, and study non-ideal quantum optical circuits (API provided both in Python and C++).
+- [Stim](https://github.com/quantumlib/Stim) - Fast stabilizer circuit simulator.
 - [SQUANCH](https://github.com/att-innovate/squanch) - Distributed simulation framework for quantum networks and channels.
 - [QuNetSim](https://github.com/tqsd/QuNetSim) - Quantum network simulation framework.
-- [The Walrus](https://github.com/xanaduAI/thewalrus)- [Xanadu](https://www.xanadu.ai)'s library for simulating Gaussian Boson Sampling.
+- [The Walrus](https://github.com/xanaduAI/thewalrus) - [Xanadu](https://www.xanadu.ai)'s library for simulating Gaussian Boson Sampling.
 
 **Rust**
 - [QCGPU](https://github.com/QCGPU/qcgpu-rust) - High-performance GPU-accelerated quantum computer simulation outlined in this [arXiv paper](https://arxiv.org/pdf/1805.00988.pdf).
@@ -219,8 +222,9 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [QuantumFlow](https://github.com/rigetti/quantumflow) - Quantum Algorithms Development Toolkit e.g. allowing for backpropagation with QAOA.
 - [Quantum TSP](https://github.com/mstechly/quantum_tsp_tutorials) - Tutorials on solving Travelling Salesman Problem using quantum computing (QAOA).
 - [Qudit Team](https://github.com/q-inho/QuditsTeam-1) - Repository to extend Qiskit versatility to higher dimensional quantum states.
-- [spin_qudit_tomography](https://github.com/perlinm/spin_qudit_tomography)  Code used in spin tomography using qudits.
+- [spin_qudit_tomography](https://github.com/perlinm/spin_qudit_tomography) - Code used in spin tomography using qudits.
 - [Tensorflow Quantum](https://www.tensorflow.org/quantum) - Library for hybrid quantum-classical machine learning.
+- [pyRiemann-qiskit](https://github.com/pyRiemann/pyRiemann-qiskit) - Library for machine learning and quantum programming based on pyRiemann and Qiskit projects.
 - [VQF](https://github.com/mstechly/vqf) - Implementation of Variational Quantum Factoring algorithm (in pyQuil)
 - [WebMark](https://github.com/ohtu2021-kvantti/WebMark) - Web platform for benchmarking quantum computing algorithms.
 - [XACC Examples](https://github.com/ORNL-QCI/xacc-examples) - Example code using [XACC](https://github.com/ORNL-QCI/xacc) for quantum computing.
@@ -232,6 +236,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 ## Quantum compilers
 
 **C++**
+- [Catalyst](https://github.com/PennyLaneAI/catalyst) - AOT/JIT compiler for hybrid quantum computing beyond NISQ. Written in MLIR. Python frontend via [PennyLane](https://pennylane.ai).
 - [QCOR](https://github.com/ORNL-QCI/qcor) - C++ language extension and associated compiler implementation for hybrid quantum-classical programming.
 - [ScaffCC](https://github.com/epiqc/ScaffCC) - Compilation, analysis and optimization framework for the Scaffold quantum programming language.
 - [tweedledum](https://github.com/boschmitt/tweedledum) - C++17 library for analysis, compilation/synthesis, and optimization of quantum circuits.
@@ -251,6 +256,8 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [QEDA](https://github.com/Spooky-Manufacturing/QEDA) - Quantum electronic design automation software for optical circuits using QASM.
 - [QGL2 Compiler](https://github.com/BBN-Q/pyqgl2) - Language compiler for imperative Quantum Gate Language ([QGL](https://github.com/BBN-Q/QGL)).
 - [Qiskit Terra](https://github.com/Qiskit/qiskit-terra) - Python library for quantum circuit rewriting and optimization (supported by IBM).
+- [Qiskit ZX transpiler](https://github.com/dlyongemallo/qiskit-zx-transpiler) - Transpiler pass for Qiskit which uses ZX-calculus for circuit optimization.
+- [Qlasskit](https://github.com/dakk/qlasskit) - Compiler from Python language to quantum circuits and binary quadratic models.
 - [Qubiter](https://github.com/artiste-qb-net/qubiter) - Quantum compiler with Python wrapper for [LAPACK's CS Decomposition](http://www.netlib.org/lapack/README-CSD.html) to build a binary tree of matrices.
 - [SAT Circuits Engine](https://github.com/ohadlev77/sat-circuits-engine) - Qiskit-based high-level quantum circuits synthesis engine for n-SAT problems.
 
@@ -259,10 +266,10 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 ## Quantum converters
 **Javascript**
-- [qconvert-js](http://github.com/quantastica/qconvert-js)  Quantastica's quantum programming language converter in Javascript.
+- [qconvert-js](http://github.com/quantastica/qconvert-js) - Quantastica's quantum programming language converter in Javascript.
 
 **Python**
-- [qconvert](http://github.com/quantastica/qconvert)  Quantastica's quantum programming language converter in Python.
+- [qconvert](http://github.com/quantastica/qconvert) - Quantastica's quantum programming language converter in Python.
 
 ## Quantum assembly
 
@@ -281,14 +288,18 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 ## Quantum interoperability
 
+- [Digital Soul](https://github.com/NeuralDreamResearch/DigitalSoul) - Unified platform for CPU, GPU, FPGA, and Quantum Computing.
 - [scikit-quant](https://github.com/scikit-quant/scikit-quant) - This is a package to improve interopability between different quantum computer software packages.
 
 ## Quantum error correction
 
+**Julia**
+- [CodingTheory](https://github.com/esabo/CodingTheory) - Julia package for constructing and analyzing classical and quantum error-correcting codes.
+
 **Python**
 - [PyMatching](https://github.com/oscarhiggott/PyMatching) - Python package for decoding quantum error correcting codes with minimum-weight perfect matching.
 - [qecsim](https://github.com/qecsim/qecsim) - Python package for simulating quantum error correction using stabilizer codes.
-- [qiskit-ignis](https://github.com/qiskit/qiskit-ignis)  - Tools for quantum hardware verification, noise characterization, and error correction.
+- [qiskit-ignis](https://github.com/qiskit/qiskit-ignis) - Tools for quantum hardware verification, noise characterization, and error correction.
 - [Qsurface](https://github.com/watermarkhu/qsurface) - Python package for simulation and visualization of quantum error-correction on surface codes.
 
 ## Quantum and post-quantum cryptography
@@ -298,9 +309,12 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [openssh](https://github.com/open-quantum-safe/openssh-portable) - OpenSSH with quantum-safe key exchange algorithms.
 - [openssl](https://github.com/open-quantum-safe/openssl) - OpenSSL with quantum-safe cryptographic algorithms.
 - [PQClean](https://github.com/PQClean/PQClean) - Clean, portable, tested implementations of post-quantum cryptography.
+- [TQ42 Cryptography](https://github.com/terra-quantum-public/tq42-pqc-oss) - Post-quantum algorithms, hash functions, digital signature, key encapsulation mechanism, PRNG, and key management functions. 
 
 **Python**
 - [Crypto-Vinaigrette](https://github.com/aditisrinivas97/Crypto-Vinaigrette) - Quantum-resistant asymmetric key generation tool for digital signatures.
+- [Qash-QKDC](https://github.com/TimeMelt/qash-qkdc) - [Hashing algorithms/circuits](https://timemelt.itch.io/qash-qkdc) powered by quantum operations.
+- [Qashchain](https://github.com/TimeMelt/qashchain) - [Quantum blockchain](https://timemelt.itch.io/qashchain) based on [qash-qkdc](https://github.com/TimeMelt/qash-qkdc) circuits.
 - [QRL](https://github.com/theQRL/QRL/) - [Quantum Resistant Ledger](https://theqrl.org/) utilizing hash-based one-time merkle tree signature scheme instead of ECDSA.
 
 ## Experimental quantum computing
@@ -338,7 +352,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 **Python**
 - [bloqit](https://github.com/kelzheng/bloqit) - Tiny qubit duel for your smart phone.
 - [QiskitBlocks](https://github.com/JavaFXpert/QiskitBlocks) - Game that teaches quantum computing using Qiskit in a Minetest block world.
-- [Quantum Awesomeness](https://github.com/decodoku/A_Game_to_Benchmark_Quantum_Computers)  - [Simple puzzles to benchmark various quantum processor](https://medium.com/@decodoku/understanding-quantum-computers-through-a-simple-puzzle-game-a290dde89fb2).
+- [Quantum Awesomeness](https://github.com/decodoku/A_Game_to_Benchmark_Quantum_Computers) - [Simple puzzles to benchmark various quantum processor](https://medium.com/@decodoku/understanding-quantum-computers-through-a-simple-puzzle-game-a290dde89fb2).
 - [Quantum Battleships](https://github.com/decodoku/Battleships_with_complementary_measurements) - [Playing battleships with quantum measurements](https://medium.com/@decodoku/how-to-program-a-quantum-computer-part-2-f0d3eee872fe).
 - [Quantum Catsweeper](https://github.com/desireevl/quantum-catsweeper) - Quantum game loosely based on Minesweeper Flag.
 - [SudoQ](https://github.com/subwayHareArmy/SudoQ) - Sudoku solver that leverages a D-Wave Quantum Annealer.
@@ -367,13 +381,15 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [IBM Q bot](https://github.com/RQC-QApp/QuantumComputingBot) - Bot for Slack and Telegram to monitor the load of IBM Q quantum computers.
 - [orqviz](https://github.com/zapatacomputing/orqviz) - Library to easily visualize the loss landscape of variational quantum algorithms.
 - [pulsemaker](https://github.com/adgt/pulsemaker) - Python widget library for designing pulses and pulse schedules for quantum computing hardware.
+- [pymablock](https://gitlab.kwant-project.org/qt/pymablock) - Package for the construction of effective Hamiltonians using quasi-degenerate perturbation theory.
 - [pyQuirk](https://github.com/adgt/pyQuirk) - Python widget for Quirk to be used in Jupyter notebooks, JupyterLab, and the IPython kernel.
 - [qBraid](https://qbraid-qbraid.readthedocs-hosted.com/en/latest/sdk/overview.html) - Transpiles quantum circuits to and from Cirq, Qiskit, Amazon Braket, Pennylane, Pyquil and allows for execution on any backend.
 - [qonduit](https://github.com/adgt/qonduit) - Python library with visualization tools and workflows for quantum computing that utilize the best of what’s available.
-- [qprof](https://gitlab.com/qcomputing/qprof/qprof) - `gprof`-Compatible profiler for quantum programs.
+- [qprof](https://gitlab.com/qcomputing/qprof/qprof) - `gprof`-compatible profiler for quantum programs.
 - [QRAND](https://github.com/pedrorrivero/qrand) - Multiplatform and multiprotocol quantum random number generator for arbitrary probability distributions.
 - [QuantumGraphs](https://github.com/ziofil/QuantumGraphs) - Grow and study random graphs by a continuous, randomly collapsing quantum walk.
 - [toqito](https://github.com/vprusso/toqito) - Framework to study problems pertaining to entanglement theory, nonlocal games, and other aspects of quantum information.
+- [ZXLive](https://github.com/Quantomatic/zxlive) - GUI editor for ZX diagrams.
 
 **TypeScript**
 - [SpookyIDE](http://github.com/Spooky-Manufacturing/SpookyIDE) - IDE designed for quantum computing.
@@ -388,6 +404,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 ## Abandoned projects
 *2+ years of inactivity. Feel free to reanimate, document and contribute to some of this work!*
 - [BLACK-STONE](https://github.com/thephoeron/black-stone) - Specification and implementation of quantum common lisp, for gate-model quantum computers.
+- [goqu](https://github.com/cco3/goqu) - Quantum computing simulation library for GoLang.
 - [libquantum](http://libquantum.de) - C library for quantum computing and quantum simulation.
 - [libQuantumJava](https://github.com/gbanegas/libQuantumJava) - Crude translation from the C implementation of `libquantum` to a Java version.
 - [jquil](https://github.com/QCHackers/jquil) - Java library for quantum programming using [Quil](https://en.wikipedia.org/wiki/Quil_(instruction_set_architecture)).
