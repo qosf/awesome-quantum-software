@@ -150,8 +150,8 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 **Rust**
 - [QCGPU](https://github.com/QCGPU/qcgpu-rust) - High-performance GPU-accelerated quantum computer simulation outlined in this [arXiv paper](https://arxiv.org/pdf/1805.00988.pdf).
+- [Quriust](https://github.com/ScipioneParmigiano/quriust) - A blazing fast Rust library for simulating quantum circuits. Only for quriust ones.
 - [RustQIP](https://github.com/Renmusxd/RustQIP) - Rust Quantum Computing library leveraging graph building to build efficient quantum circuit simulations.
-- [Quriust](https://github.com/ScipioneParmigiano/) - A blazing fast Rust library for simulating quantum circuits. Only for quriust ones.
 
 **Swift**
 - [SwiftQuantumComputing](https://github.com/indisoluble/SwiftQuantumComputing) - Quantum circuit simulator with a bit of genetic programming.
