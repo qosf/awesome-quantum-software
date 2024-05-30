@@ -156,6 +156,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [SQUANCH](https://github.com/att-innovate/squanch) - Distributed simulation framework for quantum networks and channels.
 - [QuNetSim](https://github.com/tqsd/QuNetSim) - Quantum network simulation framework.
 - [The Walrus](https://github.com/xanaduAI/thewalrus) - [Xanadu](https://www.xanadu.ai)'s library for simulating Gaussian Boson Sampling.
+- [gdsfactory](https://gdsfactory.github.io/gdsfactory/) and [plugins](https://gdsfactory.github.io/gplugins) - Open Source Python library designed for crafting chips (Photonics, Analog, Quantum, MEMs, and more), 3D printed objects, and PCBs. Plugins for Simulating Analog, RF, and Photonics circuits.
 
 **Rust**
 - [QCGPU](https://github.com/QCGPU/qcgpu-rust) - High-performance GPU-accelerated quantum computer simulation outlined in this [arXiv paper](https://arxiv.org/pdf/1805.00988.pdf).
