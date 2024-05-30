@@ -346,7 +346,6 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [qupulse](https://github.com/qutech/qupulse) - Quantum computing pulse parametrization and sequencing framework (formerly qc-toolkit).
 - [scqubits](https://github.com/scqubits/scqubits) - Simulating superconducting qubits, obtaining energy spectra, plotting energy levels and more.
 - [QEDA](https://github.com/Spooky-Manufacturing/QEDA) - Quantum Electronics Design Automation - The RTL of Quantum Computing!
-- [8Q](https://github.com/Spooky-Manufacturing/8Q) - 8 Qbit, Photonic Quantum Computer
 
 ## Quantum fun
 
@@ -433,6 +432,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [QSEL](https://github.com/dabacon/qsel) -  Quantum programming language putting entanglement and superposition front and center.
 - [sapi_dimod](https://github.com/dwavesystems/dwave_sapi_dimod) - [Dimod](https://github.com/dwavesystems/dimod) wrapper for D-Wave's Solver API (SAPI).
 - [Squankum](https://github.com/jeffwass/Squankum) - Visual Java quantum simulator.
+- [8Q](https://github.com/Spooky-Manufacturing/8Q) - 8 Qbit, Photonic Quantum Computer.
 
 ## Contributing
 See the [contribution guidelines](CONTRIBUTING.md/#readme).
