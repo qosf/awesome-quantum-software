@@ -223,10 +223,8 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [PyZFS](https://github.com/hema-ted/pyzfs) - Package to compute zero-field-splitting tensors for molecules and spin quantum bits in semiconductors.
 - [QFog](https://github.com/artiste-qb-net/quantum-fog) - Framework for analyzing both classical and quantum Bayesian Networks.
 - [QGrad](https://github.com/qgrad/qgrad) - Library to integrate automatic differentiation tools such as JAX with QuTiP and related quantum software packages.
-- [Qiskit Aqua](https://github.com/Qiskit/qiskit-aqua) - Library of various quantum algorithm implemented with [Qiskit](https://github.com/Qiskit/qiskit).
 - [Qiskit Nature](https://github.com/Qiskit/qiskit-nature) - Quantum Chemistry including ground state, excited states and dipole moment calculations.
 - [QPanda](https://github.com/OriginQ/QPanda-2) - QPanda is a quantum computing framework that can be used to build, run, and optimize quantum algorithms.
-- [Qiskit Tutorial](https://github.com/QISKit/qiskit-tutorial) - Jupyter notebook filled with tutorials for [Qiskit](https://github.com/QISKit/qiskit).
 - [Quantum_Edward](https://github.com/artiste-qb-net/Quantum_Edward) - Python tools for supervised learning by Quantum Neural Networks
 - [QuantumFlow](https://github.com/rigetti/quantumflow) - Quantum Algorithms Development Toolkit e.g. allowing for backpropagation with QAOA.
 - [Quantum TSP](https://github.com/mstechly/quantum_tsp_tutorials) - Tutorials on solving Travelling Salesman Problem using quantum computing (QAOA).
@@ -298,7 +296,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 ## Quantum interoperability
 
 - [Digital Soul](https://github.com/NeuralDreamResearch/DigitalSoul) - Unified platform for CPU, GPU, FPGA, and Quantum Computing.
-- [scikit-quant](https://github.com/scikit-quant/scikit-quant) - This is a package to improve interopability between different quantum computer software packages.
+- [scikit-quant](https://github.com/scikit-quant/scikit-quant) - This is a package to improve interoperability between different quantum computer software packages.
 
 ## Quantum error correction
 
@@ -308,7 +306,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 **Python**
 - [PyMatching](https://github.com/oscarhiggott/PyMatching) - Python package for decoding quantum error correcting codes with minimum-weight perfect matching.
 - [qecsim](https://github.com/qecsim/qecsim) - Python package for simulating quantum error correction using stabilizer codes.
-- [qiskit-ignis](https://github.com/qiskit/qiskit-ignis) - Tools for quantum hardware verification, noise characterization, and error correction.
+- [Qiskit Experiments](https://github.com/Qiskit-Extensions/qiskit-experiments) - Python package for quantum error correction experiments (supported by IBM).
 - [Qsurface](https://github.com/watermarkhu/qsurface) - Python package for simulation and visualization of quantum error-correction on surface codes.
 
 ## Quantum and post-quantum cryptography
@@ -424,6 +422,9 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [QCViewer](https://github.com/QCT-IQC/QCViewer) - Visual quantum circuit design and simulation tool.
 - [QGL.jl](https://github.com/BBN-Q/QGL.jl) - Performance orientated [QGL](https://github.com/BBN-Q/QGL) compiler.
 - [Qlmp](https://github.com/wintershammer/QImp) -  Interpreter for the functional quantum programming language Qumin.
+- [Qiskit Aqua](https://github.com/Qiskit/qiskit-aqua) - Library of various quantum algorithm implemented with [Qiskit](https://github.com/Qiskit/qiskit).
+- [qiskit-ignis](https://github.com/qiskit/qiskit-ignis) - Tools for quantum hardware verification, noise characterization, and error correction.
+- [Qiskit Tutorial](https://github.com/QISKit/qiskit-tutorial) - Jupyter notebook filled with tutorials for [Qiskit](https://github.com/QISKit/qiskit).
 - [Qiskit-JS](https://github.com/Qiskit/qiskit-js) - [Quantum information software kit](https://qiskit.org/) for JavaScript (supported by IBM).
 - [QOCS](https://github.com/dillanchang/QOCS) - Quantum OCaml Circuit Simulator is a functional approach to simulating quantum gates.
 - [QuantumUtils](https://github.com/QuantumUtils/quantum-utils-mathematica) - Tools for quantum control, simulation, channel representation conversion, and perturbations.
