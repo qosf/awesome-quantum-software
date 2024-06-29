@@ -126,6 +126,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [BosonSampling.jl](https://github.com/benoitseron/BosonSampling.jl) - Efficient simulation of multiphoton interference.
 - [Cliffords.jl](https://github.com/BBN-Q/Cliffords.jl) - Efficient calculation of Clifford circuits in Julia.
 - [IonSim.jl](https://github.com/HaeffnerLab/IonSim.jl) - Simulate the dynamics of a configuration of trapped ions interacting with laser light.
+- [KadanoffBaym.jl](https://github.com/NonequilibriumDynamics/KadanoffBaym.jl) - Adaptive many-body time evolution of non-equilibrium Green functions.
 - [QSimulator.jl](https://github.com/BBN-Q/QSimulator.jl) - Unitary and Lindbladian evolution in Julia.
 - [QuantumInfo.jl](https://github.com/BBN-Q/QuantumInfo.jl) - Julia library for quantum information related calculations.
 - [QuantumOptics.jl](https://qojulia.org/) - Numerical framework to simulate various kinds of open quantum systems in Julia.
@@ -181,6 +182,9 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [edif2qmasm](https://github.com/lanl/edif2qmasm/) - Compile [Verilog](https://en.wikipedia.org/wiki/Verilog), [VHDL](https://en.wikipedia.org/wiki/VHDL), and other hardware-description languages to a D-Wave Hamiltonian function
 - [QA Prolog](https://github.com/lanl/QA-Prolog) - Compile a subset of [Prolog](https://en.wikipedia.org/wiki/Prolog) to a D-Wave Hamiltonian function
 
+**Julia**
+- [QAOA.jl](https://github.com/FZJ-PGI-12/QAOA.jl) - Simulate quantum annealing and mean-field quantum annealing in Julia.
+
 **Python**
 - [chimera_embedding](https://github.com/dwavesystems/chimera-embedding) - Algorithms to generate native-structured embeddings for Chimera graphs.
 - [dimod](https://github.com/dwavesystems/dimod) - Shared API for Ising and QUBO problems.
@@ -208,6 +212,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [myQShor](https://github.com/Michaelvll/myQShor) - Quantum implementation of Shor's algorithm.
 
 **Julia**
+- [QAOA.jl](https://github.com/FZJ-PGI-12/QAOA.jl) - Implementation the Quantum Approximate Optimization Algorithm (QAOA) in Julia.
 - [QuantumTomography.jl](https://github.com/BBN-Q/QuantumTomography.jl) - Julia package to perform quantum state and process tomography.
 
 **Python**
