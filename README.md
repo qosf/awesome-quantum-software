@@ -46,9 +46,6 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [XACC](https://github.com/ORNL-QCI/xacc) - Extreme-scale programming model for quantum acceleration within high-performance computing ([arXiv paper](https://arxiv.org/abs/1710.01794)).
 - [qpp](https://github.com/softwareQinc/qpp) - Quantum++ is a modern C++ general purpose quantum computing library, composed solely of template header files.
 
-**Assembly**
-- [Quplexity](https://github.com/MrGilli/Quplexity) - Modular library/toolkit for QC sims, including key mathematical functions and logic. Quplexity is written in ARM(64) and x86 Assembly, which results in improved performance and "weight" benefits.
-
 **Python**
 - [blueqat](https://github.com/Blueqat/Blueqat) - Quantum computing SDK.
 - [bosonic-qiskit](https://github.com/C2QA/bosonic-qiskit) - Simulate hybrid boson-qubit systems within Qiskit, implemented as a part of the Co-design Center for Quantum Advantage (C2QA) of the National Quantum Initiative.
@@ -80,6 +77,9 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Silq](https://silq.ethz.ch/) - Silq is a high-level quantum programming language with safe uncomputation and intuitive semantics.
 
 ## Quantum simulators
+
+**Assembly**
+- [Quplexity](https://github.com/MrGilli/Quplexity) - Modular toolkit for QC simulators. Quplexity offers essential mathematical functions and logic relative to quantum computer simulation. Quplexity is written in ARM(64) and x86 Assembly, which results in improved performance and "weight" benefits.
 
 **C**
 - [QuaC](https://github.com/0tt3r/QuaC) - Parallel time-dependent open quantum systems solver.
