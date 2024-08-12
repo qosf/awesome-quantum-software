@@ -78,6 +78,9 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 ## Quantum simulators
 
+**Assembly**
+- [Quplexity](https://github.com/MrGilli/Quplexity) - Modular toolkit for QC simulators. Quplexity offers essential mathematical functions and logic relative to quantum computer simulation. Quplexity is written in ARM(64) and x86 Assembly, which results in improved performance and "weight" benefits.
+
 **C**
 - [QuaC](https://github.com/0tt3r/QuaC) - Parallel time-dependent open quantum systems solver.
 - [QuEST](https://github.com/aniabrown/QuEST) -  Quantum Exact Simulation Toolkit is a high performance multicore simulator of universal quantum circuits.
