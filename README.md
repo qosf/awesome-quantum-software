@@ -60,7 +60,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Perceval](https://github.com/Quandela/Perceval) - [Quandela](https://www.quandela.com)'s software library for programming realistic photonic quantum computers.
 - [ProjectQ](https://github.com/ProjectQ-Framework/ProjectQ) - Hardware-agnostic framework with compiler and simulator with emulation capabilities.
 - [PyQudit](https://github.com/Ordoptimus/pyqudit) - Python package for generalized and universal versions of quantum gates in N-dimensions.
-- [pytket](https://docs.quantinuum.com/tket/) - Quantum computing toolkit for building, compiling and executing quantum circuits (developed by Quantinuum).
+- [pytket](https://docs.quantinuum.com/tket/) - Quantum computing toolkit for building, compiling, and executing quantum circuits (developed by Quantinuum).
 - [Qadence](https://github.com/pasqal-io/qadence) - [Pasqal](https://www.pasqal.com)'s package for building differentiable digital and digital-analog quantum programs realizable on neutral atom devices.
 - [quantumcat](https://github.com/artificial-brain/quantumcat/) - Cross-platform open-source high-level quantum computing library focused on building applications.
 - [Qibo](https://github.com/qiboteam/qibo) - An open-source framework for quantum simulation, self-hosted quantum hardware control and calibration.
