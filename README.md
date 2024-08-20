@@ -60,6 +60,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Perceval](https://github.com/Quandela/Perceval) - [Quandela](https://www.quandela.com)'s software library for programming realistic photonic quantum computers.
 - [ProjectQ](https://github.com/ProjectQ-Framework/ProjectQ) - Hardware-agnostic framework with compiler and simulator with emulation capabilities.
 - [PyQudit](https://github.com/Ordoptimus/pyqudit) - Python package for generalized and universal versions of quantum gates in N-dimensions.
+- [pytket](https://docs.quantinuum.com/tket/) - Quantum computing toolkit for building, compiling, and executing quantum circuits (developed by Quantinuum).
 - [Qadence](https://github.com/pasqal-io/qadence) - [Pasqal](https://www.pasqal.com)'s package for building differentiable digital and digital-analog quantum programs realizable on neutral atom devices.
 - [quantumcat](https://github.com/artificial-brain/quantumcat/) - Cross-platform open-source high-level quantum computing library focused on building applications.
 - [Qibo](https://github.com/qiboteam/qibo) - An open-source framework for quantum simulation, self-hosted quantum hardware control and calibration.
@@ -255,6 +256,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Catalyst](https://github.com/PennyLaneAI/catalyst) - AOT/JIT compiler for hybrid quantum computing beyond NISQ. Written in MLIR. Python frontend via [PennyLane](https://pennylane.ai).
 - [QCOR](https://github.com/ORNL-QCI/qcor) - C++ language extension and associated compiler implementation for hybrid quantum-classical programming.
 - [ScaffCC](https://github.com/epiqc/ScaffCC) - Compilation, analysis and optimization framework for the Scaffold quantum programming language.
+- [TKET](https://github.com/CQCL/tket) - C++ library for placement, routing, and optimization of quantum circuits (developed by Quantinuum).
 - [tweedledum](https://github.com/boschmitt/tweedledum) - C++17 library for analysis, compilation/synthesis, and optimization of quantum circuits.
 
 **Mathematica**
@@ -276,6 +278,9 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Qlasskit](https://github.com/dakk/qlasskit) - Compiler from Python language to quantum circuits and binary quadratic models.
 - [Qubiter](https://github.com/artiste-qb-net/qubiter) - Quantum compiler with Python wrapper for [LAPACK's CS Decomposition](http://www.netlib.org/lapack/README-CSD.html) to build a binary tree of matrices.
 - [SAT Circuits Engine](https://github.com/ohadlev77/sat-circuits-engine) - Qiskit-based high-level quantum circuits synthesis engine for n-SAT problems.
+
+**Rust**
+- [TKET2](https://github.com/CQCL/tket2) - Rewrite based toolkit for optimization of quantum programs (version 2 of the [TKET](https://github.com/CQCL/tket) quantum compiler).
 
 **Common Lisp**
 - [quilc](https://github.com/rigetti/quilc) - Rigetti's optimizing Quil compiler.
