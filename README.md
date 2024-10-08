@@ -97,7 +97,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Huawei HiQsimulator](https://github.com/Huawei-HiQ/HiQsimulator) - Single-amplitude, Full-amplitude and Error-correction circuit simulation engine.
 - [Intel Quantum Simulator](https://github.com/intel/intel-qs) - Distributed qubit register quantum simulator using OpenMP and MPI.
 - [JKQ-DDSIM](https://github.com/iic-jku/ddsim) - Error-free quantum simulator using decision diagrams as underlying data structure ([arXiv](https://arxiv.org/abs/1707.00865) / [IEEE](https://ieeexplore.ieee.org/document/8355954)).
-- [MQT DDDSIM] (https://github.com/cda-tum/mqt-ddsim) - Classical quantum circuit simulation using decision diagrams (with python binding available).
+- [MQT DDDSIM](https://github.com/cda-tum/mqt-ddsim) - Classical quantum circuit simulation using decision diagrams (with python binding available).
 - [PennyLane Lightning](https://github.com/PennyLaneAI/pennylane-lightning) - Fast state-vector simulator written in C++. GPU support. Python interface via [PennyLane](https://pennylane.ai).
 - [qFlex](https://github.com/ngnrsaa/qflex) - Flexible high-performance simulator for verifying and benchmarking quantum circuits implemented on real hardware.
 - [Qiskit Aer](https://github.com/Qiskit/qiskit-aer) - High performance simulator for quantum circuits that includes noise models (supported by IBM).
@@ -229,7 +229,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [FermiLib](https://github.com/ProjectQ-Framework/FermiLib) - Software for analyzing fermionic quantum simulation algorithms with [ProjectQ](https://github.com/ProjectQ-Framework/ProjectQ).
 - [Grove](https://github.com/rigetticomputing/grove) - Quantum algorithms implemented using [Rigetti](https://www.rigetti.com/)'s [pyQuil](https://github.com/rigetticomputing/pyquil).
 - [G/SG Morph](https://github.com/IffTech/GSG-Morph) - Quantum annealing algorithms for Graph/Subgraph Isomorphism based on [Calude et al.'s paper "QUBO formulations for the graph isomorphism problem and related problems" 10.1016/j.tcs.2017.04.016](https://doi.org/10.1016/j.tcs.2017.04.016)
-- [MQT QUBOMaker] - Automated QUBO formulation for optimization and pathfinding problems offering multiple encodings.
+- [MQT QUBOMaker](https://github.com/cda-tum/mqt-qubomaker) - Automated QUBO formulation for optimization and pathfinding problems offering multiple encodings.
 - [OpenFermion](https://github.com/quantumlib/OpenFermion) - Compiling and analyzing quantum algorithm for quantum chemistry simulations.
 - [OpenQAOA](https://github.com/entropicalabs/openqaoa) - Multi-backend SDK to create, customise and execute QAOA on NISQ devices and simulators.
 - [Paddle Quantum](https://github.com/PaddlePaddle/Quantum) - Quantum machine learning platform to construct & train quantum neural networks, developed by Baidu.
@@ -273,6 +273,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Arline Benchmarks](https://github.com/ArlineQ/arline_benchmarks) - Automated benchmarking platform for quantum compilers, quantum hardware and quantum algorithms.
 - [BQSKit](https://github.com/BQSKit) - Berkeley Quantum Synthesis Toolkit is an optimizing quantum compiler and related tool-set.
 - [Mitiq](https://github.com/unitaryfund/mitiq) - Cross-platform, error-mitigating quantum compiler from [Unitary Fund](https://unitary.fund/).
+- [MQT Predictor](https://github.com/cda-tum/mqt-predictor) - Automated quantum device selection and circuit compilation.
 - [NchooseK](https://github.com/lanl/NchooseK) - Constraint-programming system that compiles to both circuit-model quantum computers and quantum annealers.
 - [PyZX](https://github.com/Quantomatic/pyzx) - Python library for quantum circuit rewriting and optimisation using the ZX-calculus.
 - [QEDA](https://github.com/Spooky-Manufacturing/QEDA) - Quantum electronic design automation software for optical circuits using QASM.
