@@ -259,6 +259,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 **C++**
 - [Catalyst](https://github.com/PennyLaneAI/catalyst) - AOT/JIT compiler for hybrid quantum computing beyond NISQ. Written in MLIR. Python frontend via [PennyLane](https://pennylane.ai).
 - [MQT QMAP](https://github.com/cda-tum/mqt-qmap) - Quantum circuit synthesis and mapping (Python binding available).
+- [MQT SyReC](https://github.com/cda-tum/mqt-syrec) - HDL-based synthesis of reversible circuits for optimized circuit designs.
 - [QCOR](https://github.com/ORNL-QCI/qcor) - C++ language extension and associated compiler implementation for hybrid quantum-classical programming.
 - [ScaffCC](https://github.com/epiqc/ScaffCC) - Compilation, analysis and optimization framework for the Scaffold quantum programming language.
 - [TKET](https://github.com/CQCL/tket) - C++ library for placement, routing, and optimization of quantum circuits (developed by Quantinuum).
@@ -274,8 +275,8 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Arline Benchmarks](https://github.com/ArlineQ/arline_benchmarks) - Automated benchmarking platform for quantum compilers, quantum hardware and quantum algorithms.
 - [BQSKit](https://github.com/BQSKit) - Berkeley Quantum Synthesis Toolkit is an optimizing quantum compiler and related tool-set.
 - [Mitiq](https://github.com/unitaryfund/mitiq) - Cross-platform, error-mitigating quantum compiler from [Unitary Fund](https://unitary.fund/).
-- [MQT Predictor](https://github.com/cda-tum/mqt-predictor) - Automated quantum device selection and circuit compilation.
 - [MQT IonShuttler](https://github.com/cda-tum/mqt-ion-shuttler) - Exact and heuristic scheduling solutions to manage ion movement within trapped-ion quantum computers.
+- [MQT Predictor](https://github.com/cda-tum/mqt-predictor) - Automated quantum device selection and circuit compilation.
 - [MQT Qudits](https://github.com/cda-tum/mqt-qudits) - Compilation and simulation framework for mixed-dimensional qudit quantum computing.
 - [NchooseK](https://github.com/lanl/NchooseK) - Constraint-programming system that compiles to both circuit-model quantum computers and quantum annealers.
 - [PyZX](https://github.com/Quantomatic/pyzx) - Python library for quantum circuit rewriting and optimisation using the ZX-calculus.
