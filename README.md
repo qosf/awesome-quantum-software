@@ -327,6 +327,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [CodingTheory](https://github.com/esabo/CodingTheory) - Julia package for constructing and analyzing classical and quantum error-correcting codes.
 
 **Python**
+- [MQT QECC](https://github.com/cda-tum/mqt-qecc) - Package to apply and decode quantum error correcting codes and perform numerical simulations.
 - [PyMatching](https://github.com/oscarhiggott/PyMatching) - Python package for decoding quantum error correcting codes with minimum-weight perfect matching.
 - [qecsim](https://github.com/qecsim/qecsim) - Python package for simulating quantum error correction using stabilizer codes.
 - [Qiskit Experiments](https://github.com/Qiskit-Extensions/qiskit-experiments) - Python package for quantum error correction experiments (supported by IBM).
@@ -431,6 +432,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 **Others**
 - [Quil syntax highlighter](https://github.com/JavaFXpert/quil-syntax-highlighter) - Syntax highlighter for PyCharm.
+- [MQT DDVis](https://github.com/cda-tum/mqt-ddvis) - Installation-free web-tool that visualizes quantum decision diagrams.
 
 ## Quantum data
 
