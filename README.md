@@ -400,7 +400,11 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 ## Quantum tools
 
 **C++**
-- [MQT QCEC](https://github.com/cda-tum/mqt-qcec) Verification tool for quantum circuit equivalence checking (Python binding available).
+- [MQT QCEC](https://github.com/cda-tum/mqt-qcec) - Verification tool for quantum circuit equivalence checking (Python binding available).
+- [MQT QuSAT](https://github.com/cda-tum/mqt-qusat) - Encoding and equivalence checking of Clifford circuits using satisfiablity testing (SAT).
+
+**JavaScript**
+- [MQT DDVis](https://github.com/cda-tum/mqt-ddvis) - Installation-free web-tool that visualizes quantum decision diagrams.
 
 
 **Mathematica**
@@ -414,6 +418,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Gridsynth-Python-wrapper](https://github.com/InfamousPlatypus/Gridsynth-Python-wrapper) - Wrapper for using Gridsynth in Python/
 - [IBM Q bot](https://github.com/RQC-QApp/QuantumComputingBot) - Bot for Slack and Telegram to monitor the load of IBM Q quantum computers.
 - [MQT Bench](https://github.com/cda-tum/mqt-bench) - Quantum circuit benchmark suite providing benchmark algorithms for different compilation levels.
+- [MQT DASQA](https://github.com/cda-tum/mqt-dasqa) - Framework to encapsulate application-driven superconducting architecture design.
 - [MQT Problem Solver](https://github.com/cda-tum/mqt-problemsolver) - Automated frameworks offering quantum computing solutions for non-experts.
 - [orqviz](https://github.com/zapatacomputing/orqviz) - Library to easily visualize the loss landscape of variational quantum algorithms.
 - [pulsemaker](https://github.com/adgt/pulsemaker) - Python widget library for designing pulses and pulse schedules for quantum computing hardware.
@@ -432,7 +437,6 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 **Others**
 - [Quil syntax highlighter](https://github.com/JavaFXpert/quil-syntax-highlighter) - Syntax highlighter for PyCharm.
-- [MQT DDVis](https://github.com/cda-tum/mqt-ddvis) - Installation-free web-tool that visualizes quantum decision diagrams.
 
 ## Quantum data
 
