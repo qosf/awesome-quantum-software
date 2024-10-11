@@ -275,7 +275,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Arline Benchmarks](https://github.com/ArlineQ/arline_benchmarks) - Automated benchmarking platform for quantum compilers, quantum hardware and quantum algorithms.
 - [BQSKit](https://github.com/BQSKit) - Berkeley Quantum Synthesis Toolkit is an optimizing quantum compiler and related tool-set.
 - [Mitiq](https://github.com/unitaryfund/mitiq) - Cross-platform, error-mitigating quantum compiler from [Unitary Fund](https://unitary.fund/).
-- [MQT IonShuttler](https://github.com/cda-tum/mqt-ion-shuttler) - Exact and heuristic scheduling solutions to manage ion movement within trapped-ion quantum computers.
+- [MQT IonShuttler](https://github.com/cda-tum/mqt-ion-shuttler) - Exact and heuristic scheduling to manage ion movement within trapped-ion hardware.
 - [MQT Predictor](https://github.com/cda-tum/mqt-predictor) - Automated quantum device selection and circuit compilation.
 - [MQT Qudits](https://github.com/cda-tum/mqt-qudits) - Compilation and simulation framework for mixed-dimensional qudit quantum computing.
 - [NchooseK](https://github.com/lanl/NchooseK) - Constraint-programming system that compiles to both circuit-model quantum computers and quantum annealers.
@@ -419,7 +419,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [IBM Q bot](https://github.com/RQC-QApp/QuantumComputingBot) - Bot for Slack and Telegram to monitor the load of IBM Q quantum computers.
 - [MQT Bench](https://github.com/cda-tum/mqt-bench) - Quantum circuit benchmark suite providing benchmark algorithms for different compilation levels.
 - [MQT DASQA](https://github.com/cda-tum/mqt-dasqa) - Framework to encapsulate application-driven superconducting architecture design.
-- [MQT Problem Solver](https://github.com/cda-tum/mqt-problemsolver) - Automated frameworks offering quantum computing solutions for non-experts.
+- [MQT Problem Solver](https://github.com/cda-tum/mqt-problemsolver) - Automatisation framework to offer quantum computing solutions for non-experts.
 - [orqviz](https://github.com/zapatacomputing/orqviz) - Library to easily visualize the loss landscape of variational quantum algorithms.
 - [pulsemaker](https://github.com/adgt/pulsemaker) - Python widget library for designing pulses and pulse schedules for quantum computing hardware.
 - [pymablock](https://gitlab.kwant-project.org/qt/pymablock) - Package for the construction of effective Hamiltonians using quasi-degenerate perturbation theory.
