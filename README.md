@@ -398,6 +398,10 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 ## Quantum tools
 
+**C++**
+- [MQT QCEC](https://github.com/cda-tum/mqt-qcec) Verification tool for quantum circuit equivalence checking (Python binding available).
+
+
 **Mathematica**
 - [Quantum](http://homepage.cem.itesm.mx/lgomez/quantum/) - Free Mathematica add-on for Dirac Bra-Ket Notation, Quantum Algebra, Quantum Computing and the QHD approximation to the Heisenberg Equations of Motion.
 - [QI](https://github.com/rogercolbeck/QI) - Toolkit for common quantum information functions.
