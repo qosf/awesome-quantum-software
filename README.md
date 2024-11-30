@@ -205,6 +205,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [penaltymodel](https://github.com/dwavesystems/penaltymodel) - Utilities and interfaces for using penalty models.
 - [QMASM](https://github.com/lanl/qmasm/) - Quantum macro assembler for D-Wave systems
 - [qubo-nn](https://github.com/instance01/qubo-nn/) - Classifying, auto-encoding and reverse-engineering QUBO matrices. Also includes 20 problem formulations.
+- [qubovert](https://github.com/jtiosue/qubovert) - Formulating and simulated annealing of Ising, QUBO, and higher order problems with constraints.
 
 **Python, C & Matlab**
 - [Qbsolv](https://github.com/dwavesystems/qbsolv) - QUBO solver with [D-Wave](https://www.dwavesys.com) or classical tabu solver backend.
