@@ -132,6 +132,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Cliffords.jl](https://github.com/BBN-Q/Cliffords.jl) - Efficient calculation of Clifford circuits in Julia.
 - [IonSim.jl](https://github.com/HaeffnerLab/IonSim.jl) - Simulate the dynamics of a configuration of trapped ions interacting with laser light.
 - [KadanoffBaym.jl](https://github.com/NonequilibriumDynamics/KadanoffBaym.jl) - Adaptive many-body time evolution of non-equilibrium Green functions.
+- [PauliStrings.jl](https://github.com/nicolasloizeau/PauliStrings.jl) - Many-body simulations in the Pauli strings representation.
 - [QSimulator.jl](https://github.com/BBN-Q/QSimulator.jl) - Unitary and Lindbladian evolution in Julia.
 - [QuantumInfo.jl](https://github.com/BBN-Q/QuantumInfo.jl) - Julia library for quantum information related calculations.
 - [QuantumOptics.jl](https://qojulia.org/) - Numerical framework to simulate various kinds of open quantum systems in Julia.
