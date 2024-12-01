@@ -96,7 +96,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 **C++**
 - [Huawei HiQsimulator](https://github.com/Huawei-HiQ/HiQsimulator) - Single-amplitude, Full-amplitude and Error-correction circuit simulation engine.
 - [Intel Quantum Simulator](https://github.com/intel/intel-qs) - Distributed qubit register quantum simulator using OpenMP and MPI.
-- [JKQ-DDSIM](https://github.com/iic-jku/ddsim) - Error-free quantum simulator using decision diagrams as underlying data structure ([arXiv](https://arxiv.org/abs/1707.00865) / [IEEE](https://ieeexplore.ieee.org/document/8355954)).
+- [MQT DDSIM](https://github.com/cda-tum/mqt-ddsim) - Quantum circuit simulator using decision diagrams as a datastructure. Python interface and Qiskit backend via the [`mqt.ddsim`](https://pypi.org/p/mqt.ddsim) Python package.
 - [PennyLane Lightning](https://github.com/PennyLaneAI/pennylane-lightning) - Fast state-vector simulator written in C++. GPU support. Python interface via [PennyLane](https://pennylane.ai).
 - [qFlex](https://github.com/ngnrsaa/qflex) - Flexible high-performance simulator for verifying and benchmarking quantum circuits implemented on real hardware.
 - [Qiskit Aer](https://github.com/Qiskit/qiskit-aer) - High performance simulator for quantum circuits that includes noise models (supported by IBM).
@@ -230,6 +230,8 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [FermiLib](https://github.com/ProjectQ-Framework/FermiLib) - Software for analyzing fermionic quantum simulation algorithms with [ProjectQ](https://github.com/ProjectQ-Framework/ProjectQ).
 - [Grove](https://github.com/rigetticomputing/grove) - Quantum algorithms implemented using [Rigetti](https://www.rigetti.com/)'s [pyQuil](https://github.com/rigetticomputing/pyquil).
 - [G/SG Morph](https://github.com/IffTech/GSG-Morph) - Quantum annealing algorithms for Graph/Subgraph Isomorphism based on [Calude et al.'s paper "QUBO formulations for the graph isomorphism problem and related problems" 10.1016/j.tcs.2017.04.016](https://doi.org/10.1016/j.tcs.2017.04.016)
+- [MQT QAO](https://github.com/cda-tum/mqt-qao) - Automatic Framework for Solving Optimization Problems with Quantum Computers available via the [`mqt.qao`](https://pypi.org/p/mqt.qao) Python package.
+- [MQT QUBOMaker](https://github.com/cda-tum/mqt-qubomaker) - Automated QUBO formulation for optimization and pathfinding problems offering multiple encodings. Available via the [`mqt.qubomaker`](https://pypi.org/p/mqt.qubomaker) Python package.
 - [OpenFermion](https://github.com/quantumlib/OpenFermion) - Compiling and analyzing quantum algorithm for quantum chemistry simulations.
 - [OpenQAOA](https://github.com/entropicalabs/openqaoa) - Multi-backend SDK to create, customise and execute QAOA on NISQ devices and simulators.
 - [Paddle Quantum](https://github.com/PaddlePaddle/Quantum) - Quantum machine learning platform to construct & train quantum neural networks, developed by Baidu.
@@ -258,6 +260,8 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 **C++**
 - [Catalyst](https://github.com/PennyLaneAI/catalyst) - AOT/JIT compiler for hybrid quantum computing beyond NISQ. Written in MLIR. Python frontend via [PennyLane](https://pennylane.ai).
+- [MQT QMAP](https://github.com/cda-tum/mqt-qmap) - Quantum circuit mapping. Clifford synthesis. Compilation for neutral atom architectures. Compatible with Qiskit through the [`mqt.qmap`](https://pypi.org/p/mqt.qmap) Python package.
+- [MQT SyReC](https://github.com/cda-tum/mqt-syrec) - HDL-based synthesis of reversible circuits for optimized circuit designs.
 - [QCOR](https://github.com/ORNL-QCI/qcor) - C++ language extension and associated compiler implementation for hybrid quantum-classical programming.
 - [ScaffCC](https://github.com/epiqc/ScaffCC) - Compilation, analysis and optimization framework for the Scaffold quantum programming language.
 - [TKET](https://github.com/CQCL/tket) - C++ library for placement, routing, and optimization of quantum circuits (developed by Quantinuum).
@@ -273,6 +277,8 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Arline Benchmarks](https://github.com/ArlineQ/arline_benchmarks) - Automated benchmarking platform for quantum compilers, quantum hardware and quantum algorithms.
 - [BQSKit](https://github.com/BQSKit) - Berkeley Quantum Synthesis Toolkit is an optimizing quantum compiler and related tool-set.
 - [Mitiq](https://github.com/unitaryfund/mitiq) - Cross-platform, error-mitigating quantum compiler from [Unitary Fund](https://unitary.fund/).
+- [MQT IonShuttler](https://github.com/cda-tum/mqt-ion-shuttler) - Exact and heuristic scheduling to manage ion movement within trapped-ion hardware.
+- [MQT Predictor](https://github.com/cda-tum/mqt-predictor) - RL-based compiler optimization. ML-based device selection. Available via the [`mqt.predictor`](https://pypi.org/p/mqt.predictor) Python package.
 - [NchooseK](https://github.com/lanl/NchooseK) - Constraint-programming system that compiles to both circuit-model quantum computers and quantum annealers.
 - [PyZX](https://github.com/Quantomatic/pyzx) - Python library for quantum circuit rewriting and optimisation using the ZX-calculus.
 - [QEDA](https://github.com/Spooky-Manufacturing/QEDA) - Quantum electronic design automation software for optical circuits using QASM.
@@ -322,6 +328,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [CodingTheory](https://github.com/esabo/CodingTheory) - Julia package for constructing and analyzing classical and quantum error-correcting codes.
 
 **Python**
+- [MQT QECC](https://github.com/cda-tum/mqt-qecc) - Synthesis of fault-tolerant circuits. Decoders. Automatic Application of error correcting codes. Available via the [`mqt.qecc`](https://pypi.org/p/mqt.qecc) Python package.
 - [PyMatching](https://github.com/oscarhiggott/PyMatching) - Python package for decoding quantum error correcting codes with minimum-weight perfect matching.
 - [qecsim](https://github.com/qecsim/qecsim) - Python package for simulating quantum error correction using stabilizer codes.
 - [Qiskit Experiments](https://github.com/Qiskit-Extensions/qiskit-experiments) - Python package for quantum error correction experiments (supported by IBM).
@@ -353,6 +360,8 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 **Python**
 - [ARTIQ](https://github.com/m-labs/artiq) - Next-generation control system for quantum information experiments.
 - [OLSQ](https://github.com/tbcdebug/OLSQ) - OpenQASM package to perform optimal layout synthesis for quantum computing.
+- [MQT DASQA](https://github.com/cda-tum/mqt-dasqa) - Framework to encapsulate application-driven superconducting architecture design.
+- [MQT Qudits](https://github.com/cda-tum/mqt-qudits) - A framework for research and education for mixed-dimensional qudit quantum computing available via the [`mqt.qudits`] Python package.
 - [pyEPR](https://github.com/zlatko-minev/pyEPR) - Automated Python module for the design and quantization of Josephson quantum circuits.
 - [PyRPL](https://github.com/lneuhaus/pyrpl) - Turn your RedPitaya into a powerful DSP device, suitable as a digital lockbox and measurement device in quantum optics.
 - [QCoDeS](https://github.com/QCoDeS/Qcodes) - Python-based data acquisition framework for quantum experiments.
@@ -393,6 +402,12 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 ## Quantum tools
 
+**C++**
+- [MQT DDVis](https://github.com/cda-tum/mqt-ddvis) - Installation-free web-tool that visualizes quantum decision diagrams for classical simulation and verification. Hosted at https://www.cda.cit.tum.de/app/ddvis/.
+- [MQT Debugger](https://github.com/cda-tum/mqt-debugger) - Debugging quantum circuits with IDE integration based on DAP server.
+- [MQT QCEC](https://github.com/cda-tum/mqt-qcec) - Equivalence checking of quantum circuits. Verifying compilation flows. Available via the [`mqt.qcec`](https://pypi.org/p/mqt.qcec) package and fully compatible with Qiskit.
+- [MQT QuSAT](https://github.com/cda-tum/mqt-qusat) - Encoding and equivalence checking of Clifford circuits using satisfiablity testing (SAT).
+
 **Mathematica**
 - [Quantum](http://homepage.cem.itesm.mx/lgomez/quantum/) - Free Mathematica add-on for Dirac Bra-Ket Notation, Quantum Algebra, Quantum Computing and the QHD approximation to the Heisenberg Equations of Motion.
 - [QI](https://github.com/rogercolbeck/QI) - Toolkit for common quantum information functions.
@@ -403,6 +418,8 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Covalent](https://github.com/AgnostiqHQ/covalent) - Tool for running high performance/quantum workflows on advanced computing hardwares.
 - [Gridsynth-Python-wrapper](https://github.com/InfamousPlatypus/Gridsynth-Python-wrapper) - Wrapper for using Gridsynth in Python/
 - [IBM Q bot](https://github.com/RQC-QApp/QuantumComputingBot) - Bot for Slack and Telegram to monitor the load of IBM Q quantum computers.
+- [MQT Bench](https://github.com/cda-tum/mqt-bench) - Quantum circuit benchmark suite providing benchmark algorithms for different compilation levels. Web application hosted at https://www.cda.cit.tum.de/mqtbench/. Also available via the [`mqt.bench`](https://pypi.org/p/mqt.bench) Python package.
+- [MQT Problem Solver](https://github.com/cda-tum/mqt-problemsolver) - Automated Framework for Realizing Quantum Computing Solutions.
 - [orqviz](https://github.com/zapatacomputing/orqviz) - Library to easily visualize the loss landscape of variational quantum algorithms.
 - [pulsemaker](https://github.com/adgt/pulsemaker) - Python widget library for designing pulses and pulse schedules for quantum computing hardware.
 - [pymablock](https://gitlab.kwant-project.org/qt/pymablock) - Package for the construction of effective Hamiltonians using quasi-degenerate perturbation theory.
