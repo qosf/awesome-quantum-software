@@ -58,6 +58,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [OpenQL](https://github.com/QE-Lab/OpenQL) - Compiler framework with algorithm libraries, optimizer, scheduler, QEC, mapping, micro-code generator.
 - [PennyLane](https://pennylane.ai) - Cross-platform Python library for differentiable programming of quantum computers.
 - [Perceval](https://github.com/Quandela/Perceval) - [Quandela](https://www.quandela.com)'s software library for programming realistic photonic quantum computers.
+- [Piquasso](https://github.com/Budapest-Quantum-Computing-Group/piquasso) - A photonic quantum computing simulator library written in Python/C++.
 - [ProjectQ](https://github.com/ProjectQ-Framework/ProjectQ) - Hardware-agnostic framework with compiler and simulator with emulation capabilities.
 - [PyQudit](https://github.com/Ordoptimus/pyqudit) - Python package for generalized and universal versions of quantum gates in N-dimensions.
 - [pytket](https://docs.quantinuum.com/tket/) - Quantum computing toolkit for building, compiling, and executing quantum circuits (developed by Quantinuum).
