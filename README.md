@@ -317,7 +317,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [C3](https://github.com/q-optimize/c3) - Open-loop, closed-loop and automated Control, Calibration and Characterization of quantum devices.
 - [Krotov](https://github.com/qucontrol/krotov) - Python implementation of Krotov's method for quantum optimal control.
 - [Qibo](https://github.com/qiboteam/qibo) - Qibo provides a platform agnostic quantum hardware control module with drivers for multiple instruments.
-- [Quanlse](https://github.com/baidu/Quanlse) - Quanlse provides quantum control solutions via a cloud SDK, developed by [Baidu Quantum](https://quantum.baidu.com).
+- [Quanlse](https://github.com/baidu/Quanlse) - Quanlse provides quantum control solutions via a cloud SDK, developed by [Baidu Quantum](https://research.baidu.com/Research_Areas/index-view?id=75).
 
 ## Quantum interoperability
 
@@ -386,7 +386,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 **Python**
 - [bloqit](https://github.com/kelzheng/bloqit) - Tiny qubit duel for your smart phone.
-- [QiskitBlocks](https://github.com/JavaFXpert/QiskitBlocks) - Game that teaches quantum computing using Qiskit in a Minetest block world.
+- [QiskitBlocks](https://content.luanti.org/packages/javafxpert/qiskitblocks/) - Game that teaches quantum computing using Qiskit in a Minetest block world.
 - [Quantum Awesomeness](https://github.com/decodoku/A_Game_to_Benchmark_Quantum_Computers) - [Simple puzzles to benchmark various quantum processor](https://medium.com/@decodoku/understanding-quantum-computers-through-a-simple-puzzle-game-a290dde89fb2).
 - [Quantum Battleships](https://github.com/decodoku/Battleships_with_complementary_measurements) - [Playing battleships with quantum measurements](https://medium.com/@decodoku/how-to-program-a-quantum-computer-part-2-f0d3eee872fe).
 - [Quantum Catsweeper](https://github.com/desireevl/quantum-catsweeper) - Quantum game loosely based on Minesweeper Flag.
