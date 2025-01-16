@@ -45,6 +45,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [staq](https://github.com/softwareqinc/staq) - Full stack quantum processing toolkit ([arXiv paper](https://arxiv.org/abs/1912.06070)).
 - [XACC](https://github.com/ORNL-QCI/xacc) - Extreme-scale programming model for quantum acceleration within high-performance computing ([arXiv paper](https://arxiv.org/abs/1710.01794)).
 - [qpp](https://github.com/softwareQinc/qpp) - Quantum++ is a modern C++ general purpose quantum computing library, composed solely of template header files.
+- [Qristal](https://github.com/qbrilliance/qristal) - Quantum Brilliance's hybrid quantum-classical C++/Python development platform ([core module](https://github.com/qbrilliance/qristal-core)).
 
 **Python**
 - [blueqat](https://github.com/Blueqat/Blueqat) - Quantum computing SDK.
