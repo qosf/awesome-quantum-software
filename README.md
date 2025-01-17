@@ -42,10 +42,10 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 **C++**
 - [avaloni](https://github.com/avalon-lang/avaloni) - Programming language (interpreter) for classical-quantum hybrid computers.
 - [CUDA-Q](https://github.com/NVIDIA/cuda-quantum) - Platform for accelerated quantum-classical applications on GPUs, CPUs and QPUs.
+- [qpp](https://github.com/softwareQinc/qpp) - Quantum++ is a modern C++ general purpose quantum computing library, composed solely of template header files.
+- [Qristal](https://github.com/qbrilliance/qristal) - Quantum Brilliance's hybrid quantum-classical C++/Python development platform ([docs](https://qristal.readthedocs.io); [core module](https://github.com/qbrilliance/qristal-core)).
 - [staq](https://github.com/softwareqinc/staq) - Full stack quantum processing toolkit ([arXiv paper](https://arxiv.org/abs/1912.06070)).
 - [XACC](https://github.com/ORNL-QCI/xacc) - Extreme-scale programming model for quantum acceleration within high-performance computing ([arXiv paper](https://arxiv.org/abs/1710.01794)).
-- [qpp](https://github.com/softwareQinc/qpp) - Quantum++ is a modern C++ general purpose quantum computing library, composed solely of template header files.
-- [Qristal](https://github.com/qbrilliance/qristal) - Quantum Brilliance's hybrid quantum-classical C++/Python development platform ([core module](https://github.com/qbrilliance/qristal-core)).
 
 **Python**
 - [blueqat](https://github.com/Blueqat/Blueqat) - Quantum computing SDK.
@@ -67,6 +67,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Qibo](https://github.com/qiboteam/qibo) - An open-source framework for quantum simulation, self-hosted quantum hardware control and calibration.
 - [Qiskit](https://qiskit.org/) - Framework for noisy quantum computers at the level of pulses, circuits, and algorithms (supported by IBM).
 - [Qrisp](https://qrisp.eu/) - A high-level programming language and framework for creating and compiling quantum algorithms ([GitHub](https://github.com/eclipse-qrisp/Qrisp)).
+- [Qristal](https://github.com/qbrilliance/qristal) - Quantum Brilliance's hybrid quantum-classical C++/Python development platform ([docs](https://qristal.readthedocs.io); [core module](https://github.com/qbrilliance/qristal-core)).
 - [quantum-os](https://github.com/quantumos-org/quantum-os) - Operating system based on Linux kernel for quantum computing.
 - [Strawberry Fields](https://github.com/xanaduai/strawberryfields) - [Xanadu](https://www.xanadu.ai)'s software library for photonic quantum computing.
 - [Tangelo](https://github.com/goodchemistryco/Tangelo) and [Tangelo-Examples](https://github.com/goodchemistryco/Tangelo-Examples/) - Toolkit for quantum chemistry simulation workflows on quantum computers, maintained by [SandboxAQ](https://www.sandboxaq.com/).
