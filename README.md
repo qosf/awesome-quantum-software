@@ -429,7 +429,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [pulsemaker](https://github.com/adgt/pulsemaker) - Python widget library for designing pulses and pulse schedules for quantum computing hardware.
 - [pymablock](https://gitlab.kwant-project.org/qt/pymablock) - Package for the construction of effective Hamiltonians using quasi-degenerate perturbation theory.
 - [pyQuirk](https://github.com/adgt/pyQuirk) - Python widget for Quirk to be used in Jupyter notebooks, JupyterLab, and the IPython kernel.
-- [qBraid](https://qbraid-qbraid.readthedocs-hosted.com/en/latest/sdk/overview.html) - Transpiles quantum circuits to and from Cirq, Qiskit, Amazon Braket, Pennylane, Pyquil and allows for execution on any backend.
+- [qBraid](https://docs.qbraid.com/home/introduction) - Transpiles quantum circuits to and from Cirq, Qiskit, Amazon Braket, Pennylane, Pyquil and allows for execution on any backend.
 - [qonduit](https://github.com/adgt/qonduit) - Python library with visualization tools and workflows for quantum computing that utilize the best of what’s available.
 - [qprof](https://gitlab.com/qcomputing/qprof/qprof) - `gprof`-compatible profiler for quantum programs.
 - [QRAND](https://github.com/pedrorrivero/qrand) - Multiplatform and multiprotocol quantum random number generator for arbitrary probability distributions.
