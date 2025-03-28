@@ -250,7 +250,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [QuantumFlow](https://github.com/rigetti/quantumflow) - Quantum Algorithms Development Toolkit e.g. allowing for backpropagation with QAOA.
 - [Quantum TSP](https://github.com/mstechly/quantum_tsp_tutorials) - Tutorials on solving Travelling Salesman Problem using quantum computing (QAOA).
 - [Qudit Team](https://github.com/q-inho/QuditsTeam-1) - Repository to extend Qiskit versatility to higher dimensional quantum states.
-- [ReCirq](https://github.com/quantumlib/ReCirq) - Modules for running quantum computing applications and experiments through [Cirq](https://github.com/quantumlib/Cirq)
+- [ReCirq](https://github.com/quantumlib/ReCirq) - Modules for running quantum computing applications and experiments through [Cirq](https://github.com/quantumlib/Cirq).
 - [spin_qudit_tomography](https://github.com/perlinm/spin_qudit_tomography) - Code used in spin tomography using qudits.
 - [Tensorflow Quantum](https://www.tensorflow.org/quantum) - Library for hybrid quantum-classical machine learning.
 - [pyRiemann-qiskit](https://github.com/pyRiemann/pyRiemann-qiskit) - Library for machine learning and quantum programming based on pyRiemann and Qiskit projects.
