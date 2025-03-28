@@ -384,6 +384,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 **Board games**
 - [Entanglion](https://github.com/Entanglion/entanglion) - The world’s first open source quantum computing board game. For 2 players.
+- [Unitary](https://github.com/quantumlib/unitary) - API library providing common operations for adding quantum behaviors to games.
 
 **F#**
 - [Quantum Puzzle Generator](https://github.com/mrdimosthenis/QuantumPuzzleGenerator) - Educational puzzle game for Android and iOS.
