@@ -82,6 +82,10 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 ## Quantum simulators
 
+**Web Application**
+- [Qniverse](https://qniverse.in) - It's an integrated environment for designing, simulating, and executing quantum algorithms on multiple quantum hardware and High-Performance Computing (HPC) Systems
+- [QSim](https://qctoolkit.in) - Quantum Computer Simulator Toolkit
+
 **Assembly**
 - [Quplexity](https://github.com/MrGilli/Quplexity) - Modular toolkit for QC simulators. Quplexity offers essential mathematical functions and logic relative to quantum computer simulation. Quplexity is written in ARM(64) and x86 Assembly, which results in improved performance and "weight" benefits.
 
