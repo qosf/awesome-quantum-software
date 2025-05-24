@@ -440,6 +440,9 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 **TypeScript**
 - [SpookyIDE](http://github.com/Spooky-Manufacturing/SpookyIDE) - IDE designed for quantum computing.
 
+**Java**
+- [PlankDB](https://github.com/swampus/plank-db) – A Spring Boot key-value store with Grover-powered quantum search via IBM Qiskit. Clean Architecture, REST API, classical + quantum modes supported.
+
 **Others**
 - [Quil syntax highlighter](https://github.com/JavaFXpert/quil-syntax-highlighter) - Syntax highlighter for PyCharm.
 
