@@ -331,6 +331,9 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 ## Quantum error correction
 
+**C++**
+- [Tesseract Decoder](https://github.com/quantumlib/tesseract-decoder) - Most Likely Error decoder designed for Low Density Parity Check (LDPC) quantum error-correcting codes.
+
 **Julia**
 - [CodingTheory](https://github.com/esabo/CodingTheory) - Julia package for constructing and analyzing classical and quantum error-correcting codes.
 
