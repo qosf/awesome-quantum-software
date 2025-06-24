@@ -283,7 +283,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 **Python**
 - [Arline Benchmarks](https://github.com/ArlineQ/arline_benchmarks) - Automated benchmarking platform for quantum compilers, quantum hardware and quantum algorithms.
 - [BQSKit](https://github.com/BQSKit) - Berkeley Quantum Synthesis Toolkit is an optimizing quantum compiler and related tool-set.
-- [Mitiq](https://github.com/unitaryfund/mitiq) - Cross-platform, error-mitigating quantum compiler from [Unitary Fund](https://unitary.fund/).
+- [Mitiq](https://github.com/unitaryfund/mitiq) - Cross-platform, quantum error mitigation toolkit and compiler from [Unitary Fund](https://unitary.fund/).
 - [MQT IonShuttler](https://github.com/cda-tum/mqt-ion-shuttler) - Exact and heuristic scheduling to manage ion movement within trapped-ion hardware.
 - [MQT Predictor](https://github.com/cda-tum/mqt-predictor) - RL-based compiler optimization. ML-based device selection. Available via the [`mqt.predictor`](https://pypi.org/p/mqt.predictor) Python package.
 - [NchooseK](https://github.com/lanl/NchooseK) - Constraint-programming system that compiles to both circuit-model quantum computers and quantum annealers.
@@ -295,6 +295,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Qlasskit](https://github.com/dakk/qlasskit) - Compiler from Python language to quantum circuits and binary quadratic models.
 - [Qubiter](https://github.com/artiste-qb-net/qubiter) - Quantum compiler with Python wrapper for [LAPACK's CS Decomposition](http://www.netlib.org/lapack/README-CSD.html) to build a binary tree of matrices.
 - [SAT Circuits Engine](https://github.com/ohadlev77/sat-circuits-engine) - Qiskit-based high-level quantum circuits synthesis engine for n-SAT problems.
+- [UCC](https://github.com/unitaryfoundation/ucc/) - Unitary Compiler Collection: frontend-agnostic open-source quantum compiler developed by Unitary Foundation.
 
 **Rust**
 - [TKET2](https://github.com/CQCL/tket2) - Rewrite based toolkit for optimization of quantum programs (version 2 of the [TKET](https://github.com/CQCL/tket) quantum compiler).
