@@ -155,6 +155,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [QCircuits](https://github.com/grey-area/qcircuits) - User-friendly quantum circuit simulator designed for students and newcomers to quantum computing.
 - [QCompute](https://github.com/baidu/QCompute) - [Baidu](http://research.baidu.com/Research_Areas/index-view?id=75)'s software development kit for designing quantum circuits and simulating on a high-performance simulator.
 - [Qibo](https://github.com/qiboteam/qibo) - Framework for quantum simulation with hardware acceleration using just-in-time compilation.
+- [qsim](https://github.com/quantumlib/qsim) - Open-source, GPU-enabled C++ and Python library for fast state-vector simulation of quantum circuits.
 - [QTop](https://github.com/jacobmarks/QTop) - Simulation and visualization of topological quantum computers.
 - [quantum-computing](https://github.com/QuantumSystems/quantum-computing) - Functionally complete simulator for universal quantum computing in Python
 - [Quditto](https://github.com/Networks-it-uc3m/Quditto) - QKD Network emulator that automatically deploys distributed, ETSI GS QKD 014–compliant QKD networks.
