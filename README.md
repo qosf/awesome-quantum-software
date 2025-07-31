@@ -108,7 +108,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [QPlayer](https://github.com/eQuantumOS/QPlayer) - Light-weight, scalable and fast quantum Schrödinger simulator ([paper](https://onlinelibrary.wiley.com/doi/full/10.4218/etrij.2021-0442)).
 - [Qrack](https://github.com/vm6502q/qrack) - Comprehensive qubit and gate implementation for developing universal virtual quantum processors.
 - [qSim](https://github.com/haykkh/qSim) - High level, elementary simulation library.
-- [QSim](https://github.com/quantumlib/qsim) - Schrödinger and Schrödinger-Feynman simulators for quantum circuits.
+- [qsim](https://github.com/quantumlib/qsim) - Open-source, GPU-enabled C++ and Python library for fast state-vector simulation of quantum circuits.
 - [Quantum++](https://github.com/softwareqinc/qpp) - High-performance general purpose quantum simulator (can simulate d-dimensional qudits) ([paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0208073)).
 - [tweedledum](https://github.com/boschmitt/tweedledum) - Library for synthesis, compilation, and optimization of quantum circuits.
 
@@ -155,6 +155,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [QCircuits](https://github.com/grey-area/qcircuits) - User-friendly quantum circuit simulator designed for students and newcomers to quantum computing.
 - [QCompute](https://github.com/baidu/QCompute) - [Baidu](http://research.baidu.com/Research_Areas/index-view?id=75)'s software development kit for designing quantum circuits and simulating on a high-performance simulator.
 - [Qibo](https://github.com/qiboteam/qibo) - Framework for quantum simulation with hardware acceleration using just-in-time compilation.
+- [qsim](https://github.com/quantumlib/qsim) - Open-source, GPU-enabled C++ and Python library for fast state-vector simulation of quantum circuits.
 - [QTop](https://github.com/jacobmarks/QTop) - Simulation and visualization of topological quantum computers.
 - [quantum-computing](https://github.com/QuantumSystems/quantum-computing) - Functionally complete simulator for universal quantum computing in Python
 - [Quditto](https://github.com/Networks-it-uc3m/Quditto) - QKD Network emulator that automatically deploys distributed, ETSI GS QKD 014–compliant QKD networks.
