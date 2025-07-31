@@ -421,6 +421,9 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [MQT QCEC](https://github.com/cda-tum/mqt-qcec) - Equivalence checking of quantum circuits. Verifying compilation flows. Available via the [`mqt.qcec`](https://pypi.org/p/mqt.qcec) package and fully compatible with Qiskit.
 - [MQT QuSAT](https://github.com/cda-tum/mqt-qusat) - Encoding and equivalence checking of Clifford circuits using satisfiablity testing (SAT).
 
+**Java**
+- [PlankDB](https://github.com/swampus/plank-db) – A Spring Boot key-value store with Grover-powered quantum search via IBM Qiskit. Clean Architecture, REST API, classical + quantum modes supported.
+
 **Mathematica**
 - [Quantum](http://homepage.cem.itesm.mx/lgomez/quantum/) - Free Mathematica add-on for Dirac Bra-Ket Notation, Quantum Algebra, Quantum Computing and the QHD approximation to the Heisenberg Equations of Motion.
 - [QI](https://github.com/rogercolbeck/QI) - Toolkit for common quantum information functions.
@@ -448,6 +451,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 **TypeScript**
 - [SpookyIDE](http://github.com/Spooky-Manufacturing/SpookyIDE) - IDE designed for quantum computing.
+
 
 **Others**
 - [Quil syntax highlighter](https://github.com/JavaFXpert/quil-syntax-highlighter) - Syntax highlighter for PyCharm.
