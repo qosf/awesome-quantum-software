@@ -345,6 +345,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [qecsim](https://github.com/qecsim/qecsim) - Python package for simulating quantum error correction using stabilizer codes.
 - [Qiskit Experiments](https://github.com/Qiskit-Extensions/qiskit-experiments) - Python package for quantum error correction experiments (supported by IBM).
 - [Qsurface](https://github.com/watermarkhu/qsurface) - Python package for simulation and visualization of quantum error-correction on surface codes.
+- [Tesseract Decoder](https://github.com/quantumlib/tesseract-decoder) - Most Likely Error decoder designed for Low Density Parity Check (LDPC) quantum error-correcting codes.
 
 ## Quantum and post-quantum cryptography
 
