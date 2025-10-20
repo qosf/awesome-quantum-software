@@ -417,6 +417,9 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 ## Quantum tools
 
+**C#**
+- [QuantumSuperposition](https://github.com/hutchpd/QuantumSuperposition) - Quantum-inspired C#/.NET library for first-class superpositions and time-looped convergence (PositronicVariables) to model uncertainty and collapse. (Related: [Go port](https://github.com/hutchpd/QuantumSuperPosition-Go)).
+
 **C++**
 - [MQT DDVis](https://github.com/cda-tum/mqt-ddvis) - Installation-free web-tool that visualizes quantum decision diagrams for classical simulation and verification. Hosted at https://www.cda.cit.tum.de/app/ddvis/.
 - [MQT Debugger](https://github.com/cda-tum/mqt-debugger) - Debugging quantum circuits with IDE integration based on DAP server.
