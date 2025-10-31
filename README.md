@@ -450,6 +450,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [qprof](https://gitlab.com/qcomputing/qprof/qprof) - `gprof`-compatible profiler for quantum programs.
 - [QRAND](https://github.com/pedrorrivero/qrand) - Multiplatform and multiprotocol quantum random number generator for arbitrary probability distributions.
 - [QuantumGraphs](https://github.com/ziofil/QuantumGraphs) - Grow and study random graphs by a continuous, randomly collapsing quantum walk.
+- [QUARK](https://github.com/QUARK-framework/QUARK) - Framework for Quantum Computing Application Benchmarking.
 - [QXMT](https://github.com/Qyusu/qxmt) - Experiment management tool for quantum computing and quantum machine learning.
 - [toqito](https://github.com/vprusso/toqito) - Framework to study problems pertaining to entanglement theory, nonlocal games, and other aspects of quantum information.
 - [ZXLive](https://github.com/Quantomatic/zxlive) - GUI editor for ZX diagrams.
