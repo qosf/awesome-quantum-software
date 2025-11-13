@@ -39,6 +39,9 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 ## Quantum full-stack libraries
 
+**C**
+- [Qiskit](https://www.ibm.com/quantum/qiskit) - SDK for working with quantum computers at the level of extended quantum circuits, operators, and primitives. (supported by IBM).
+
 **C++**
 - [avaloni](https://github.com/avalon-lang/avaloni) - Programming language (interpreter) for classical-quantum hybrid computers.
 - [CUDA-Q](https://github.com/NVIDIA/cuda-quantum) - Platform for accelerated quantum-classical applications on GPUs, CPUs and QPUs.
@@ -65,7 +68,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Qadence](https://github.com/pasqal-io/qadence) - [Pasqal](https://www.pasqal.com)'s package for building differentiable digital and digital-analog quantum programs realizable on neutral atom devices.
 - [quantumcat](https://github.com/artificial-brain/quantumcat/) - Cross-platform open-source high-level quantum computing library focused on building applications.
 - [Qibo](https://github.com/qiboteam/qibo) - An open-source framework for quantum simulation, self-hosted quantum hardware control and calibration.
-- [Qiskit](https://qiskit.org/) - Framework for noisy quantum computers at the level of pulses, circuits, and algorithms (supported by IBM).
+- [Qiskit](https://www.ibm.com/quantum/qiskit) - SDK for working with quantum computers at the level of extended quantum circuits, operators, and primitives. (supported by IBM).
 - [Qrisp](https://qrisp.eu/) - A high-level programming language and framework for creating and compiling quantum algorithms ([GitHub](https://github.com/eclipse-qrisp/Qrisp)).
 - [Qristal](https://github.com/qbrilliance/qristal) - Quantum Brilliance's hybrid quantum-classical C++/Python development platform ([docs](https://qristal.readthedocs.io); [core module](https://github.com/qbrilliance/qristal-core)).
 - [quantum-os](https://github.com/quantumos-org/quantum-os) - Operating system based on Linux kernel for quantum computing.
