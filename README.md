@@ -144,6 +144,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [QuantumOptics.jl](https://qojulia.org/) - Numerical framework to simulate various kinds of open quantum systems in Julia.
 - [RandomQuantum.jl](https://github.com/BBN-Q/RandomQuantum.jl) - Package for generating random quantum states and processes.
 - [Yao.jl](https://github.com/QuantumBFS/Yao.jl) - Extensible, Efficient Quantum Algorithm Design for Humans.
+- [QuantumToolbox.jl](https://github.com/qutip/QuantumToolbox.jl) - High-performance, GPU-ready and autodiff-friendly simulations of open quantum systems.
 
 **Python**
 - [Dynamiqs](https://www.dynamiqs.org/) - High-performance quantum systems simulation with JAX (GPU-accelerated & differentiable).
