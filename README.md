@@ -50,6 +50,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [staq](https://github.com/softwareqinc/staq) - Full stack quantum processing toolkit ([arXiv paper](https://arxiv.org/abs/1912.06070)).
 - [XACC](https://github.com/ORNL-QCI/xacc) - Extreme-scale programming model for quantum acceleration within high-performance computing ([arXiv paper](https://arxiv.org/abs/1710.01794)).
 
+
 **Python**
 - [blueqat](https://github.com/Blueqat/Blueqat) - Quantum computing SDK.
 - [bosonic-qiskit](https://github.com/C2QA/bosonic-qiskit) - Simulate hybrid boson-qubit systems within Qiskit, implemented as a part of the Co-design Center for Quantum Advantage (C2QA) of the National Quantum Initiative.
@@ -76,7 +77,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Tangelo](https://github.com/goodchemistryco/Tangelo) and [Tangelo-Examples](https://github.com/goodchemistryco/Tangelo-Examples/) - Toolkit for quantum chemistry simulation workflows on quantum computers, maintained by [SandboxAQ](https://www.sandboxaq.com/).
 - [TensorCircuit](https://github.com/tencent-quantum-lab/tensorcircuit) - Tensor network based quantum software framework for the NISQ era.
 - [Tequila](https://github.com/aspuru-guzik-group/tequila) - Extensible Quantum Information and Learning Architecture developed by Alan Aspuru-Guzik's group (UofT).
-
+- [QERRA-v2](https://github.com/marunigno-ship-it/QERRA-v2) – Quantum-aware humanoid control stack with 8 real-life ethical vectors (100 % blind verdicts). MIT-licensed.
 **Q#**
 - [Q#](https://www.microsoft.com/en-us/quantum/development-kit) - Microsoft's quantum programming language with Visual Studio integration.
 
