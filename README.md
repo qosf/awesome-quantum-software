@@ -168,6 +168,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Quditto](https://github.com/Networks-it-uc3m/Quditto) - QKD Network emulator that automatically deploys distributed, ETSI GS QKD 014–compliant QKD networks.
 - [QuForge](https://github.com/tiago939/QuForge) - Python package for qudit simulation.
 - [quimb](https://github.com/jcmgray/quimb) - Easy but fast python library for quantum information and many-body calculations, including with tensor networks.
+- [scpn-quantum-control](https://github.com/anulum/scpn-quantum-control) - Quantum simulation of coupled Kuramoto-XY oscillators on IBM hardware, with Rust-accelerated Hamiltonian construction, synchronisation witnesses, and Lindblad open-system dynamics.
 - [Quintuple](https://github.com/corbett/QuantumComputing) - Simulating the 5-qubit processor of the [IBM Quantum Experience](https://quantumexperience.ng.bluemix.net/qx/experience).
 - [QuPy](https://github.com/ken-nakanishi/qupy) - Quantum circuit simulator for both CPU and GPU.
 - [QuSpin](https://github.com/weinbe58/QuSpin) - Exact diagonalization and dynamics of arbitrary boson, fermion and spin many-body systems.
