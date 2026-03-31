@@ -382,6 +382,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 **Python**
 - [ARTIQ](https://github.com/m-labs/artiq) - Next-generation control system for quantum information experiments.
+- [Atomiq](https://atomiq.one/) - Quantum hardware orchestration stack for complex quantum setups.
 - [OLSQ](https://github.com/tbcdebug/OLSQ) - OpenQASM package to perform optimal layout synthesis for quantum computing.
 - [MQT DASQA](https://github.com/cda-tum/mqt-dasqa) - Framework to encapsulate application-driven superconducting architecture design.
 - [MQT Qudits](https://github.com/cda-tum/mqt-qudits) - A framework for research and education for mixed-dimensional qudit quantum computing available via the [`mqt.qudits`] Python package.
@@ -405,7 +406,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 **C++**
 
-- [Quandoom](https://github.com/Lumorti/Quandoom) - Port of DOOM for a quantum computer. 
+- [Quandoom](https://github.com/Lumorti/Quandoom) - Port of DOOM for a quantum computer.
 
 **F#**
 - [Quantum Puzzle Generator](https://github.com/mrdimosthenis/QuantumPuzzleGenerator) - Educational puzzle game for Android and iOS.
