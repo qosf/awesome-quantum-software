@@ -480,6 +480,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 ## Quantum data
 
 - [QDataSet](https://github.com/eperrier/QDataSet) - Quantum datasets for the training and development of QML algorithms.
+- [QuPrep](https://github.com/quprep/quprep) - Classical-to-quantum data encoding and preprocessing library for quantum machine learning.
 
 ## Abandoned projects
 *2+ years of inactivity. Feel free to reanimate, document and contribute to some of this work!*
