@@ -463,6 +463,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [pymablock](https://gitlab.kwant-project.org/qt/pymablock) - Package for the construction of effective Hamiltonians using quasi-degenerate perturbation theory.
 - [pyQuirk](https://github.com/adgt/pyQuirk) - Python widget for Quirk to be used in Jupyter notebooks, JupyterLab, and the IPython kernel.
 - [qBraid](https://docs.qbraid.com/home/introduction) - Transpiles quantum circuits to and from Cirq, Qiskit, Amazon Braket, Pennylane, Pyquil and allows for execution on any backend.
+- - [Qlro](https://github.com/linsletoh/qlro) - Quantum device selection that ranks tracked backends for a given workload via the WCPP framework, using third-party Metriq benchmarks plus a community-fed (predicted, observed) accuracy dataset ([qlro.io](https://qlro.io); [paper](https://doi.org/10.5281/zenodo.19785800)).
 - [qonduit](https://github.com/adgt/qonduit) - Python library with visualization tools and workflows for quantum computing that utilize the best of what’s available.
 - [qprof](https://gitlab.com/qcomputing/qprof/qprof) - `gprof`-compatible profiler for quantum programs.
 - [QRAND](https://github.com/pedrorrivero/qrand) - Multiplatform and multiprotocol quantum random number generator for arbitrary probability distributions.
