@@ -145,10 +145,10 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [QSimulator.jl](https://github.com/BBN-Q/QSimulator.jl) - Unitary and Lindbladian evolution in Julia.
 - [QuantumInfo.jl](https://github.com/BBN-Q/QuantumInfo.jl) - Julia library for quantum information related calculations.
 - [QuantumOptics.jl](https://qojulia.org/) - Numerical framework to simulate various kinds of open quantum systems in Julia.
+- [QuantumToolbox.jl](https://github.com/qutip/QuantumToolbox.jl) - High-performance, GPU-ready and autodiff-friendly simulations of open quantum systems.
 - [RandomQuantum.jl](https://github.com/BBN-Q/RandomQuantum.jl) - Package for generating random quantum states and processes.
 - [SmoQ.jl](https://github.com/MarcinPlodzien/SmoQ.jl) - Matrix-free simulation of pure and mixed quantum states.
 - [Yao.jl](https://github.com/QuantumBFS/Yao.jl) - Extensible, Efficient Quantum Algorithm Design for Humans.
-- [QuantumToolbox.jl](https://github.com/qutip/QuantumToolbox.jl) - High-performance, GPU-ready and autodiff-friendly simulations of open quantum systems.
 
 **Python**
 - [Dynamiqs](https://www.dynamiqs.org/) - High-performance quantum systems simulation with JAX (GPU-accelerated & differentiable).
