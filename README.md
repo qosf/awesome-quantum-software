@@ -334,6 +334,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 **Python**
 - [C3](https://github.com/q-optimize/c3) - Open-loop, closed-loop and automated Control, Calibration and Characterization of quantum devices.
+- [gradpulse](https://github.com/PureStateLabs/gradpulse) - Differentiable, multi-solver-validated pulse optimizer for open-system superconducting-gate fidelities.
 - [Krotov](https://github.com/qucontrol/krotov) - Python implementation of Krotov's method for quantum optimal control.
 - [Qibo](https://github.com/qiboteam/qibo) - Qibo provides a platform agnostic quantum hardware control module with drivers for multiple instruments.
 - [Quanlse](https://github.com/baidu/Quanlse) - Quanlse provides quantum control solutions via a cloud SDK, developed by [Baidu Quantum](https://research.baidu.com/Research_Areas/index-view?id=75).
