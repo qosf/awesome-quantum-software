@@ -461,6 +461,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [MQT Bench](https://github.com/cda-tum/mqt-bench) - Quantum circuit benchmark suite providing benchmark algorithms for different compilation levels. Web application hosted at https://www.cda.cit.tum.de/mqtbench/. Also available via the [`mqt.bench`](https://pypi.org/p/mqt.bench) Python package.
 - [MQT Problem Solver](https://github.com/cda-tum/mqt-problemsolver) - Automated Framework for Realizing Quantum Computing Solutions.
 - [orqviz](https://github.com/zapatacomputing/orqviz) - Library to easily visualize the loss landscape of variational quantum algorithms.
+- [PauLie](https://github.com/QPauLie/PauLie) - Library for studying algebraic properties of quantum systems, in particular the dynamical Lie algebra of Pauli string generated dynamics.
 - [pulsemaker](https://github.com/adgt/pulsemaker) - Python widget library for designing pulses and pulse schedules for quantum computing hardware.
 - [pymablock](https://gitlab.kwant-project.org/qt/pymablock) - Package for the construction of effective Hamiltonians using quasi-degenerate perturbation theory.
 - [pyQuirk](https://github.com/adgt/pyQuirk) - Python widget for Quirk to be used in Jupyter notebooks, JupyterLab, and the IPython kernel.
