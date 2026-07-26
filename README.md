@@ -1,6 +1,3 @@
-<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/e1fda49e-a5de-4df4-bc7f-bbf3e2918831" />
-<p align="center"><img src="hopf_fibration.png" alt="bDialog" height="300px"></p>
-
 # Open-Source Quantum Software Projects
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/qosfoundation?style=social)](https://twitter.com/qosfoundation)
