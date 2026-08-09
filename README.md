@@ -152,6 +152,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Yao.jl](https://github.com/QuantumBFS/Yao.jl) - Extensible, Efficient Quantum Algorithm Design for Humans.
 
 **Python**
+- [Dense-Evolution](https://github.com/tatopenn-cell/Dense-Evolution) - High-performance NISQ statevector simulator with JAX JIT/XLA compilation, optional CuPy GPU acceleration, and built-in zero-noise-extrapolation error mitigation.
 - [Dynamiqs](https://www.dynamiqs.org/) - High-performance quantum systems simulation with JAX (GPU-accelerated & differentiable).
 - [Graphix](https://github.com/TeamGraphix/graphix) - Measurement-Based Quantum Computing (MBQC) compiler, simulator and QPU interface.
 - [Horqrux](https://github.com/pasqal-io/horqrux) - Jax-based quantum state vector simulator tailored for quantum machine learning from [Pasqal](https://www.pasqal.com).
