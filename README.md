@@ -84,6 +84,9 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 **Q#**
 - [Q#](https://www.microsoft.com/en-us/quantum/development-kit) - Microsoft's quantum programming language with Visual Studio integration.
 
+**Rust**
+- [LIFT](https://github.com/rustnew/Lift) - Unified compiler framework for AI and quantum computing: a single SSA intermediate representation for tensor ops, quantum gates, and classical-quantum hybrids, with 13 optimisation passes, O0-O3 pipelines, noise-aware scheduling, cost modelling, and LLVM IR / ONNX / OpenQASM 3.0 backends. Published on [crates.io](https://crates.io/crates/lift-core) ([docs](https://docs.rs/lift-core)).
+
 **Silq**
 - [Silq](https://silq.ethz.ch/) - Silq is a high-level quantum programming language with safe uncomputation and intuitive semantics.
 
@@ -314,6 +317,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [UCC](https://github.com/unitaryfoundation/ucc/) - Unitary Compiler Collection: frontend-agnostic open-source quantum compiler developed by Unitary Foundation.
 
 **Rust**
+- [LIFT](https://github.com/rustnew/Lift) - Unified compiler framework for AI and quantum computing; its quantum front covers gate decomposition, noise-aware scheduling, qubit layout mapping, real qubit routing (SWAP + BFS), and OpenQASM 3.0 export. Published on [crates.io](https://crates.io/crates/lift-core).
 - [TKET2](https://github.com/CQCL/tket2) - Rewrite based toolkit for optimization of quantum programs (version 2 of the [TKET](https://github.com/CQCL/tket) quantum compiler).
 
 **Common Lisp**
