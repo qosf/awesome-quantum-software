@@ -299,8 +299,8 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 **Python**
 - [Arline Benchmarks](https://github.com/ArlineQ/arline_benchmarks) - Automated benchmarking platform for quantum compilers, quantum hardware and quantum algorithms.
-- [CleitonForge](https://github.com/cleitonaugusto/CleitonForge) - Neutral cross-backend benchmarking layer for quantum circuit simulators (Rust + Python). Discovered a silent Rz gate sign convention disagreement that produces zero QAOA fidelity across backends. Includes a convention normalization transpiler. Preprint: [10.5281/zenodo.21210972](https://doi.org/10.5281/zenodo.21210972).
 - [BQSKit](https://github.com/BQSKit) - Berkeley Quantum Synthesis Toolkit is an optimizing quantum compiler and related tool-set.
+- [CleitonForge](https://github.com/cleitonaugusto/CleitonForge) - Differential fuzzer for quantum compilers and simulators (Rust + Python), with a shrinker and an exact-operator oracle.
 - [EMRG](https://github.com/FedorShind/EMRG) - Quantum error mitigation toolkit with ZNE, PEC, and CDR support.
 - [Mitiq](https://github.com/unitaryfoundation/mitiq) - Cross-platform, quantum error mitigation toolkit and compiler from [Unitary Foundation](https://unitary.foundation/).
 - [MQT IonShuttler](https://github.com/cda-tum/mqt-ion-shuttler) - Exact and heuristic scheduling to manage ion movement within trapped-ion hardware.
