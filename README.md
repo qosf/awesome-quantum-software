@@ -155,7 +155,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Yao.jl](https://github.com/QuantumBFS/Yao.jl) - Extensible, Efficient Quantum Algorithm Design for Humans.
 
 **Python**
-- [Dense-Evolution](https://github.com/tatopenn-cell/Dense-Evolution) - High-performance NISQ statevector simulator with JAX JIT/XLA compilation, optional CuPy GPU acceleration, and built-in zero-noise-extrapolation error mitigation.
+- [Dense-Evolution](https://github.com/tatopenn-cell/Dense-Evolution) - NISQ quantum simulation toolkit — JAX-native.
 - [Dynamiqs](https://www.dynamiqs.org/) - High-performance quantum systems simulation with JAX (GPU-accelerated & differentiable).
 - [Graphix](https://github.com/TeamGraphix/graphix) - Measurement-Based Quantum Computing (MBQC) compiler, simulator and QPU interface.
 - [Horqrux](https://github.com/pasqal-io/horqrux) - Jax-based quantum state vector simulator tailored for quantum machine learning from [Pasqal](https://www.pasqal.com).
@@ -413,7 +413,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 ## Quantum fun
 
 **Board games**
-- [Entanglion](https://github.com/Entanglion/entanglion) - The world’s first open source quantum computing board game. For 2 players.
+- [Entanglion](https://github.com/Entanglion/entanglion) - The world's first open source quantum computing board game. For 2 players.
 - [Unitary](https://github.com/quantumlib/unitary) - API library providing common operations for adding quantum behaviors to games.
 
 **C++**
@@ -475,7 +475,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [pyQuirk](https://github.com/adgt/pyQuirk) - Python widget for Quirk to be used in Jupyter notebooks, JupyterLab, and the IPython kernel.
 - [qBraid](https://docs.qbraid.com/home/introduction) - Transpiles quantum circuits to and from Cirq, Qiskit, Amazon Braket, Pennylane, Pyquil and allows for execution on any backend.
 - - [Qlro](https://github.com/linsletoh/qlro) - Quantum device selection that ranks tracked backends for a given workload via the WCPP framework, using third-party Metriq benchmarks plus a community-fed (predicted, observed) accuracy dataset ([qlro.io](https://qlro.io); [paper](https://doi.org/10.5281/zenodo.19785800)).
-- [qonduit](https://github.com/adgt/qonduit) - Python library with visualization tools and workflows for quantum computing that utilize the best of what’s available.
+- [qonduit](https://github.com/adgt/qonduit) - Python library with visualization tools and workflows for quantum computing that utilize the best of what's available.
 - [qprof](https://gitlab.com/qcomputing/qprof/qprof) - `gprof`-compatible profiler for quantum programs.
 - [QRAND](https://github.com/pedrorrivero/qrand) - Multiplatform and multiprotocol quantum random number generator for arbitrary probability distributions.
 - [QuantumGraphs](https://github.com/ziofil/QuantumGraphs) - Grow and study random graphs by a continuous, randomly collapsing quantum walk.
