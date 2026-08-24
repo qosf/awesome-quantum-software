@@ -378,6 +378,10 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [PQClean](https://github.com/PQClean/PQClean) - Clean, portable, tested implementations of post-quantum cryptography.
 - [TQ42 Cryptography](https://github.com/terra-quantum-public/tq42-pqc-oss) - Post-quantum algorithms, hash functions, digital signature, key encapsulation mechanism, PRNG, and key management functions.
 
+**Research & reproducibility**
+- [QNSI ML-KEM ACVP Reproducibility Study](https://arxiv.org/abs/2608.13784) - Frozen reproducibility protocol evaluating noble-post-quantum, liboqs, and Go against pinned public NIST ML-KEM ACVP vectors.
+- [QNSI ML-KEM ACVP Artifact](https://doi.org/10.5281/zenodo.21910571) - MIT-licensed two-command reproducible artifact for the study.
+
 **Python**
 - [Crypto-Vinaigrette](https://github.com/aditisrinivas97/Crypto-Vinaigrette) - Quantum-resistant asymmetric key generation tool for digital signatures.
 - [Qash-QKDC](https://github.com/TimeMelt/qash-qkdc) - [Hashing algorithms/circuits](https://timemelt.itch.io/qash-qkdc) powered by quantum operations.
