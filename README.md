@@ -385,7 +385,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [QRL](https://github.com/theQRL/QRL/) - [Quantum Resistant Ledger](https://theqrl.org/) utilizing hash-based one-time merkle tree signature scheme instead of ECDSA.
 
 **Rust**
-* [Ombracrypt](https://github.com/ABiswasDev/Ombracrypt) - Strictly offline, zero-telemetry file encryption with Post-Quantum Cryptography (PQC) and anti-coercion duress codes.written in rust.
+* [Ombracrypt](https://github.com/ABiswasDev/Ombracrypt) - Strictly offline, zero-telemetry file encryption with Post-Quantum Cryptography (PQC) and anti-coercion duress codes.
 
 ## Experimental quantum computing
 
