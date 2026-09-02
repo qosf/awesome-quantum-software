@@ -384,6 +384,9 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Qashchain](https://github.com/TimeMelt/qashchain) - [Quantum blockchain](https://timemelt.itch.io/qashchain) based on [qash-qkdc](https://github.com/TimeMelt/qash-qkdc) circuits.
 - [QRL](https://github.com/theQRL/QRL/) - [Quantum Resistant Ledger](https://theqrl.org/) utilizing hash-based one-time merkle tree signature scheme instead of ECDSA.
 
+**Rust**
+* [Ombracrypt](https://github.com/ABiswasDev/Ombracrypt) - Strictly offline, zero-telemetry file encryption with Post-Quantum Cryptography (PQC) and anti-coercion duress codes.written in rust.
+
 ## Experimental quantum computing
 
 **Julia**
