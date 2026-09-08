@@ -142,6 +142,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 **Julia**
 - [BosonSampling.jl](https://github.com/benoitseron/BosonSampling.jl) - Efficient simulation of multiphoton interference.
+- [QuantumClifford.jl](https://github.com/QuantumSavory/QuantumClifford.jl) - Simulate Clifford circuits, graph states, and other quantum Stabilizer formalism tools.
 - [IonSim.jl](https://github.com/HaeffnerLab/IonSim.jl) - Simulate the dynamics of a configuration of trapped ions interacting with laser light.
 - [KadanoffBaym.jl](https://github.com/NonequilibriumDynamics/KadanoffBaym.jl) - Adaptive many-body time evolution of non-equilibrium Green functions.
 - [PauliStrings.jl](https://github.com/nicolasloizeau/PauliStrings.jl) - Many-body simulations in the Pauli strings representation.
