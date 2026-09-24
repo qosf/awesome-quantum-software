@@ -75,6 +75,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Qiskit](https://www.ibm.com/quantum/qiskit) - SDK for working with quantum computers at the level of extended quantum circuits, operators, and primitives. (supported by IBM).
 - [Qrisp](https://qrisp.eu/) - A high-level programming language and framework for creating and compiling quantum algorithms ([GitHub](https://github.com/eclipse-qrisp/Qrisp)).
 - [Qristal](https://github.com/qbrilliance/qristal) - Quantum Brilliance's hybrid quantum-classical C++/Python development platform ([docs](https://qristal.readthedocs.io); [core module](https://github.com/qbrilliance/qristal-core)).
+- [qsim-sdk](https://github.com/official-dvl/zksf) - Client for the [ZKSF](https://zksf.org) cloud simulation service, running circuits on CPU, GPU and quantum hardware, with a measured accuracy statement returned alongside every approximate result ([docs](https://zksf.org/docs/)).
 - [quantum-os](https://github.com/quantumos-org/quantum-os) - Operating system based on Linux kernel for quantum computing.
 - [Strawberry Fields](https://github.com/xanaduai/strawberryfields) - [Xanadu](https://www.xanadu.ai)'s software library for photonic quantum computing.
 - [Tangelo](https://github.com/goodchemistryco/Tangelo) and [Tangelo-Examples](https://github.com/goodchemistryco/Tangelo-Examples/) - Toolkit for quantum chemistry simulation workflows on quantum computers, maintained by [SandboxAQ](https://www.sandboxaq.com/).
@@ -349,6 +350,8 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 ## Quantum interoperability
 
 - [Digital Soul](https://github.com/NeuralDreamResearch/DigitalSoul) - Unified platform for CPU, GPU, FPGA, and Quantum Computing.
+- [pennylane-zksf](https://github.com/official-dvl/pennylane-zksf) - PennyLane device for the [ZKSF](https://zksf.org) engines, so existing PennyLane circuits run by naming a different device, with an error bound reported per run.
+- [qiskit-zksf](https://github.com/official-dvl/qiskit-zksf) - Qiskit provider exposing [ZKSF](https://zksf.org) simulation engines and quantum hardware as backends, so existing circuits run by naming a different backend.
 - [scikit-quant](https://github.com/scikit-quant/scikit-quant) - This is a package to improve interoperability between different quantum computer software packages.
 
 ## Quantum error correction
@@ -482,6 +485,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [QUARK](https://github.com/QUARK-framework/QUARK) - Framework for Quantum Computing Application Benchmarking.
 - [QXMT](https://github.com/Qyusu/qxmt) - Experiment management tool for quantum computing and quantum machine learning.
 - [toqito](https://github.com/vprusso/toqito) - Framework to study problems pertaining to entanglement theory, nonlocal games, and other aspects of quantum information.
+- [zcc-verify](https://github.com/official-dvl/zksf-zcc-verify) - Independent checker for ZCC and ZHF simulation-accuracy certificates, recomputing a declared error bound from the measurement the certificate reports, with no dependencies and no account ([protocol](https://doi.org/10.5281/zenodo.21851381)).
 - [ZXLive](https://github.com/Quantomatic/zxlive) - GUI editor for ZX diagrams.
 
 **TypeScript**
