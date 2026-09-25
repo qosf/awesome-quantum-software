@@ -372,6 +372,9 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Qsurface](https://github.com/watermarkhu/qsurface) - Python package for simulation and visualization of quantum error-correction on surface codes.
 - [Tesseract Decoder](https://github.com/quantumlib/tesseract-decoder) - Most Likely Error decoder designed for Low Density Parity Check (LDPC) quantum error-correcting codes.
 
+**Rust**
+- [aleph](https://github.com/aleph-sim/aleph) - QEC decoders (MWPM, Union-Find, BP-OSD, relay-BP), a CUDA-Q QEC plugin and open FPGA decoder RTL, plus a GPU quantum circuit simulator.
+
 ## Quantum and post-quantum cryptography
 
 **C**
