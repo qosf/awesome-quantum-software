@@ -191,6 +191,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [gdsfactory](https://gdsfactory.github.io/gdsfactory/) and [plugins](https://gdsfactory.github.io/gplugins) - Open Source Python library designed for crafting chips (Photonics, Analog, Quantum, MEMs, and more), 3D printed objects, and PCBs. Plugins for Simulating Analog, RF, and Photonics circuits.
 
 **Rust**
+- [aleph](https://github.com/aleph-sim/aleph) - State-vector, MPS and stabilizer simulator with CUDA and Metal GPU backends and Python bindings.
 - [QCGPU](https://github.com/QCGPU/qcgpu-rust) - High-performance GPU-accelerated quantum computer simulation outlined in this [arXiv paper](https://arxiv.org/pdf/1805.00988.pdf).
 - [Quriust](https://github.com/ScipioneParmigiano/quriust) - A blazing fast Rust library for simulating quantum circuits. Only for quriust ones.
 - [RustQIP](https://github.com/Renmusxd/RustQIP) - Rust Quantum Computing library leveraging graph building to build efficient quantum circuit simulations.
@@ -371,6 +372,9 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Qiskit Experiments](https://github.com/Qiskit-Extensions/qiskit-experiments) - Python package for quantum error correction experiments (supported by IBM).
 - [Qsurface](https://github.com/watermarkhu/qsurface) - Python package for simulation and visualization of quantum error-correction on surface codes.
 - [Tesseract Decoder](https://github.com/quantumlib/tesseract-decoder) - Most Likely Error decoder designed for Low Density Parity Check (LDPC) quantum error-correcting codes.
+
+**Rust**
+- [aleph](https://github.com/aleph-sim/aleph) - QEC decoders (MWPM, Union-Find, BP-OSD, relay-BP) with Python bindings, a CUDA-Q QEC plugin and open FPGA relay-BP RTL.
 
 ## Quantum and post-quantum cryptography
 
