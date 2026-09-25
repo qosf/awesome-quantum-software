@@ -191,7 +191,6 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [gdsfactory](https://gdsfactory.github.io/gdsfactory/) and [plugins](https://gdsfactory.github.io/gplugins) - Open Source Python library designed for crafting chips (Photonics, Analog, Quantum, MEMs, and more), 3D printed objects, and PCBs. Plugins for Simulating Analog, RF, and Photonics circuits.
 
 **Rust**
-- [aleph](https://github.com/aleph-sim/aleph) - State-vector, MPS and stabilizer simulator with CUDA and Metal GPU backends and Python bindings.
 - [QCGPU](https://github.com/QCGPU/qcgpu-rust) - High-performance GPU-accelerated quantum computer simulation outlined in this [arXiv paper](https://arxiv.org/pdf/1805.00988.pdf).
 - [Quriust](https://github.com/ScipioneParmigiano/quriust) - A blazing fast Rust library for simulating quantum circuits. Only for quriust ones.
 - [RustQIP](https://github.com/Renmusxd/RustQIP) - Rust Quantum Computing library leveraging graph building to build efficient quantum circuit simulations.
@@ -374,7 +373,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Tesseract Decoder](https://github.com/quantumlib/tesseract-decoder) - Most Likely Error decoder designed for Low Density Parity Check (LDPC) quantum error-correcting codes.
 
 **Rust**
-- [aleph](https://github.com/aleph-sim/aleph) - QEC decoders (MWPM, Union-Find, BP-OSD, relay-BP) with Python bindings, a CUDA-Q QEC plugin and open FPGA relay-BP RTL.
+- [aleph](https://github.com/aleph-sim/aleph) - QEC decoders (MWPM, Union-Find, BP-OSD, relay-BP), a CUDA-Q QEC plugin and open FPGA decoder RTL, plus a GPU quantum circuit simulator.
 
 ## Quantum and post-quantum cryptography
 
