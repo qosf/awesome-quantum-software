@@ -59,6 +59,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Braket](https://github.com/amazon-braket/amazon-braket-sdk-python) - [Amazon's](https://aws.amazon.com/braket/) fully managed quantum computing service for building quantum algorithms.
 - [Cirq](https://github.com/quantumlib/Cirq) - Framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.
 - [CUDA-Q](https://github.com/NVIDIA/cuda-quantum) - Platform for accelerated quantum-classical applications on GPUs, CPUs and QPUs.
+- [FatQat](https://fatqat.readthedocs.io/en/stable/) - Toolkit for authoring, compiling, and simulating quantum programs at multiple fidelity levels and hardware settings, with visualization and Qiskit/OpenQASM interoperability ([GitHub](https://github.com/spaceqat/fatqat); [docs](https://fatqat.readthedocs.io/en/stable/guide/)).
 - [Forest](https://github.com/rigetticomputing/pyquil) - [Rigetti](https://www.rigetti.com/)'s software library for writing, simulating, compiling and executing quantum programs.
 - [hybridlane](https://github.com/pnnl/hybridlane) - Full-stack library for mixed-variable (CV-DV) quantum programming across simulators and hardware within PennyLane.
 - [Ket](https://quantumket.org) - Embedded programming language that introduces the ease of Python to quantum programming.
