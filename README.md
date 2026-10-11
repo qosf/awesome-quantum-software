@@ -176,7 +176,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [QuForge](https://github.com/tiago939/QuForge) - Python package for qudit simulation.
 - [quimb](https://github.com/jcmgray/quimb) - Easy but fast python library for quantum information and many-body calculations, including with tensor networks.
 - [scpn-quantum-control](https://github.com/anulum/scpn-quantum-control) - Quantum simulation of coupled Kuramoto-XY oscillators on IBM hardware, with Rust-accelerated Hamiltonian construction, synchronisation witnesses, and Lindblad open-system dynamics.
-- [Quintuple](https://github.com/corbett/QuantumComputing) - Simulating the 5-qubit processor of the [IBM Quantum Experience](https://quantumexperience.ng.bluemix.net/qx/experience).
+- [Quintuple](https://github.com/corbett/QuantumComputing) - Simulating the 5-qubit processor of the [IBM Quantum Experience](https://quantum.ibm.com).
 - [QuPy](https://github.com/ken-nakanishi/qupy) - Quantum circuit simulator for both CPU and GPU.
 - [QuSpin](https://github.com/weinbe58/QuSpin) - Exact diagonalization and dynamics of arbitrary boson, fermion and spin many-body systems.
 - [QuTiP](http://qutip.org/) - User-friendly and efficient numerical simulations of a wide variety of open quantum systems.
@@ -222,7 +222,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [dwave-cloud-client](https://github.com/dwavesystems/dwave-cloud-client) - Min. implementation of the REST interface to communicate with D-Wave's Solver API.
 - [dwave_neal](https://github.com/dwavesystems/dwave-neal) - Implementation of a simulated annealing sampler.
 - [dwave_networkx](https://github.com/dwavesystems/dwave_networkx) - Exploration and analysis of network graphs.
-- [dwave-system](https://github.com/dwavesystems/dwave-system) - API for easily incorporating D-Wave quantum annealers as samplers in the [Ocean](https://ocean.dwavesys.com/) software stack.
+- [dwave-system](https://github.com/dwavesystems/dwave-system) - API for easily incorporating D-Wave quantum annealers as samplers in the [Ocean](https://docs.dwavequantum.com/) software stack.
 - [embedding_utilities](https://github.com/dwavesystems/dwave_embedding_utilities) - Mapping samples between original and embedded graph.
 - [micro_client_sapi_dimod](https://github.com/dwavesystems/dwave_micro_client_dimod) - [Dimod](https://github.com/dwavesystems/dimod) wrapper for the D-Wave Micro Client.
 - [minorminer](https://github.com/dwavesystems/minorminer) - Heuristic tool for minor graph embedding.
@@ -336,7 +336,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Blackbird](https://github.com/XanaduAI/blackbird) - Open-source quantum instruction language currently used for Xanadu's photonic hardware.
 - [OpenQASM](https://github.com/QISKit/openqasm) - Open-source quantum assembly language.
 - [QMASM](https://github.com/lanl/qmasm) - Quantum macro assembler for D-Wave's quantum annealers.
-- [Quil](https://arxiv.org/abs/1608.03355) - Open hybrid quantum/classical instruction set currently used by Rigetti. [Parser](https://github.com/rigetticomputing/pyquil/tree/master/pyquil/_parser)
+- [Quil](https://arxiv.org/abs/1608.03355) - Open hybrid quantum/classical instruction set currently used by Rigetti. [Parser](https://github.com/Rigetti/pyquil)
 
 ## Quantum control
 
