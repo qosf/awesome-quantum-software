@@ -50,6 +50,9 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [staq](https://github.com/softwareqinc/staq) - Full stack quantum processing toolkit ([arXiv paper](https://arxiv.org/abs/1912.06070)).
 - [XACC](https://github.com/ORNL-QCI/xacc) - Extreme-scale programming model for quantum acceleration within high-performance computing ([arXiv paper](https://arxiv.org/abs/1710.01794)).
 
+**F#**
+- [FSharp.Azure.Quantum](https://github.com/Thorium/FSharp.Azure.Quantum) - Quantum optimization (QAOA) library for .NET with local, topological and Azure Quantum backends.
+
 **OCaml**
 - [QCaml](https://opam.ocaml.org/packages/qcaml/) - Lightweight OCaml library to experiment with quantum states, gates and measurements.
 
