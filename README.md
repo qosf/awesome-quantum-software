@@ -488,6 +488,9 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [zcc-verify](https://github.com/official-dvl/zksf-zcc-verify) - Independent checker for ZCC and ZHF simulation-accuracy certificates, recomputing a declared error bound from the measurement the certificate reports, with no dependencies and no account ([protocol](https://doi.org/10.5281/zenodo.21851381)).
 - [ZXLive](https://github.com/Quantomatic/zxlive) - GUI editor for ZX diagrams.
 
+**Rust**
+- [qcdiff](https://github.com/navneet83/qcdiff) - Semantic diff for OpenQASM 3 circuits reporting gate-level changes between two QASM files, for CI and code review. Available on [crates.io](https://crates.io/crates/qcdiff) and [PyPI](https://pypi.org/project/qcdiff).
+
 **TypeScript**
 - [SpookyIDE](http://github.com/Spooky-Manufacturing/SpookyIDE) - IDE designed for quantum computing.
 
