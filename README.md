@@ -351,6 +351,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 - [Digital Soul](https://github.com/NeuralDreamResearch/DigitalSoul) - Unified platform for CPU, GPU, FPGA, and Quantum Computing.
 - [pennylane-zksf](https://github.com/official-dvl/pennylane-zksf) - PennyLane device for the [ZKSF](https://zksf.org) engines, so existing PennyLane circuits run by naming a different device, with an error bound reported per run.
+- [qang](https://github.com/Viny2030/qang) - Angular (qg) read-out of quantum states with one qubit order across Qiskit, Cirq, PennyLane, Braket and pytket, plus Hamming-weight filtering.
 - [qiskit-zksf](https://github.com/official-dvl/qiskit-zksf) - Qiskit provider exposing [ZKSF](https://zksf.org) simulation engines and quantum hardware as backends, so existing circuits run by naming a different backend.
 - [scikit-quant](https://github.com/scikit-quant/scikit-quant) - This is a package to improve interoperability between different quantum computer software packages.
 
