@@ -59,7 +59,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Braket](https://github.com/amazon-braket/amazon-braket-sdk-python) - [Amazon's](https://aws.amazon.com/braket/) fully managed quantum computing service for building quantum algorithms.
 - [Cirq](https://github.com/quantumlib/Cirq) - Framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.
 - [CUDA-Q](https://github.com/NVIDIA/cuda-quantum) - Platform for accelerated quantum-classical applications on GPUs, CPUs and QPUs.
-- [Forest](https://github.com/rigetticomputing/pyquil) - [Rigetti](https://www.rigetti.com/)'s software library for writing, simulating, compiling and executing quantum programs.
+- [Forest](https://github.com/rigetti/pyquil) - [Rigetti](https://www.rigetti.com/)'s software library for writing, simulating, compiling and executing quantum programs.
 - [hybridlane](https://github.com/pnnl/hybridlane) - Full-stack library for mixed-variable (CV-DV) quantum programming across simulators and hardware within PennyLane.
 - [Ket](https://quantumket.org) - Embedded programming language that introduces the ease of Python to quantum programming.
 - [Ocean](https://github.com/dwavesystems/dwave-ocean-sdk) - [D-Wave System](https://www.dwavesys.com/home)'s suite of tools for solving hard problems with quantum computers.
@@ -86,7 +86,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Q#](https://www.microsoft.com/en-us/quantum/development-kit) - Microsoft's quantum programming language with Visual Studio integration.
 
 **Rust**
-- [LIFT](https://github.com/rustnew/Lift) - Unified compiler framework for AI and quantum computing: a single SSA intermediate representation for tensor ops, quantum gates, and classical-quantum hybrids, with 13 optimisation passes, O0-O3 pipelines, noise-aware scheduling, cost modelling, and LLVM IR / ONNX / OpenQASM 3.0 backends. Published on [crates.io](https://crates.io/crates/lift-core) ([docs](https://docs.rs/lift-core)).
+- [LIFT](https://github.com/rustnew/Lift) - Unified compiler framework for AI and quantum computing: a single SSA intermediate representation for tensor ops, quantum gates, and classical-quantum hybrids, with 13 optimisation passes, O0-O3 pipelines, noise-aware scheduling, cost modelling, and LLVM IR / ONNX / OpenQASM 3.0 backends. Published on [docs.rs](https://docs.rs/lift-core).
 
 **Silq**
 - [Silq](https://silq.ethz.ch/) - Silq is a high-level quantum programming language with safe uncomputation and intuitive semantics.
@@ -125,7 +125,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 
 **F#**
-- [Liqui|>](http://stationq.github.io/Liquid/) - Toolsuite for quantum simulation developed by [Microsoft QuArC](https://www.microsoft.com/en-us/research/group/quantum-architectures-and-computation-group-quarc/).
+- [Liqui|>](http://stationq.github.io/Liquid/) - Toolsuite for quantum simulation developed by [Microsoft Quantum](https://www.microsoft.com/en-us/research/research-area/quantum-computing/).
 
 **GoLang**
 - [Q](https://github.com/itsubaki/q) - Quantum Computation Simulator written purely in GoLang.
@@ -176,7 +176,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [QuForge](https://github.com/tiago939/QuForge) - Python package for qudit simulation.
 - [quimb](https://github.com/jcmgray/quimb) - Easy but fast python library for quantum information and many-body calculations, including with tensor networks.
 - [scpn-quantum-control](https://github.com/anulum/scpn-quantum-control) - Quantum simulation of coupled Kuramoto-XY oscillators on IBM hardware, with Rust-accelerated Hamiltonian construction, synchronisation witnesses, and Lindblad open-system dynamics.
-- [Quintuple](https://github.com/corbett/QuantumComputing) - Simulating the 5-qubit processor of the [IBM Quantum Experience](https://quantumexperience.ng.bluemix.net/qx/experience).
+- [Quintuple](https://github.com/corbett/QuantumComputing) - Simulating the 5-qubit processor of the [IBM Quantum Platform](https://quantum.ibm.com/).
 - [QuPy](https://github.com/ken-nakanishi/qupy) - Quantum circuit simulator for both CPU and GPU.
 - [QuSpin](https://github.com/weinbe58/QuSpin) - Exact diagonalization and dynamics of arbitrary boson, fermion and spin many-body systems.
 - [QuTiP](http://qutip.org/) - User-friendly and efficient numerical simulations of a wide variety of open quantum systems.
@@ -222,7 +222,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [dwave-cloud-client](https://github.com/dwavesystems/dwave-cloud-client) - Min. implementation of the REST interface to communicate with D-Wave's Solver API.
 - [dwave_neal](https://github.com/dwavesystems/dwave-neal) - Implementation of a simulated annealing sampler.
 - [dwave_networkx](https://github.com/dwavesystems/dwave_networkx) - Exploration and analysis of network graphs.
-- [dwave-system](https://github.com/dwavesystems/dwave-system) - API for easily incorporating D-Wave quantum annealers as samplers in the [Ocean](https://ocean.dwavesys.com/) software stack.
+- [dwave-system](https://github.com/dwavesystems/dwave-system) - API for easily incorporating D-Wave quantum annealers as samplers in the [Ocean](https://docs.ocean.dwavesys.com/) software stack.
 - [embedding_utilities](https://github.com/dwavesystems/dwave_embedding_utilities) - Mapping samples between original and embedded graph.
 - [micro_client_sapi_dimod](https://github.com/dwavesystems/dwave_micro_client_dimod) - [Dimod](https://github.com/dwavesystems/dimod) wrapper for the D-Wave Micro Client.
 - [minorminer](https://github.com/dwavesystems/minorminer) - Heuristic tool for minor graph embedding.
@@ -252,7 +252,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Arline Quantum](https://github.com/ArlineQ/arline_quantum) - Library with implementation of quantum gates and hardware, a part of [Arline Benchmarks](https://github.com/ArlineQ/arline_benchmarks) project.
 - [Boson Sampling](https://github.com/IffTech/Boson-Sampling) - Library to calculate interferometer output probabilities given Fock state inputs to help better understand [Aaronson-Arkhipov Boson Sampling arXiv:1011.3245 [quant-ph]](https://arxiv.org/abs/1011.3245)
 - [FermiLib](https://github.com/ProjectQ-Framework/FermiLib) - Software for analyzing fermionic quantum simulation algorithms with [ProjectQ](https://github.com/ProjectQ-Framework/ProjectQ).
-- [Grove](https://github.com/rigetticomputing/grove) - Quantum algorithms implemented using [Rigetti](https://www.rigetti.com/)'s [pyQuil](https://github.com/rigetticomputing/pyquil).
+- [Grove](https://github.com/rigetti/grove) - Quantum algorithms implemented using [Rigetti](https://www.rigetti.com/)'s [pyQuil](https://github.com/rigetti/pyquil).
 - [G/SG Morph](https://github.com/IffTech/GSG-Morph) - Quantum annealing algorithms for Graph/Subgraph Isomorphism based on [Calude et al.'s paper "QUBO formulations for the graph isomorphism problem and related problems" 10.1016/j.tcs.2017.04.016](https://doi.org/10.1016/j.tcs.2017.04.016)
 - [MQT QAO](https://github.com/cda-tum/mqt-qao) - Automatic Framework for Solving Optimization Problems with Quantum Computers available via the [`mqt.qao`](https://pypi.org/p/mqt.qao) Python package.
 - [MQT QUBOMaker](https://github.com/cda-tum/mqt-qubomaker) - Automated QUBO formulation for optimization and pathfinding problems offering multiple encodings. Available via the [`mqt.qubomaker`](https://pypi.org/p/mqt.qubomaker) Python package.
@@ -318,7 +318,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [UCC](https://github.com/unitaryfoundation/ucc/) - Unitary Compiler Collection: frontend-agnostic open-source quantum compiler developed by Unitary Foundation.
 
 **Rust**
-- [LIFT](https://github.com/rustnew/Lift) - Unified compiler framework for AI and quantum computing; its quantum front covers gate decomposition, noise-aware scheduling, qubit layout mapping, real qubit routing (SWAP + BFS), and OpenQASM 3.0 export. Published on [crates.io](https://crates.io/crates/lift-core).
+- [LIFT](https://github.com/rustnew/Lift) - Unified compiler framework for AI and quantum computing; its quantum front covers gate decomposition, noise-aware scheduling, qubit layout mapping, real qubit routing (SWAP + BFS), and OpenQASM 3.0 export. Published on [docs.rs](https://docs.rs/lift-core).
 - [TKET2](https://github.com/CQCL/tket2) - Rewrite based toolkit for optimization of quantum programs (version 2 of the [TKET](https://github.com/CQCL/tket) quantum compiler).
 
 **Common Lisp**
@@ -336,7 +336,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Blackbird](https://github.com/XanaduAI/blackbird) - Open-source quantum instruction language currently used for Xanadu's photonic hardware.
 - [OpenQASM](https://github.com/QISKit/openqasm) - Open-source quantum assembly language.
 - [QMASM](https://github.com/lanl/qmasm) - Quantum macro assembler for D-Wave's quantum annealers.
-- [Quil](https://arxiv.org/abs/1608.03355) - Open hybrid quantum/classical instruction set currently used by Rigetti. [Parser](https://github.com/rigetticomputing/pyquil/tree/master/pyquil/_parser)
+- [Quil](https://arxiv.org/abs/1608.03355) - Open hybrid quantum/classical instruction set currently used by Rigetti. [Parser](https://github.com/rigetti/pyquil)
 
 ## Quantum control
 
@@ -436,8 +436,8 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [SudoQ](https://github.com/subwayHareArmy/SudoQ) - Sudoku solver that leverages a D-Wave Quantum Annealer.
 
 **Python & JavaScript**
-- [Quantum Music Composer for IBM Q](https://github.com/JavaFXpert/quantum-toy-piano-ibmq) - Compose and perform quantum music with IBM Q.
-- [Quantum Music Composer for Rigetti](https://github.com/JavaFXpert/quantum-toy-piano) - Compose and perform quantum music with Rigetti's Forest.
+- [Quantum Music Playground](https://github.com/JavaFXpert/quantum-music-playground) - Compose and perform quantum music with IBM Q.
+- [Quantum Music Playground](https://github.com/JavaFXpert/quantum-music-playground) - Compose and perform quantum music with Rigetti's Forest.
 
 **JavaScript**
 - [Quantum Game with Photons](https://github.com/stared/quantum-game) - Puzzle game in browser, with polarization, superposition, and measurement.
@@ -521,7 +521,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Qiskit-JS](https://github.com/Qiskit/qiskit-js) - [Quantum information software kit](https://qiskit.org/) for JavaScript (supported by IBM).
 - [QOCS](https://github.com/dillanchang/QOCS) - Quantum OCaml Circuit Simulator is a functional approach to simulating quantum gates.
 - [QuantumUtils](https://github.com/QuantumUtils/quantum-utils-mathematica) - Tools for quantum control, simulation, channel representation conversion, and perturbations.
-- [Quantum Virtual Machine](https://github.com/rigetticomputing/reference-qvm) - Reference implementation of Rigetti's Quantum Virtual Machine.
+- [Quantum Virtual Machine](https://github.com/rigetti/reference-qvm) - Reference implementation of Rigetti's Quantum Virtual Machine.
 - [Quince](https://github.com/BBN-Q/Quince) - Node-based GUI that allows for graphical configuration of qubit experiments in Auspex.
 - [Quipper](https://github.com/thephoeron/quipper-language) - Scalable functional programming language for quantum computing based on [Quantum Lambda Calculus](https://arxiv.org/abs/cs/0404056).
 - [QuSim](https://github.com/adamisntdead/QuSimPy) - Ideal noise-free multi-qubit simulator written in 150 lines of code.
