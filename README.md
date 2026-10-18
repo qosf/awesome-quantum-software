@@ -489,6 +489,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [ZXLive](https://github.com/Quantomatic/zxlive) - GUI editor for ZX diagrams.
 
 **TypeScript**
+- [QisPlay](https://github.com/kriss-u/QisPlay) - Browser-based Python and Qiskit playground with an editor, console and plots, with no install or account needed. Hosted at https://qisplay.nepcodex.com, with starter labs in [qisplay-templates](https://github.com/kriss-u/qisplay-templates).
 - [SpookyIDE](http://github.com/Spooky-Manufacturing/SpookyIDE) - IDE designed for quantum computing.
 
 
