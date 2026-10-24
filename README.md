@@ -259,6 +259,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [OpenFermion](https://github.com/quantumlib/OpenFermion) - Compiling and analyzing quantum algorithm for quantum chemistry simulations.
 - [OpenQAOA](https://github.com/entropicalabs/openqaoa) - Multi-backend SDK to create, customise and execute QAOA on NISQ devices and simulators.
 - [Paddle Quantum](https://github.com/PaddlePaddle/Quantum) - Quantum machine learning platform to construct & train quantum neural networks, developed by Baidu.
+- [PyQit](https://github.com/phoeenniixx/pyQit) - Quantum machine learning framework built on PennyLane, with a [Lightning](https://lightning.ai/docs/)-style Trainer/DataModule/Model API, with everything needed to run experiments and benchmarks end to end.
 - [PyZFS](https://github.com/hema-ted/pyzfs) - Package to compute zero-field-splitting tensors for molecules and spin quantum bits in semiconductors.
 - [QFog](https://github.com/artiste-qb-net/quantum-fog) - Framework for analyzing both classical and quantum Bayesian Networks.
 - [QGrad](https://github.com/qgrad/qgrad) - Library to integrate automatic differentiation tools such as JAX with QuTiP and related quantum software packages.
