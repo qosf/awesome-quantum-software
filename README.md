@@ -80,6 +80,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Strawberry Fields](https://github.com/xanaduai/strawberryfields) - [Xanadu](https://www.xanadu.ai)'s software library for photonic quantum computing.
 - [Tangelo](https://github.com/goodchemistryco/Tangelo) and [Tangelo-Examples](https://github.com/goodchemistryco/Tangelo-Examples/) - Toolkit for quantum chemistry simulation workflows on quantum computers, maintained by [SandboxAQ](https://www.sandboxaq.com/).
 - [TensorCircuit](https://github.com/tencent-quantum-lab/tensorcircuit) - Tensor network based quantum software framework for the NISQ era.
+- [ZEPHIRUM (ZYQL)](https://github.com/SerenaSolutions/zephirum-lang) - Trivalent quantum programming language with sealed receipts (SHA3-256): REFUSED is a first-class verdict for barren plateaus, decoherence and adversarial protocols; pure-Python kernel with QML, ZNE and tensor-network backends.
 - [Tequila](https://github.com/aspuru-guzik-group/tequila) - Extensible Quantum Information and Learning Architecture developed by Alan Aspuru-Guzik's group (UofT).
 - [ZEPHIRUM](https://github.com/SerenaSolutions/zephirum-lang) - Quantum programming language with a trivalent decision core (ZYQL: every decision is `1`/`0`/`REFUSED`) and sealed SHA3-256 receipts; statevector kernel, OpenQASM 3 transpiler; verified on IBM Heron hardware with citable job IDs ([DOI](https://doi.org/10.5281/zenodo.23302046)).
 
