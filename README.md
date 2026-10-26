@@ -153,6 +153,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [QuantumToolbox.jl](https://github.com/qutip/QuantumToolbox.jl) - High-performance, GPU-ready and autodiff-friendly simulations of open quantum systems.
 - [RandomQuantum.jl](https://github.com/BBN-Q/RandomQuantum.jl) - Package for generating random quantum states and processes.
 - [SmoQ.jl](https://github.com/MarcinPlodzien/SmoQ.jl) - Matrix-free simulation of pure and mixed quantum states.
+- [TensorMixedStates.jl](https://github.com/jerhoud/TensorMixedStates.jl) - Simulation of closed and open quantum systems, pure and mixed states, using matrix product states.
 - [Yao.jl](https://github.com/QuantumBFS/Yao.jl) - Extensible, Efficient Quantum Algorithm Design for Humans.
 
 **Python**
