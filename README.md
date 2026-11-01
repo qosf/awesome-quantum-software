@@ -457,7 +457,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [MQT QuSAT](https://github.com/cda-tum/mqt-qusat) - Encoding and equivalence checking of Clifford circuits using satisfiablity testing (SAT).
 
 **Java**
-- [PlankDB](https://github.com/swampus/plank-db) – A Spring Boot key-value store with Grover-powered quantum search via IBM Qiskit. Clean Architecture, REST API, classical + quantum modes supported.
+- [PlankDB](https://github.com/swampus/plank-db) - Experimental Java/Qiskit quantum database featuring Grover search, reversible predicate-compiled oracles, persistent circuit caching, and interactive Aer simulation demos.
 
 **Mathematica**
 - [Quantum](http://homepage.cem.itesm.mx/lgomez/quantum/) - Free Mathematica add-on for Dirac Bra-Ket Notation, Quantum Algebra, Quantum Computing and the QHD approximation to the Heisenberg Equations of Motion.
