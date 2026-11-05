@@ -191,6 +191,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [gdsfactory](https://gdsfactory.github.io/gdsfactory/) and [plugins](https://gdsfactory.github.io/gplugins) - Open Source Python library designed for crafting chips (Photonics, Analog, Quantum, MEMs, and more), 3D printed objects, and PCBs. Plugins for Simulating Analog, RF, and Photonics circuits.
 
 **Rust**
+- [PRISM-Q](https://github.com/AbeCoull/prism-q) - Quantum circuit simulator that picks a stabilizer, statevector, sparse or MPS backend for each circuit. Reads OpenQASM 3.0 and runs on CPU, CUDA and MPI, with Python bindings ([docs](https://abecoull.github.io/prism-q/)).
 - [QCGPU](https://github.com/QCGPU/qcgpu-rust) - High-performance GPU-accelerated quantum computer simulation outlined in this [arXiv paper](https://arxiv.org/pdf/1805.00988.pdf).
 - [Quriust](https://github.com/ScipioneParmigiano/quriust) - A blazing fast Rust library for simulating quantum circuits. Only for quriust ones.
 - [RustQIP](https://github.com/Renmusxd/RustQIP) - Rust Quantum Computing library leveraging graph building to build efficient quantum circuit simulations.
