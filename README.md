@@ -364,6 +364,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 **Python**
 - [autoq-qec](https://github.com/Ronaldoengenhariadacomputacao/autoq-qec) - Multi-code fault-tolerant QEC resource estimator for arbitrary Qiskit circuits (Surface Code, Floquet Code, Bacon-Shor, Steane).
+- [backlog](https://github.com/jcedrik/backlog) - Real-time Union-Find decoder for surface codes (correlated, streaming and parallel windows), with Stim and sinter integration. Available via the [`backlog-qec`](https://pypi.org/p/backlog-qec) Python package.
 - [Chromobius](https://github.com/quantumlib/chromobius) - Python implementation of a "mobius decoder" for color codes used in quantum error correction.
 - [MQT QECC](https://github.com/cda-tum/mqt-qecc) - Synthesis of fault-tolerant circuits. Decoders. Automatic Application of error correcting codes. Available via the [`mqt.qecc`](https://pypi.org/p/mqt.qecc) Python package.
 - [PyMatching](https://github.com/oscarhiggott/PyMatching) - Python package for decoding quantum error correcting codes with minimum-weight perfect matching.
