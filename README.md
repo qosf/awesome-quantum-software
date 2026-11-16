@@ -497,6 +497,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 ## Quantum data
 
+- [Error Correction Zoo](https://github.com/errorcorrectionzoo/eczoo_data) - Open YAML data for over 1,000 classical and quantum error-correcting codes and their relations.
 - [QDataSet](https://github.com/eperrier/QDataSet) - Quantum datasets for the training and development of QML algorithms.
 - [QuPrep](https://github.com/quprep/quprep) - Classical-to-quantum data encoding and preprocessing library for quantum machine learning.
 
