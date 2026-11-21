@@ -91,6 +91,9 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 **Silq**
 - [Silq](https://silq.ethz.ch/) - Silq is a high-level quantum programming language with safe uncomputation and intuitive semantics.
 
+**Qasmith**
+- [Qasmith](https://github.com/quvly/Qasmith) - High-level quantum programming language with reusable modules and packages, OpenQASM 3.0 compilation, a local statevector simulator, and VS Code tooling.
+
 ## Quantum simulators
 
 **Assembly**
